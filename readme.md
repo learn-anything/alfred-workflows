@@ -9,6 +9,7 @@ Pull requests are welcome. Thank you. 💙
 
 - [alfred workflows](https://github.com/zenorocha/alfred-workflows)
 - [alfred workflows for developers](https://github.com/willfarrell/alfred-workflows)
+- [alfred workflows by Vitor](https://github.com/vitorgalvao/alfred-workflows)
 
 # Workflows
 
