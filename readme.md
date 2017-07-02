@@ -1,4 +1,16 @@
-# Free Alfred Workflows all can use 🎩
+<h1 align="center"> Free Alfred Workflows all can use 🎩 </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/alfred-workflows/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+# Description 
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting [alfred workflows](https://www.alfredapp.com/workflows/) one can use to learn new things and discover new insights faster. 🔭
 
@@ -11,7 +23,9 @@ Pull requests are welcome. Thank you. 💙
 - [alfred workflows for developers](https://github.com/willfarrell/alfred-workflows)
 - [alfred workflows by Vitor](https://github.com/vitorgalvao/alfred-workflows)
 
+
 # Workflows
+
 
 # productivity
 
