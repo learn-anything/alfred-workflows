@@ -93,10 +93,6 @@ Pull requests are welcome. Thank you. 💙
 
 - allows you to create many of web's submission from Alfred
 
-
-- [ask create share 🐙](https://github.com/nikitavoloboev/alfred-ask-create-share)
-
-
 <h1 align="center"> Productivity </h1>
 
 - [pocket](https://github.com/fniephaus/alfred-pocket)
