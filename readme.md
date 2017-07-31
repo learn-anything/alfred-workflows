@@ -91,23 +91,24 @@ Pull requests are welcome. Thank you. 💙
 
 <h2 align="center"><a href="https://github.com/nikitavoloboev/alfred-ask-create-share"> Ask Create Share </a></h2>
 
-<p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/media/demo.gif" alt="img" width="600"></p>
-
 - create many of web's submission from Alfred
 
-<h2 align="center"><a href="(https://github.com/deanishe/alfred-ssh"> Secure Shell </a></h2>
+<p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/media/demo.gif" alt="img" width="600"></p>
+
+
+<h2 align="center"><a href="https://github.com/deanishe/alfred-ssh"> Secure Shell </a></h2>
 
 - open SSH/SFTP/mosh connections from Alfred
 
 <p align="center"><img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" alt="img" width="600"></p>
 
-<h2 align="center"><a href="(https://github.com/madvas/alfred-iterm-sessions"> iTerm sessions </a></h2>
+<h2 align="center"><a href="https://github.com/madvas/alfred-iterm-sessions"> iTerm sessions </a></h2>
 
 - quickly switch between active iTerm sessions
 
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/3857155/7489394/8920240e-f3d6-11e4-858b-e01216bb599a.gif" alt="img" width="600"></p>
 
-<h2 align="center"><a href="(https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/"> Upload Files </a></h2>
+<h2 align="center"><a href="https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/"> Upload Files </a></h2>
 
 - quickly upload local files to share with [transfer.sh](transfer.sh)
 
@@ -205,39 +206,39 @@ Pull requests are welcome. Thank you. 💙
 
 - [flat ui colours 🐙](https://github.com/mi-ca/alfredapp_flatuicolors_workflow)
 
-<h2 align="center"><a href="(https://github.com/mi-ca/alfredapp_flatuicolors_workflow"> Flat UI Colours </a></h2>
+<h2 align="center"><a href="https://github.com/mi-ca/alfredapp_flatuicolors_workflow"> Flat UI Colours </a></h2>
 
 - get flat colour hexa codes from [flatuicolors.com](flatuicolors.com)
 
 
 <h1 align="center"> Utilities Workflows</h1>
 
-<h2 align="center"><a href="(https://github.com/deanishe/alfred-pwgen"> Alfred Pwgen </a></h2>
+<h2 align="center"><a href="https://github.com/deanishe/alfred-pwgen"> Alfred Pwgen </a></h2>
 
 - generate secure passwords from Alfred
 
 
-<h2 align="center"><a href="(https://github.com/deanishe/alfred-similar-image-search"> Google Similar Images </a></h2>
+<h2 align="center"><a href="https://github.com/deanishe/alfred-similar-image-search"> Google Similar Images </a></h2>
 
 - Google image searches based on local files
 
 <h1 align="center"> Social Workflows</h1>
 
-<h2 align="center"><a href="(https://github.com/Jamesits/alfred-workflow-telegram">Telegram </a></h2>
+<h2 align="center"><a href="https://github.com/Jamesits/alfred-workflow-telegram">Telegram </a></h2>
 
 - search for stickers and quickly operate Telegram from Alfred
 
 <h1 align="center"> Translation Workflows</h1>
 
 
-<h2 align="center"><a href="(https://github.com/podgorniy/alfred-translate"> Translate ru-en en-ru </a></h2>
+<h2 align="center"><a href="https://github.com/podgorniy/alfred-translate"> Translate ru-en en-ru </a></h2>
 
 - quickly translate from russion > english and vice versa
 
 
 <h1 align="center">  Alfred Help Workflows</h1>
 
-<h2 align="center"><a href="(https://github.com/jmjeong/alfred-extension"> Manage Alfred </a></h2>
+<h2 align="center"><a href="https://github.com/jmjeong/alfred-extension"> Manage Alfred </a></h2>
 
 - quckly open any Alfred Workflow directory in your terminal
 
