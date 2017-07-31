@@ -33,12 +33,19 @@ Pull requests are welcome. Thank you. 💙
 
 <p align="center"><img src="http://i.imgur.com/gFrvSOr.gif" alt="img" width="600"></p>
 
+<h2 align="center"><a href="https://github.com/vdesabou/alfred-spotify-mini-player"> Spotify Mini Player </a></h2>
+
+- allows you to fully control Spotify from Alfred
+
+<p align="center"><img src="media/spotify.gif" alt="img" width="600"></p>
+
 <h2 align="center"><a href="media/dash.gif"> Dash </a></h2>
 
 - allows you to very quickly search through any docset that you have downloaded
 - you can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://www.dropbox.com/s/ajcimkk47ikwimv/dash.alfredworkflow?dl=1))
 
 <p align="center"><img src="http://i.imgur.com/SPidjcH.gif" alt="img" width="600"></p>
+
 
 <h2 align="center"><a href="media/safari-assistant.gif"> GitHub Jump </a></h2>
 
@@ -50,21 +57,51 @@ Pull requests are welcome. Thank you. 💙
 
 <p align="center"><img src="http://i.imgur.com/dSLzBuk.gif" alt="img" width="600"></p>
 
+<h2 align="center"><a href="http://units.dnsu.ch"> Units </a></h2>
+
+- allows you to do quick unit conversions 
+
+<p align="center"><img src="media/units.gif" alt="img" width="600"></p>
+
+
+<h2 align="center"><a href="https://github.com/zhaocai/alfred2-keylue-workflow"> Key Clue </a></h2>
+
+- allows you to search through currently active app's menu bar quickly from Alfred
+
+
+<h2 align="center"><a href="https://github.com/zhaocai/https://github.com/nathangreenstein/alfred-process-killer"> Kill Processes </a></h2>
+
+- allows you to search through currently active processes and kill ones that are misbehaving quickly
+
+<h2 align="center"><a href="https://github.com/deanishe/alfred-mailto"> Mailto </a></h2>
+
+- allows you to search through your contact list to send emails to one or multiple people
+
+<h2 align="center"><a href="https://github.com/bevesce/unicode-symbols-search"> Symbols Search </a></h2> 
+
+- allows you to quickly search through all the unicode symbols
+
+<h2 align="center"><a href="https://github.com/ddjfreedom/recent-downloads-alfred-v2"> Recent Downloads </a></h2>
+
+- allows you to browse through your Downloads directory or any other directory you specify from Alfred 
+
+<h2 align="center"><a href="https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/"> Eggtimer </a></h2>
+
+- allows you to quickly set timers to notify you of things 
+
+<h2 align="center"><a href="https://github.com/nikitavoloboev/alfred-ask-create-share"> Ask Create Share </a></h2>
+
+- allows you to create many of web's submission from Alfred
+
+
+- [ask create share 🐙](https://github.com/nikitavoloboev/alfred-ask-create-share)
+
 
 <h1 align="center"> Productivity </h1>
 
-
-- [pocket for alfred 🐙](https://github.com/fniephaus/alfred-pocket)
-
-- [kill processes 🐙](https://github.com/ngreenstein/alfred-process-killer)
-
-- [key clue 🐙](https://github.com/zhaocai/alfred2-keylue-workflow)
+- [pocket](https://github.com/fniephaus/alfred-pocket)
 
 - [toggl 🐙](https://github.com/jason0x43/alfred-toggl)
-
-- [mailto 🐙](https://github.com/deanishe/alfred-mailto)
-
-- [symbols search 🐙](https://github.com/bevesce/unicode-symbols-search)
 
 - [web screenshot](https://www.alfredforum.com/topic/8385-webscreenshot-%E2%80%94-take-screenshots-directly-to-the-web/)
 
@@ -78,11 +115,7 @@ Pull requests are welcome. Thank you. 💙
 
 - [uninstall with clean my mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3)
 
-- [recent downloads 🐙](https://github.com/ddjfreedom/recent-downloads-alfred-v2)
-
 - [notes 🐙](https://github.com/surrealroad/alfred-notes)
-
-- [eggtimer](http://www.packal.org/workflow/eggtimer-2)
 
 
 <h1 align="center"> Writing </h1>
@@ -95,14 +128,6 @@ Pull requests are welcome. Thank you. 💙
 
 
 - [dark mode 🐙](https://github.com/sindresorhus/alfred-dark-mode)
-
-
-<h1 align="center"> Music </h1>
-
-
-
-
-- [spotify mini player 🐙](https://github.com/vdesabou/alfred-spotify-mini-player)
 
 
 <h1 align="center"> Code </h1>
@@ -121,7 +146,6 @@ Pull requests are welcome. Thank you. 💙
 
 - [hastebin 🐙](https://github.com/jvandyke/alfred-hastebin)
 
-- [dash 🐙](https://github.com/Kapeli/Dash-Alfred-Workflow)
 
 - [gist 🐙](https://github.com/danielecook/gist-alfred)
 
@@ -131,18 +155,6 @@ Pull requests are welcome. Thank you. 💙
 
 
 <h1 align="center">Web</h1>
-
-
-- [searchio 🐙](https://github.com/deanishe/alfred-searchio)
-  auto-suggest search results from multiple search engines and languages
-
-- [safari assistant](https://git.deanishe.net/deanishe/alfred-safari-assistant)
-  safari bookmarks and tabs
-
-- [github jump 🐙](https://github.com/lox/alfred-github-jump)
-  quickly jump to a github repository page
-
-- [ask create share 🐙](https://github.com/nikitavoloboev/alfred-ask-create-share)
 
 - [downvid](http://www.packal.org/workflow/downvid)
 
