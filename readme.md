@@ -19,6 +19,7 @@ Pull requests are welcome. Thank you. 💙
 
 #### Related websites / repositories 
 
+- [awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
 - [alfred workflows](https://github.com/zenorocha/alfred-workflows)
 - [alfred workflows for developers](https://github.com/willfarrell/alfred-workflows)
 - [alfred workflows by Vitor](https://github.com/vitorgalvao/alfred-workflows)
