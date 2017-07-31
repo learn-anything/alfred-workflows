@@ -27,20 +27,20 @@ Pull requests are welcome. Thank you. 💙
 
 <h1 align="center"> Essential Workflows</h1>
 
-<h2 align="center"><a href="https://github.com/deanishe/alfred-searchio"> Searchio </a></h2>
+<h2 align="center"><a href="media/searchio.gif"> Searchio </a></h2>
 
 - allows you to quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type. 
 
 <p align="center"><img src="http://i.imgur.com/gFrvSOr.gif" alt="img" width="600"></p>
 
-<h2 align="center"><a href="https://github.com/Kapeli/Dash-Alfred-Workflow"> Dash </a></h2>
+<h2 align="center"><a href="media/dash.gif"> Dash </a></h2>
 
 - allows you to very quickly search through any docset that you have downloaded
 - you can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://www.dropbox.com/s/ajcimkk47ikwimv/dash.alfredworkflow?dl=1))
 
 <p align="center"><img src="http://i.imgur.com/SPidjcH.gif" alt="img" width="600"></p>
 
-<h2 align="center"><a href="https://github.com/lox/alfred-github-jump"> GitHub Jump </a></h2>
+<h2 align="center"><a href="media/safari-assistant.gif"> GitHub Jump </a></h2>
 
 - saves all your starred repositories to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
 
