@@ -91,10 +91,18 @@ Pull requests are welcome. Thank you. 💙
 
 <h2 align="center"><a href="https://github.com/nikitavoloboev/alfred-ask-create-share"> Ask Create Share </a></h2>
 
+<p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/media/demo.gif" alt="img" width="600"></p>
+
 - create many of web's submission from Alfred
 
+<h2 align="center"><a href="(https://github.com/deanishe/alfred-ssh"> Secure Shell </a></h2>
 
-<h1 align="center"> Productivity </h1>
+- open SSH/SFTP/mosh connections from Alfred
+
+<p align="center"><img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" alt="img" width="600"></p>
+
+
+<h1 align="center"> Productivity Workflows</h1>
 
 <h2 align="center"> <a href="https://github.com/fniephaus/alfred-pocket">Pocket</a> </h2>
 
@@ -126,7 +134,6 @@ Pull requests are welcome. Thank you. 💙
 
 - freeze keyboard input for some time to clean your keyboard
 
-- [uninstall with clean my mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3)
 
 <h2 align="center"> <a href="http://www.packal.org/workflow/uninstall-cleanmymac-3"> Uninstall with Clean my Mac 3 </a> </h2>
 
@@ -156,11 +163,13 @@ Pull requests are welcome. Thank you. 💙
 
 - search for npm packages with [npms.io](https://npms.io)
 
-- [pod search 🐙](https://github.com/BenchR267/Pod-Search-Alfred)
+<h2 align="center"> <a href="https://github.com/BenchR267/Pod-Search-Alfred"> Pod Search </a> </h2>
 
-- [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html)
+- search through [Cocoapods](https://cocoapods.org) 
 
-- [secure shell 🐙](https://github.com/deanishe/alfred-ssh)
+<h2 align="center"> <a href="https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html"> SnippetsLab </a> </h2>
+
+- Alfred integration for [SnippetsLab](https://www.renfei.org/snippets-lab/) app
 
 - [iTerm sessions 🐙](https://github.com/madvas/alfred-iterm-sessions)
 
