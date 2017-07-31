@@ -112,6 +112,15 @@ Pull requests are welcome. Thank you. 💙
 
 - quickly upload local files to share with [transfer.sh](transfer.sh)
 
+<h2 align="center"><a href="https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/">DownVid </a></h2>
+
+- download videos from a [plethora of video sources](https://rg3.github.io/youtube-dl/supportedsites.html), even when embedded to other pages
+
+
+<h2 align="center"><a href="https://github.com/jvandyke/alfred-hastebin">Hastebin </a></h2>
+
+- create [Hastebin](https://hastebin.com) snippet from selected text
+
 <h1 align="center"> Productivity Workflows</h1>
 
 <h2 align="center"> <a href="https://github.com/fniephaus/alfred-pocket">Pocket</a> </h2>
@@ -182,29 +191,30 @@ Pull requests are welcome. Thank you. 💙
 - Alfred integration for [SnippetsLab](https://www.renfei.org/snippets-lab/) app
 
 
-- [hastebin 🐙](https://github.com/jvandyke/alfred-hastebin)
+<h2 align="center"><a href="https://github.com/danielecook/gist-alfred"> GitHub Gists </a></h2>
+
+- search through GitHub gists from Alfre
+
+<h2 align="center"><a href="https://www.alfredforum.com/topic/1071-unix-man-page-workflow/"> New Terminal Window </a></h2>
+
+- open man pages with name and section filtering
+
+<h2 align="center"><a href="https://github.com/miromannino/alfred-new-terminal-window"> New Terminal Window </a></h2>
+
+- open a new Terminal/iTerm window in the current macOS space
 
 
-- [gist 🐙](https://github.com/danielecook/gist-alfred)
-
-- [man](https://www.alfredforum.com/topic/1071-unix-man-page-workflow/)
-
-- [new terminal window 🐙](https://github.com/miromannino/alfred-new-terminal-window)
+<h1 align="center">Web Workflows</h1>
 
 
-<h1 align="center">Web</h1>
+<h2 align="center"><a href="https://github.com/deanishe/alfred-reddit"> Reddit </a></h2>
 
-- [downvid](http://www.packal.org/workflow/downvid)
+- find subreddits and browse hot posts from [Reddit](http://reddit.com)
 
-- [github 🐙](https://github.com/gharlan/alfred-github-workflow)
-
-- [reddit 🐙](https://github.com/deanishe/alfred-reddit)
+<p align="center"><img src="https://raw.githubusercontent.com/deanishe/alfred-reddit/master/demo.gif" alt="img" width="600"></p>
 
 
-<h1 align="center"> Design </h1>
-
-
-- [flat ui colours 🐙](https://github.com/mi-ca/alfredapp_flatuicolors_workflow)
+<h1 align="center"> Design Workflows</h1>
 
 <h2 align="center"><a href="https://github.com/mi-ca/alfredapp_flatuicolors_workflow"> Flat UI Colours </a></h2>
 
