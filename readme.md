@@ -69,7 +69,7 @@ Pull requests are welcome. Thank you. 💙
 - search through currently active app's menu bar quickly from Alfred
 
 
-<h2 align="center"><a href="https://github.com/zhaocai/https://github.com/nathangreenstein/alfred-process-killer"> Kill Processes </a></h2>
+<h2 align="center"><a href="https://github.com/ngreenstein/alfred-process-killers"> Kill Processes </a></h2>
 
 - search through currently active processes and kill ones that are misbehaving quickly
 
@@ -101,6 +101,15 @@ Pull requests are welcome. Thank you. 💙
 
 <p align="center"><img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" alt="img" width="600"></p>
 
+<h2 align="center"><a href="(https://github.com/madvas/alfred-iterm-sessions"> iTerm sessions </a></h2>
+
+- quickly switch between active iTerm sessions
+
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/3857155/7489394/8920240e-f3d6-11e4-858b-e01216bb599a.gif" alt="img" width="600"></p>
+
+<h2 align="center"><a href="(https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/"> Upload Files </a></h2>
+
+- quickly upload local files to share with [transfer.sh](transfer.sh)
 
 <h1 align="center"> Productivity Workflows</h1>
 
@@ -143,21 +152,21 @@ Pull requests are welcome. Thank you. 💙
 
 - make new notes or search notes from macOS notes app quickly
 
-<h1 align="center"> Writing </h1>
+<h1 align="center"> Writing Workflows</h1>
 
 <h2 align="center"> <a href="https://github.com/robwalton/alfred-ulysses-workflow"> Ulysses </a> </h2>
 
 - search for sheets or groups from [Ulysses](https://ulyssesapp.com/)
 
 
-<h1 align="center"> macOS </h1>
+<h1 align="center"> macOS Workflows </h1>
 
 <h2 align="center"> <a href="https://github.com/sindresorhus/alfred-dark-mode"> Dark Mode </a> </h2>
 
 - quickly toggle menu bar dark mode 
 
 
-<h1 align="center"> Code </h1>
+<h1 align="center"> Programming Workflows </h1>
 
 <h2 align="center"> <a href="https://github.com/sindresorhus/alfred-npms"> Npms </a> </h2>
 
@@ -165,13 +174,12 @@ Pull requests are welcome. Thank you. 💙
 
 <h2 align="center"> <a href="https://github.com/BenchR267/Pod-Search-Alfred"> Pod Search </a> </h2>
 
-- search through [Cocoapods](https://cocoapods.org) 
+- search through [Cocoapods](https://cocoapods.org) with Alfred
 
 <h2 align="center"> <a href="https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html"> SnippetsLab </a> </h2>
 
 - Alfred integration for [SnippetsLab](https://www.renfei.org/snippets-lab/) app
 
-- [iTerm sessions 🐙](https://github.com/madvas/alfred-iterm-sessions)
 
 - [hastebin 🐙](https://github.com/jvandyke/alfred-hastebin)
 
@@ -197,35 +205,40 @@ Pull requests are welcome. Thank you. 💙
 
 - [flat ui colours 🐙](https://github.com/mi-ca/alfredapp_flatuicolors_workflow)
 
+<h2 align="center"><a href="(https://github.com/mi-ca/alfredapp_flatuicolors_workflow"> Flat UI Colours </a></h2>
 
-<h1 align="center"> Utilities </h1>
-
-
-- [alfred pwgen 🐙](https://github.com/deanishe/alfred-pwgen)
+- get flat colour hexa codes from [flatuicolors.com](flatuicolors.com)
 
 
-<h1 align="center"> Utilities </h1>
+<h1 align="center"> Utilities Workflows</h1>
+
+<h2 align="center"><a href="(https://github.com/deanishe/alfred-pwgen"> Alfred Pwgen </a></h2>
+
+- generate secure passwords from Alfred
 
 
-- [google similar images 🐙](https://github.com/deanishe/alfred-similar-image-search)
+<h2 align="center"><a href="(https://github.com/deanishe/alfred-similar-image-search"> Google Similar Images </a></h2>
 
-- [upload file](http://www.packal.org/workflow/uploadfile)
+- Google image searches based on local files
 
+<h1 align="center"> Social Workflows</h1>
 
-<h1 align="center">  Social </h1>
+<h2 align="center"><a href="(https://github.com/Jamesits/alfred-workflow-telegram">Telegram </a></h2>
 
+- search for stickers and quickly operate Telegram from Alfred
 
-- [telegram 🐙](https://github.com/Jamesits/alfred-workflow-telegram)
-
-
-<h1 align="center">  Translate </h1>
-
-
-- [translate ru-en en-ru 🐙](https://github.com/podgorniy/alfred-translate)
+<h1 align="center"> Translation Workflows</h1>
 
 
-<h1 align="center">  Alfred </h1>
+<h2 align="center"><a href="(https://github.com/podgorniy/alfred-translate"> Translate ru-en en-ru </a></h2>
+
+- quickly translate from russion > english and vice versa
 
 
-- [manage alfred extension 🐙](https://github.com/jmjeong/alfred-extension)
+<h1 align="center">  Alfred Help Workflows</h1>
+
+<h2 align="center"><a href="(https://github.com/jmjeong/alfred-extension"> Manage Alfred </a></h2>
+
+- quckly open any Alfred Workflow directory in your terminal
+
 
