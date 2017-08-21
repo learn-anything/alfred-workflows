@@ -193,7 +193,7 @@ Pull requests are welcome. Thank you. 💙
 
 <h2 align="center"><a href="https://github.com/danielecook/gist-alfred"> GitHub Gists </a></h2>
 
-- search through GitHub gists from Alfre
+- search through GitHub gists from Alfred
 
 <h2 align="center"><a href="https://www.alfredforum.com/topic/1071-unix-man-page-workflow/"> New Terminal Window </a></h2>
 
