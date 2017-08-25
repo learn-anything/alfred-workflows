@@ -68,10 +68,18 @@ Pull requests are welcome. Thank you. 💙
 
 - search through currently active app's menu bar quickly from Alfred
 
+<h2 align="center"><a href="https://github.com/nikitavoloboev/alfred-web-searches"> Web Searches </a></h2>
 
-<h2 align="center"><a href="https://github.com/ngreenstein/alfred-process-killers"> Kill Processes </a></h2>
+- search through any website on the web from Alfred
+- the list of websites can be found [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv) and can be easily extended
+
+<p align="center"><img src="media/web-searches.gif" alt="img" width="600"></p>
+
+<h2 align="center"><a href="https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl"> Process Control </a></h2>
 
 - search through currently active processes and kill ones that are misbehaving quickly
+
+<p align="center"><img src="https://camo.githubusercontent.com/78a80d4af16988c37e22b92798cf4208db39e2d5/68747470733a2f2f692e696d6775722e636f6d2f5146643569626a2e706e67" alt="img" width="600"></p>
 
 <h2 align="center"><a href="https://github.com/deanishe/alfred-mailto"> Mailto </a></h2>
 
@@ -120,6 +128,13 @@ Pull requests are welcome. Thank you. 💙
 <h2 align="center"><a href="https://github.com/jvandyke/alfred-hastebin">Hastebin </a></h2>
 
 - create [Hastebin](https://hastebin.com) snippet from selected text
+
+<h2 align="center"><a href="https://github.com/nikitavoloboev/alfred-my-mind">Alfred My Mind </a></h2>
+
+- search through bookmarks, notes and various websites quickly from Alfred
+
+<p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-my-mind/master/media/demo.gif" alt="img" width="600"></p>
+
 
 <h1 align="center"> Productivity Workflows</h1>
 
