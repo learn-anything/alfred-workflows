@@ -233,7 +233,7 @@ Pull requests are welcome. Thank you. 💙
 
 <h2 align="center"><a href="https://github.com/mi-ca/alfredapp_flatuicolors_workflow"> Flat UI Colours </a></h2>
 
-- get flat colour hexa codes from [flatuicolors.com](flatuicolors.com)
+- get flat colour hexa codes from <a href="https://flatuicolors.com">flatuicolors.com</a>
 
 
 <h1 align="center"> Utilities Workflows</h1>
