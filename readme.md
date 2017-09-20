@@ -231,7 +231,7 @@ Pull requests are welcome. Thank you. 💙
 
 <h2 align="center"><a href="https://github.com/mi-ca/alfredapp_flatuicolors_workflow"> Flat UI Colours </a></h2>
 
-- get flat colour hexa codes from [flatuicolors.com](flatuicolors.com)
+- get flat colour hexa codes from <a href="https://flatuicolors.com">flatuicolors.com</a>
 
 
 <h1 align="center"> Utilities Workflows</h1>
@@ -258,6 +258,11 @@ Pull requests are welcome. Thank you. 💙
 
 - quickly translate from russion > english and vice versa
 
+<h2 align="center"><a href="https://github.com/dennis-tra/alfred-dict.cc-workflow">Translate ger-en en-ger + 8 others</a></h2>
+
+- quickly translate from german > english and vice versa (see [repo](https://github.com/dennis-tra/alfred-dict.cc-workflow) for eight more languages)
+
+<p align="center"><img src="https://github.com/dennis-tra/alfred-dict.cc-workflow/blob/master/alfred-dict.cc-example.gif?raw=true" alt="img" width="600"></p>
 
 <h1 align="center">  Alfred Help Workflows</h1>
 
