@@ -110,11 +110,9 @@ Pull requests are welcome. Thank you. 💙
 
 <p align="center"><img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" alt="img" width="600"></p>
 
-<h2 align="center"><a href="https://github.com/madvas/alfred-iterm-sessions"> iTerm sessions </a></h2>
+<h2 align="center"><a href="https://github.com/isometry/alfred-tty"> Alfred tty</a></h2>
 
-- quickly switch between active iTerm sessions
-
-<p align="center"><img src="https://cloud.githubusercontent.com/assets/3857155/7489394/8920240e-f3d6-11e4-858b-e01216bb599a.gif" alt="img" width="600"></p>
+- quickly switch between or close iTerm windows, tabs and panes based on title and tty
 
 <h2 align="center"><a href="https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/"> Upload Files </a></h2>
 
