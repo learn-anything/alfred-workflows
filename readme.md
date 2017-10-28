@@ -1,6 +1,6 @@
 # Free Alfred Workflows all can use 🎩 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 ## Description 📕
-Here is a curated list of all the interesting [alfred workflows](https://www.alfredapp.com/workflows/) one can use to learn new things and discover new insights faster. 🔭
+Here is a curated list of all the interesting [alfred workflows](https://www.alfredapp.com/workflows/) one can use to learn new things and discover new insights faster. 
 
 Pull requests are welcome. Thank you. 💙
 
