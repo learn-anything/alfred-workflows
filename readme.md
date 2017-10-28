@@ -37,51 +37,36 @@ Pull requests are welcome. Thank you. 💙
 - do quick unit conversions 
 <img src="media/units.gif" width="400" alt="img">
 
-<h2 align="center"><a href="https://github.com/zhaocai/alfred2-keylue-workflow"> Key Clue </a></h2>
-
+### [Fast Menu Bar Search](https://www.alfredforum.com/topic/10231-faster-menu-search/?page=2&tab=comments)
 - search through currently active app's menu bar quickly from Alfred
 
-<h2 align="center"><a href="https://github.com/nikitavoloboev/alfred-web-searches"> Web Searches </a></h2>
-
+### [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
 - search through any website on the web from Alfred
 - the list of websites can be found [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv) and can be easily extended
+<img src="media/web-searches.gif" width="400" alt="img">
 
-<p align="center"><img src="media/web-searches.gif" alt="img" width="600"></p>
-
-<h2 align="center"><a href="https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl"> Process Control </a></h2>
-
+### [Process Control](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl)
 - search through currently active processes and kill ones that are misbehaving quickly
-
-<p align="center"><img src="https://camo.githubusercontent.com/78a80d4af16988c37e22b92798cf4208db39e2d5/68747470733a2f2f692e696d6775722e636f6d2f5146643569626a2e706e67" alt="img" width="600"></p>
-
-<h2 align="center"><a href="https://github.com/deanishe/alfred-mailto"> Mailto </a></h2>
-
+<img src="https://camo.githubusercontent.com/78a80d4af16988c37e22b92798cf4208db39e2d5/68747470733a2f2f692e696d6775722e636f6d2f5146643569626a2e706e67" width="400" alt="img">
+### [Mailto](https://github.com/deanishe/alfred-mailto) 
 - search through your contact list to send emails to one or multiple people
 
-<h2 align="center"><a href="https://github.com/bevesce/unicode-symbols-search"> Symbols Search </a></h2> 
-
+### [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search)
 - quickly search through all the unicode symbols
 
-<h2 align="center"><a href="https://github.com/ddjfreedom/recent-downloads-alfred-v2"> Recent Downloads </a></h2>
-
+### [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2)
 - browse through your Downloads directory or any other directory you specify from Alfred 
 
-<h2 align="center"><a href="https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/"> Eggtimer </a></h2>
-
+### [Eggtimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/)
 - quickly set timers to notify you of things 
 
-<h2 align="center"><a href="https://github.com/nikitavoloboev/alfred-ask-create-share"> Ask Create Share </a></h2>
-
+### [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share)
 - create many of web's submission from Alfred
+<img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/media/demo.gif" width="400" alt="img">
 
-<p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/media/demo.gif" alt="img" width="600"></p>
-
-
-<h2 align="center"><a href="https://github.com/deanishe/alfred-ssh"> Secure Shell </a></h2>
-
+### [Secure Shell](https://github.com/deanishe/alfred-ssh)
 - open SSH/SFTP/mosh connections from Alfred
-
-<p align="center"><img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" alt="img" width="600"></p>
+<img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" width="400" alt="img">
 
 <h2 align="center"><a href="https://github.com/isometry/alfred-tty"> Alfred tty</a></h2>
 
