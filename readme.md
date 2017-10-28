@@ -17,19 +17,14 @@ Pull requests are welcome. Thank you. 💙
 - quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type. 
 <img src="media/searchio.gif" width="500" alt="img">
 
-<h2 align="center"><a href="https://github.com/vdesabou/alfred-spotify-mini-player"> Spotify Mini Player </a></h2>
-
+### [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player)
 - fully control Spotify from Alfred
+<img src="media/spotify.gif" width="500" alt="img">
 
-<p align="center"><img src="media/spotify.gif" alt="img" width="600"></p>
-
-<h2 align="center"><a href="https://github.com/Kapeli/Dash-Alfred-Workflow"> Dash </a></h2>
-
+### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
 - very quickly search through any docset that you have downloaded
 - you can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://www.dropbox.com/s/ajcimkk47ikwimv/dash.alfredworkflow?dl=1))
-
-<p align="center"><img src="media/dash.gif" alt="img" width="600"></p>
-
+<img src="media/dash.gif" width="500" alt="img">
 
 <h2 align="center"><a href="https://github.com/lox/alfred-github-jump"> GitHub Jump </a></h2>
 
