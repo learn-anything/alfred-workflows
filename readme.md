@@ -48,6 +48,7 @@ Pull requests are welcome. Thank you. 💙
 ### [Process Control](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl)
 - search through currently active processes and kill ones that are misbehaving quickly
 <img src="https://camo.githubusercontent.com/78a80d4af16988c37e22b92798cf4208db39e2d5/68747470733a2f2f692e696d6775722e636f6d2f5146643569626a2e706e67" width="400" alt="img">
+
 ### [Mailto](https://github.com/deanishe/alfred-mailto) 
 - search through your contact list to send emails to one or multiple people
 
@@ -68,164 +69,98 @@ Pull requests are welcome. Thank you. 💙
 - open SSH/SFTP/mosh connections from Alfred
 <img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" width="400" alt="img">
 
-<h2 align="center"><a href="https://github.com/isometry/alfred-tty"> Alfred tty</a></h2>
-
+### [Alfred tty](https://github.com/isometry/alfred-tty)
 - quickly switch between or close iTerm windows, tabs and panes based on title and tty
 
-<h2 align="center"><a href="https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/"> Upload Files </a></h2>
-
+### [Upload Files ](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/)
 - quickly upload local files to share with [transfer.sh](https://transfer.sh)
 
-<h2 align="center"><a href="https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/">DownVid </a></h2>
-
+### [DownVid](https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/) 
 - download videos from a [plethora of video sources](https://rg3.github.io/youtube-dl/supportedsites.html), even when embedded to other pages
 
-
-<h2 align="center"><a href="https://github.com/jvandyke/alfred-hastebin">Hastebin </a></h2>
-
+### [Hastebin](https://github.com/jvandyke/alfred-hastebin)
 - create [Hastebin](https://hastebin.com) snippet from selected text
 
-<h2 align="center"><a href="https://github.com/nikitavoloboev/alfred-my-mind">Alfred My Mind </a></h2>
-
+### [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
 - search through bookmarks, notes and various websites quickly from Alfred
+<img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-my-mind/master/media/demo.gif" width="400" alt="img">
 
-<p align="center"><img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-my-mind/master/media/demo.gif" alt="img" width="600"></p>
-
-
-<h1 align="center"> Productivity Workflows</h1>
-
-<h2 align="center"> <a href="https://github.com/fniephaus/alfred-pocket">Pocket</a> </h2>
-
-- search through your [Pocket](https://getpocket.com) reading list
-
-<a href="https://github.com/jason0x43/alfred-toggl"></a>
-
-<h2 align="center"> <a href="https://github.com/jason0x43/alfred-toggl">Toggl</a> </h2>
-
+## Productivity Workflows
+### [Toggl](https://github.com/jason0x43/alfred-toggl)
 - operate Toggl from Alfred
 
-<h2 align="center"> <a href="https://www.alfredforum.com/topic/8385-webscreenshot-—-take-screenshots-directly-to-the-web/">Web Screenshot</a> </h2>
-
+### [Web Screenshot](https://www.alfredforum.com/topic/8385-webscreenshot-—-take-screenshots-directly-to-the-web/)
 - take a screenshot, it uploads it to Imgur and gives you a link instantly
 
-<h2 align="center"> <a href="https://github.com/iansinnott/alfred-maestro">Alfred Maestro</a></h2>
-
+### [Alfred Maestro](https://github.com/iansinnott/alfred-maestro)
 - search through your [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros from Alfred
 
-<h2 align="center"> <a href="https://github.com/jason0x43/alfred-weather">Weather</a></h2>
-
+### [Weather](https://github.com/jason0x43/alfred-weather)
 - get latest weather for the day, week 
 
-<h2 align="center"> <a href="https://github.com/nikitavoloboev/alfred-karabiner"> Reload Karabiner </a> </h2>
-
-- reload [Karabiner](https://github.com/tekezo/Karabiner) config quickly
-
-<h2 align="center"> <a href="http://www.packal.org/workflow/machineclean"> Machine Clean </a> </h2>
-
+### [Machine Clean](http://www.packal.org/workflow/machineclean)
 - freeze keyboard input for some time to clean your keyboard
 
-
-<h2 align="center"> <a href="http://www.packal.org/workflow/uninstall-cleanmymac-3"> Uninstall with Clean my Mac 3 </a> </h2>
-
+### [Uninstall with Clean my Mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3)
 - uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac)
 
-<h2 align="center"> <a href="https://github.com/surrealroad/alfred-notes"> Notes </a> </h2>
-
+### [Notes](https://github.com/surrealroad/alfred-notes) 
 - make new notes or search notes from macOS notes app quickly
 
-<h1 align="center"> Writing Workflows</h1>
-
-<h2 align="center"> <a href="https://github.com/robwalton/alfred-ulysses-workflow"> Ulysses </a> </h2>
-
+## Writing Workflows
+### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
 - search for sheets or groups from [Ulysses](https://ulyssesapp.com/)
 
-
-<h1 align="center"> macOS Workflows </h1>
-
-<h2 align="center"> <a href="https://github.com/sindresorhus/alfred-dark-mode"> Dark Mode </a> </h2>
-
+## macOS Workflows 
+### [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) 
 - quickly toggle menu bar dark mode 
 
-
-<h1 align="center"> Programming Workflows </h1>
-
-<h2 align="center"> <a href="https://github.com/sindresorhus/alfred-npms"> Npms </a> </h2>
-
+## Programming Workflows 
+### [Npms](https://github.com/sindresorhus/alfred-npms) 
 - search for npm packages with [npms.io](https://npms.io)
 
-<h2 align="center"> <a href="https://github.com/BenchR267/Pod-Search-Alfred"> Pod Search </a> </h2>
-
+### [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred)
 - search through [Cocoapods](https://cocoapods.org) with Alfred
 
-<h2 align="center"> <a href="https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html"> SnippetsLab </a> </h2>
-
+### [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html) 
 - Alfred integration for [SnippetsLab](https://www.renfei.org/snippets-lab/) app
 
-
-<h2 align="center"><a href="https://github.com/danielecook/gist-alfred"> GitHub Gists </a></h2>
-
+### [GitHub Gists ](https://github.com/danielecook/gist-alfred)
 - search through GitHub gists from Alfred
 
-<h2 align="center"><a href="https://www.alfredforum.com/topic/1071-unix-man-page-workflow/"> New Terminal Window </a></h2>
-
-- open man pages with name and section filtering
-
-<h2 align="center"><a href="https://github.com/miromannino/alfred-new-terminal-window"> New Terminal Window </a></h2>
-
-- open a new Terminal/iTerm window in the current macOS space
-
-
-<h1 align="center">Web Workflows</h1>
-
-
-<h2 align="center"><a href="https://github.com/deanishe/alfred-reddit"> Reddit </a></h2>
-
+## Web Workflows
+### [Reddit search](https://github.com/deanishe/alfred-reddit)
 - find subreddits and browse hot posts from [Reddit](http://reddit.com)
+<img src="https://raw.githubusercontent.com/deanishe/alfred-reddit/master/demo.gif" width="400" alt="img">
 
-<p align="center"><img src="https://raw.githubusercontent.com/deanishe/alfred-reddit/master/demo.gif" alt="img" width="600"></p>
-
-
-<h1 align="center"> Design Workflows</h1>
-
-<h2 align="center"><a href="https://github.com/mi-ca/alfredapp_flatuicolors_workflow"> Flat UI Colours </a></h2>
-
+## Design Workflows
+### [Flat UI Colours](https://github.com/mi-ca/alfredapp_flatuicolors_workflow)
 - get flat colour hexa codes from <a href="https://flatuicolors.com">flatuicolors.com</a>
 
-
-<h1 align="center"> Utilities Workflows</h1>
-
-<h2 align="center"><a href="https://github.com/deanishe/alfred-pwgen"> Alfred Pwgen </a></h2>
-
+## Utilities Workflows
+### [Alfred Pwgen ](https://github.com/deanishe/alfred-pwgen)
 - generate secure passwords from Alfred
 
+### [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search)
+- google image searches based on local files
 
-<h2 align="center"><a href="https://github.com/deanishe/alfred-similar-image-search"> Google Similar Images </a></h2>
-
-- Google image searches based on local files
-
-<h1 align="center"> Social Workflows</h1>
-
-<h2 align="center"><a href="https://github.com/Jamesits/alfred-workflow-telegram">Telegram </a></h2>
-
+## Social Workflows
+### [Telegram](https://github.com/Jamesits/alfred-workflow-telegram) 
 - search for stickers and quickly operate Telegram from Alfred
 
-<h1 align="center"> Translation Workflows</h1>
-
-
-<h2 align="center"><a href="https://github.com/podgorniy/alfred-translate"> Translate ru-en en-ru </a></h2>
-
+## Translation Workflows
+### [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate)
 - quickly translate from russion > english and vice versa
 
-<h2 align="center"><a href="https://github.com/dennis-tra/alfred-dict.cc-workflow">Translate ger-en en-ger + 8 others</a></h2>
-
+### [Translate ger-en en-ger + 8 others](https://github.com/dennis-tra/alfred-dict.cc-workflow)
 - quickly translate from german > english and vice versa (see [repo](https://github.com/dennis-tra/alfred-dict.cc-workflow) for eight more languages)
+<img src="https://github.com/dennis-tra/alfred-dict.cc-workflow/blob/master/alfred-dict.cc-example.gif?raw=true" width="400" alt="img">
 
-<p align="center"><img src="https://github.com/dennis-tra/alfred-dict.cc-workflow/blob/master/alfred-dict.cc-example.gif?raw=true" alt="img" width="600"></p>
-
-<h1 align="center">  Alfred Help Workflows</h1>
-
-<h2 align="center"><a href="https://github.com/jmjeong/alfred-extension"> Manage Alfred </a></h2>
-
+## Alfred Help Workflows
+### [Manage Alfred](https://github.com/jmjeong/alfred-extension)
 - quckly open any Alfred Workflow directory in your terminal
 
+## Collections of Workflows
+### [Vitor's workflows](https://github.com/vitorgalvao/alfred-workflows)
+### [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
 
