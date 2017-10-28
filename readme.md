@@ -15,16 +15,16 @@ Pull requests are welcome. Thank you. 💙
 ## Essential Workflows
 ### [Searchio](https://github.com/deanishe/alfred-searchio) 
 - quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type. 
-<img src="media/searchio.gif" width="500" alt="img">
+<img src="media/searchio.gif" width="400" alt="img">
 
 ### [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player)
 - fully control Spotify from Alfred
-<img src="media/spotify.gif" width="500" alt="img">
+<img src="media/spotify.gif" width="400" alt="img">
 
 ### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
 - very quickly search through any docset that you have downloaded
 - you can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://www.dropbox.com/s/ajcimkk47ikwimv/dash.alfredworkflow?dl=1))
-<img src="media/dash.gif" width="500" alt="img">
+<img src="media/dash.gif" width="400" alt="img">
 
 <h2 align="center"><a href="https://github.com/lox/alfred-github-jump"> GitHub Jump </a></h2>
 
