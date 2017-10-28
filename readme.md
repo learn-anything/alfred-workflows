@@ -26,22 +26,16 @@ Pull requests are welcome. Thank you. 💙
 - you can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://www.dropbox.com/s/ajcimkk47ikwimv/dash.alfredworkflow?dl=1))
 <img src="media/dash.gif" width="400" alt="img">
 
-<h2 align="center"><a href="https://github.com/lox/alfred-github-jump"> GitHub Jump </a></h2>
-
+### [GitHub Jump](https://github.com/lox/alfred-github-jump)
 - saves all your starred repositories to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
 
-<h2 align="center"><a href="https://git.deanishe.net/deanishe/alfred-safari-assistant"> Safari Assistant </a></h2>
-
+### [Safari Assistant](https://git.deanishe.net/deanishe/alfred-safari-assistant)
 - search through your Safari history, bookmarks, reading list and more
+<img src="media/safari-assistant.gif" width="400" alt="img">
 
-<p align="center"><img src="media/safari-assistant.gif" alt="img" width="600"></p>
-
-<h2 align="center"><a href="http://units.dnsu.ch"> Units </a></h2>
-
+### [Units](http://units.dnsu.ch)
 - do quick unit conversions 
-
-<p align="center"><img src="media/units.gif" alt="img" width="600"></p>
-
+<img src="media/units.gif" width="400" alt="img">
 
 <h2 align="center"><a href="https://github.com/zhaocai/alfred2-keylue-workflow"> Key Clue </a></h2>
 
