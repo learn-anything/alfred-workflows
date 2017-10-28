@@ -100,7 +100,7 @@ Pull requests are welcome. Thank you. 💙
 
 <h2 align="center"><a href="https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/"> Upload Files </a></h2>
 
-- quickly upload local files to share with [transfer.sh](transfer.sh)
+- quickly upload local files to share with [transfer.sh](https://transfer.sh)
 
 <h2 align="center"><a href="https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/">DownVid </a></h2>
 
