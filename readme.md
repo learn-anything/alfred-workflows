@@ -1,24 +1,10 @@
-<h1 align="center"> Free Alfred Workflows all can use 🎩 </h1>
-
-<div align="center">
-<a href="https://www.patreon.com/learnanything">
-		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-	</a>
-	<a href="https://github.com/learn-anything/alfred-workflows/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
-</div>
-
-<h1 align="center"> Description 📕</h1>
-
-
-This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting [alfred workflows](https://www.alfredapp.com/workflows/) one can use to learn new things and discover new insights faster. 🔭
+# Free Alfred Workflows all can use 🎩 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+## Description 📕
+Here is a curated list of all the interesting [alfred workflows](https://www.alfredapp.com/workflows/) one can use to learn new things and discover new insights faster. 🔭
 
 Pull requests are welcome. Thank you. 💙
 
-
-#### Related websites / repositories 
-
+### Related websites / repositories 
 - [Packal](http://www.packal.org/)
 - [awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
 - [alfred workflows](https://github.com/zenorocha/alfred-workflows)
@@ -26,13 +12,10 @@ Pull requests are welcome. Thank you. 💙
 - [alfred workflows by Vitor](https://github.com/vitorgalvao/alfred-workflows)
 
 
-<h1 align="center"> Essential Workflows</h1>
-
-<h2 align="center"><a href="https://github.com/deanishe/alfred-searchio"> Searchio </a></h2>
-
+## Essential Workflows
+### [Searchio](https://github.com/deanishe/alfred-searchio) 
 - quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type. 
-
-<p align="center"><img src="media/searchio.gif" alt="img" width="600"></p>
+<img src="media/searchio.gif" width="500" alt="img">
 
 <h2 align="center"><a href="https://github.com/vdesabou/alfred-spotify-mini-player"> Spotify Mini Player </a></h2>
 
