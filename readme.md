@@ -106,6 +106,11 @@ Pull requests are welcome. Thank you. 💜
 ### [Notes](https://github.com/surrealroad/alfred-notes) 
 - Make new notes or search notes from macOS notes app quickly
 
+### [Alfred Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
+- Browse all awesome lists in seconds inside Alfred
+
+<img src="https://camo.githubusercontent.com/71b00206db6fc648f6daa8f79a38905b67ffa587/68747470733a2f2f692e696d6775722e636f6d2f325a657a4a737a2e706e67" width="400" alt="img">
+
 ## Writing Workflows
 ### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
 - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/)
@@ -161,6 +166,12 @@ Pull requests are welcome. Thank you. 💜
 ### [Manage Alfred](https://github.com/jmjeong/alfred-extension)
 - Quckly open any Alfred Workflow directory in your terminal
 
+## Alfred Fun Workflows
+### [Alfred Birthday](https://github.com/nikitavoloboev/alfred-birthday)
+- Showcase how much time passed since your birthday
+
+<img src="https://camo.githubusercontent.com/e25d3abf30a4523048dfbe0bbf6af472fcf89769/68747470733a2f2f692e696d6775722e636f6d2f71756d477643752e706e67" width="400" alt="img">
+
 ## Collections of Workflows
 ### [Vitor's workflows](https://github.com/vitorgalvao/alfred-workflows)
 ### [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
@@ -174,6 +185,6 @@ Here is how the badge looks like : [![Workflows](https://img.shields.io/badge/Mo
 
 And here is the markdown code you can use to include the badge in your own workflow repos : 
 
-`[![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-green.svg)](https://github.com/learn-anything/alfred-workflows)`
+`[![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows)`
 
 
