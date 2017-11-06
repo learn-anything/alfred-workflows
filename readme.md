@@ -179,7 +179,7 @@ Pull requests are welcome. Thank you. 💜
 ## Contribute 
 If you have made or found a workflow you liked, feel free to add it to this list. Just choose the appropriate category for it and add a good image/GIF to demonstrate the workflow in action if possible.
 
-Also if you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to the workflow that links to this list.
+Also if you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
 Here is how the badge looks like : [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows) 
 
