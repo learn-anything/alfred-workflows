@@ -177,7 +177,7 @@ Pull requests are welcome. Thank you. 💜
 ### [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
 
 ## Contribute 
-If you have made or found a workflow you liked, feel free to add it to this list. Just choose the appropriate category for it and add a good image/GIF to demonstrate the workflow in action if possible.
+If you have found a workflow you really liked or have made, feel free to add it to this list. Just choose the appropriate category for it and add a good image/GIF to demonstrate the workflow in action if possible.
 
 Also if you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
