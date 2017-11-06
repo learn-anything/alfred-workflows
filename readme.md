@@ -1,36 +1,34 @@
-# Free Alfred Workflows all can use 🎩 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting [alfred workflows](https://www.alfredapp.com/workflows/) one can use to learn new things and discover new insights faster. 
+# Alfred Workflows [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the interesting Alfred [Workflows](https://www.alfredapp.com/workflows/).
 
-### Related websites / repositories 
+Pull requests are welcome. Thank you. 💜
+
+## Related websites / repositories 
 - [Packal](http://www.packal.org/)
-- [awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
-- [alfred workflows](https://github.com/zenorocha/alfred-workflows)
-- [alfred workflows for developers](https://github.com/willfarrell/alfred-workflows)
-- [alfred workflows by Vitor](https://github.com/vitorgalvao/alfred-workflows)
-
+- [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
+- [Alfred workflows](https://github.com/zenorocha/alfred-workflows)
+- [Alfred workflows for developers](https://github.com/willfarrell/alfred-workflows)
 
 ## Essential Workflows
 ### [Searchio](https://github.com/deanishe/alfred-searchio) 
-- quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type. 
+- Quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type. 
 <img src="media/searchio.gif" width="400" alt="img">
 
 ### [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player)
-- fully control Spotify from Alfred
+- Fully control Spotify from Alfred
 <img src="media/spotify.gif" width="400" alt="img">
 
 ### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
-- very quickly search through any docset that you have downloaded
-- you can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://www.dropbox.com/s/ajcimkk47ikwimv/dash.alfredworkflow?dl=1))
+- Very quickly search through any docset that you have downloaded
+- You can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://www.dropbox.com/s/ajcimkk47ikwimv/dash.alfredworkflow?dl=1))
 <img src="media/dash.gif" width="400" alt="img">
 
 ### [GitHub Jump](https://github.com/lox/alfred-github-jump)
-- saves all your starred repositories to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
+- Saves all your starred repositories to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
 
-### [Safari Assistant](https://git.deanishe.net/deanishe/alfred-safari-assistant)
-- search through your Safari history, bookmarks, reading list and more
+### [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant)
+- Search through your Safari history, bookmarks, reading list and more
 <img src="media/safari-assistant.gif" width="400" alt="img">
 
 ### [Units](http://units.dnsu.ch)
