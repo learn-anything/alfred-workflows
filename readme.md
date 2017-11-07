@@ -1,6 +1,6 @@
 # Alfred Workflows [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-This is a curated list of all the interesting Alfred [Workflows](https://www.alfredapp.com/workflows/).
+This is a curated list of all the interesting [Alfred Workflows](https://www.alfredapp.com/workflows/).
 
 Pull requests are welcome. Thank you. 💜
 
