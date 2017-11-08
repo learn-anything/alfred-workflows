@@ -21,7 +21,7 @@ Pull requests are welcome. Thank you. 💜
 
 ### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
 - Very quickly search through any docset that you have downloaded
-- You can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://www.dropbox.com/s/ajcimkk47ikwimv/dash.alfredworkflow?dl=1))
+- You can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://github.com/nikitavoloboev/small-workflows#dash-search-with-custom-hotkeys))
 <img src="media/dash.gif" width="400" alt="img">
 
 ### [GitHub Jump](https://github.com/lox/alfred-github-jump)
