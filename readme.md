@@ -84,6 +84,9 @@ Pull requests are welcome. Thank you. 💜
 - Search through bookmarks, notes and various websites quickly from Alfred
 <img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-my-mind/master/media/demo.gif" width="400" alt="img">
 
+### [Alfred Help Workflow](https://github.com/pochemuto/alfred-help-workflow)
+- Search through Alfred worklow triggers
+
 ## Productivity Workflows
 ### [Toggl](https://github.com/jason0x43/alfred-toggl)
 - Operate Toggl from Alfred
@@ -129,7 +132,7 @@ Pull requests are welcome. Thank you. 💜
 ### [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html) 
 - Alfred integration for [SnippetsLab](https://www.renfei.org/snippets-lab/) app
 
-### [GitHub Gists ](https://github.com/danielecook/gist-alfred)
+### [GitHub Gists](https://github.com/danielecook/gist-alfred)
 - Search through GitHub gists from Alfred
 
 ## Web Workflows
