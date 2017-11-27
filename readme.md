@@ -86,6 +86,7 @@ Pull requests are welcome. Thank you. 💜
 
 ### [Alfred Help Workflow](https://github.com/pochemuto/alfred-help-workflow)
 - Search through Alfred worklow triggers
+<img src="https://i.imgur.com/fBvn0Ob.png" width="500" alt="img">
 
 ## Productivity Workflows
 ### [Toggl](https://github.com/jason0x43/alfred-toggl)
