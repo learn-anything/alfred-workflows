@@ -4,7 +4,7 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 
 [Pull requests are welcome](#contributing). Thank you. 💜
 
-## Related websites/repositories 
+## Related websites / repositories 
 - [Packal](http://www.packal.org/) - repository of user submited workflows and themes (not maintained) 
 - [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
 - [Alfred workflows](https://github.com/zenorocha/alfred-workflows)
@@ -20,8 +20,9 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 <img src="media/spotify.gif" width="400" alt="img">
 
 ### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
-- Very quickly search through any docset that you have downloaded
-- You can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://github.com/nikitavoloboev/small-workflows#dash-search-with-custom-hotkeys))
+- Companion workflow to [Dash](https://kapeli.com/dash) to quickly search through any docset that you have downloaded
+- You can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://github.com/nikitavoloboev/small-workflows/blob/master/workflows/Dash.alfredworkflow?raw=true))
+- You can also make a workflow to [quickly change Dash profiles](https://github.com/nikitavoloboev/small-workflows#dash-profile-switcher---download)
 <img src="media/dash.gif" width="400" alt="img">
 
 ### [GitHub Jump](https://github.com/lox/alfred-github-jump)
@@ -35,7 +36,7 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 - Do quick unit conversions 
 <img src="media/units.gif" width="400" alt="img">
 
-### [Fast Menu Bar Search](https://www.alfredforum.com/topic/10231-faster-menu-search/?page=2&tab=comments)
+### [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
 - Search through currently active app's menu bar quickly from Alfred
 
 ### [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
@@ -51,7 +52,7 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 - Search through your contact list to send emails to one or multiple people
 
 ### [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search)
-- Quickly search through all the unicode symbols
+- Quickly search through all Unicode symbols
 
 ### [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2)
 - Browse through your Downloads directory or any other directory you specify from Alfred 
@@ -61,7 +62,6 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 
 ### [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share)
 - Create many of web's submission from Alfred
-
 <img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/media/demo.gif" width="400" alt="img">
 
 ### [Secure Shell](https://github.com/deanishe/alfred-ssh)
@@ -69,9 +69,9 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 <img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" width="400" alt="img">
 
 ### [Alfred tty](https://github.com/isometry/alfred-tty)
-- Quickly switch between or close iTerm windows, tabs and panes based on title and tty
+- Quickly switch between or close iTerm windows, tabs and panes based on title and tty name
 
-### [Upload Files ](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/)
+### [Upload Files](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/)
 - Quickly upload local files to share with [transfer.sh](https://transfer.sh)
 
 ### [DownVid](https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/) 
@@ -85,7 +85,7 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 <img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-my-mind/master/media/demo.gif" width="400" alt="img">
 
 ### [Alfred Help Workflow](https://github.com/pochemuto/alfred-help-workflow)
-- Search through Alfred worklow triggers
+- Search through Alfred workflow triggers
 <img src="https://i.imgur.com/fBvn0Ob.png" width="500" alt="img">
 
 ## Productivity Workflows
@@ -108,11 +108,10 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 - Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac)
 
 ### [Notes](https://github.com/surrealroad/alfred-notes) 
-- Make new notes or search notes from macOS notes app quickly
+- Make new notes or search notes from macOS Notes app quickly
 
 ### [Alfred Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
 - Browse all awesome lists in seconds inside Alfred
-
 <img src="https://camo.githubusercontent.com/71b00206db6fc648f6daa8f79a38905b67ffa587/68747470733a2f2f692e696d6775722e636f6d2f325a657a4a737a2e706e67" width="400" alt="img">
 
 ## Writing Workflows
