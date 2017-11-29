@@ -2,7 +2,7 @@
 
 This is a curated list of all the interesting [Alfred Workflows](https://www.alfredapp.com/workflows/).
 
-[Pull requests are welcome](#Contributing). Thank you. 💜
+[Pull requests are welcome](# Contributing). Thank you. 💜
 
 ## Related websites / repositories 
 - [Packal](http://www.packal.org/)
