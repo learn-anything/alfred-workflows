@@ -2,7 +2,7 @@
 
 This is a curated list of all the interesting [Alfred Workflows](https://www.alfredapp.com/workflows/).
 
-Pull requests are welcome. Thank you. 💜
+[Pull requests are welcome](#Contributing). Thank you. 💜
 
 ## Related websites / repositories 
 - [Packal](http://www.packal.org/)
@@ -180,12 +180,12 @@ Pull requests are welcome. Thank you. 💜
 ### [Vitor's workflows](https://github.com/vitorgalvao/alfred-workflows)
 ### [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
 
-## Contribute 
+## Contributing 
 If you have found a workflow you really liked or have made, feel free to add it to this list. Just choose the appropriate category for it and add a good image/GIF to demonstrate the workflow in action if possible.
 
 Also if you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
-Here is how the badge looks like : [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows) 
+Here is how the badge looks like: [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows) 
 
 And here is the markdown code you can use to include the badge in your own workflow repos : 
 
