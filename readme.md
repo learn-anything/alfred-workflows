@@ -1,18 +1,18 @@
 # Alfred Workflows [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+> Curated list of all the interesting [Alfred Workflows](https://www.alfredapp.com/workflows/).
 
-This is a curated list of all the interesting [Alfred Workflows](https://www.alfredapp.com/workflows/).
+## Contents
+- [Related websites / Repositories](#related-websites-repositories)
+- [Essential Workflows](#essential-workflows)
+- [Productivity Workflows](#productivity-workflows)
 
-[Pull requests are welcome](#contributing). Thank you. 💜
 
-## Related websites / repositories 
+## Related websites / Repositories 
 - [Packal](http://www.packal.org/) - repository of user submited workflows and themes (not maintained) 
 - [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
 - [Alfred workflows](https://github.com/zenorocha/alfred-workflows)
 - [Alfred workflows for Developers](https://github.com/willfarrell/alfred-workflows)
 
-## Contents
-- [Essential Workflows](#essential-workflows)
-- [Productivity Workflows](#productivity-workflows)
 
 ## Essential Workflows
 ### [Searchio](https://github.com/deanishe/alfred-searchio) 
