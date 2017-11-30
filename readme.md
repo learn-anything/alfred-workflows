@@ -10,6 +10,9 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 - [Alfred workflows](https://github.com/zenorocha/alfred-workflows)
 - [Alfred workflows for Developers](https://github.com/willfarrell/alfred-workflows)
 
+## Contents
+- [Essential Workflows](#Essential Workflows)
+
 ## Essential Workflows
 ### [Searchio](https://github.com/deanishe/alfred-searchio) 
 - Quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type
@@ -84,8 +87,11 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 - Search through bookmarks, notes and various websites quickly from Alfred
 <img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-my-mind/master/media/demo.gif" width="400" alt="img">
 
+### [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot)
+- Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/)
+
 ### [Alfred Help Workflow](https://github.com/pochemuto/alfred-help-workflow)
-- Search through Alfred workflow triggers
+- Search through Alfred workflow triggers 
 <img src="https://i.imgur.com/fBvn0Ob.png" width="500" alt="img">
 
 ## Productivity Workflows
@@ -110,22 +116,11 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 ### [Notes](https://github.com/surrealroad/alfred-notes) 
 - Make new notes or search notes from macOS Notes app quickly
 
-### [Alfred GitHub](https://github.com/anoff/alfred-github)
-- Find to projects on GitHub
-
 ### [Alfred Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
 - Browse all awesome lists in seconds inside Alfred
 <img src="https://camo.githubusercontent.com/71b00206db6fc648f6daa8f79a38905b67ffa587/68747470733a2f2f692e696d6775722e636f6d2f325a657a4a737a2e706e67" width="400" alt="img">
 
-## Writing Workflows
-### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
-- Search for sheets or groups from [Ulysses](https://ulyssesapp.com/)
-
-## macOS Workflows 
-### [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) 
-- Quickly toggle menu bar dark mode 
-
-## Programming Workflows 
+## Developer Workflows
 ### [Npms](https://github.com/sindresorhus/alfred-npms) 
 - Search for npm packages with [npms.io](https://npms.io)
 
@@ -137,6 +132,20 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 
 ### [GitHub Gists](https://github.com/danielecook/gist-alfred)
 - Search through GitHub gists from Alfred
+
+### [Alfred GitHub](https://github.com/gharlan/alfred-github-workflow)
+- Fully featured workflow to interact with GitHub 
+
+### [Alfred GitHub Repo Search](https://github.com/anoff/alfred-github)
+- Find to projects on GitHub
+
+## Writing Workflows
+### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
+- Search for sheets or groups from [Ulysses](https://ulyssesapp.com/)
+
+## macOS Workflows 
+### [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) 
+- Quickly toggle menu bar dark mode 
 
 ## Web Workflows
 ### [Reddit search](https://github.com/deanishe/alfred-reddit)
@@ -192,6 +201,10 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 
 ### [Minecraf Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook)
 - Search all Minecraft recipes 
+
+## Music Workflows
+- [Play Song](https://github.com/caleb531/play-song)
+- Quickly and easily play music in iTunes
 
 ## Collections of Workflows
 ### [Vitor's workflows](https://github.com/vitorgalvao/alfred-workflows)
