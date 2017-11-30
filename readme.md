@@ -20,7 +20,7 @@
 - [Contributing](#contributing)
 
 ## Related websites / Repositories 
-- [Packal](http://www.packal.org/) - repository of user submited workflows and themes (not maintained) 
+- [Packal](http://www.packal.org/): repository of user submitted workflows and themes (not maintained) 
 - [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
 - [Alfred workflows](https://github.com/zenorocha/alfred-workflows)
 - [Alfred workflows for Developers](https://github.com/willfarrell/alfred-workflows)
