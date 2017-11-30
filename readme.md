@@ -12,7 +12,7 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 
 ## Essential Workflows
 ### [Searchio](https://github.com/deanishe/alfred-searchio) 
-- Quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type. 
+- Quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type
 <img src="media/searchio.gif" width="400" alt="img">
 
 ### [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player)
@@ -110,6 +110,9 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 ### [Notes](https://github.com/surrealroad/alfred-notes) 
 - Make new notes or search notes from macOS Notes app quickly
 
+### [Alfred GitHub](https://github.com/anoff/alfred-github)
+- Find to projects on GitHub
+
 ### [Alfred Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
 - Browse all awesome lists in seconds inside Alfred
 <img src="https://camo.githubusercontent.com/71b00206db6fc648f6daa8f79a38905b67ffa587/68747470733a2f2f692e696d6775722e636f6d2f325a657a4a737a2e706e67" width="400" alt="img">
@@ -138,19 +141,33 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 ## Web Workflows
 ### [Reddit search](https://github.com/deanishe/alfred-reddit)
 - Find subreddits and browse hot posts from [Reddit](http://reddit.com)
-
 <img src="https://raw.githubusercontent.com/deanishe/alfred-reddit/master/demo.gif" width="400" alt="img">
 
 ## Design Workflows
 ### [Flat UI Colours](https://github.com/mi-ca/alfredapp_flatuicolors_workflow)
-- Get flat colour hexa codes from <a href="https://flatuicolors.com">flatuicolors.com</a>
+- Get flat colour hexa codes from [flatuicolors.com](https://flatuicolors.com)
+
+### [Material Design Icons](https://github.com/importre/alfred-mdi)
+- Find [Material Design Icons](https://github.com/google/material-design-icons)
 
 ## Utilities Workflows
-### [Alfred Pwgen ](https://github.com/deanishe/alfred-pwgen)
-- Generate secure passwords from Alfred
+### [Alfred Pwgen](https://github.com/deanishe/alfred-pwgen)
+- Generate secure passwords
+
+### [Time Machine](http://www.packal.org/workflow/time-machine)
+- Inspect and control Time Machine
 
 ### [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search)
-- Google image searches based on local files
+- Make Google image searches on local files
+
+### [Alfred Network Location](https://github.com/deanishe/alfred-network-location)
+- List, filter and activate network locations 
+
+### [Image Optimisation](https://github.com/ramiroaraujo/alfred-image-optim-workflow)
+- Optimise images to decrease size with [image_optim](https://github.com/toy/image_optim) library
+
+### [Alfred Tidy](https://github.com/importre/alfred-tidy)
+- Beautify JSON/XML in clipboard
 
 ## Social Workflows
 ### [Telegram](https://github.com/Jamesits/alfred-workflow-telegram) 
@@ -158,22 +175,23 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 
 ## Translation Workflows
 ### [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate)
-- Quickly translate from russion > english and vice versa
+- Quickly translate from Russion > English and vice versa
 
 ### [Translate ger-en en-ger + 8 others](https://github.com/dennis-tra/alfred-dict.cc-workflow)
-- Quickly translate from german > english and vice versa (see [repo](https://github.com/dennis-tra/alfred-dict.cc-workflow) for eight more languages)
-
+- Quickly translate from German > English and vice versa (see [repo](https://github.com/dennis-tra/alfred-dict.cc-workflow) for eight more languages)
 <img src="https://github.com/dennis-tra/alfred-dict.cc-workflow/blob/master/alfred-dict.cc-example.gif?raw=true" width="400" alt="img">
 
-## Alfred Help Workflows
+## Help Workflows
 ### [Manage Alfred](https://github.com/jmjeong/alfred-extension)
 - Quckly open any Alfred Workflow directory in your terminal
 
-## Alfred Fun Workflows
+## Fun Workflows
 ### [Alfred Birthday](https://github.com/nikitavoloboev/alfred-birthday)
 - Showcase how much time passed since your birthday
-
 <img src="https://camo.githubusercontent.com/e25d3abf30a4523048dfbe0bbf6af472fcf89769/68747470733a2f2f692e696d6775722e636f6d2f71756d477643752e706e67" width="400" alt="img">
+
+### [Minecraf Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook)
+- Search all Minecraft recipes 
 
 ## Collections of Workflows
 ### [Vitor's workflows](https://github.com/vitorgalvao/alfred-workflows)
@@ -187,7 +205,6 @@ Also if you have made a workflow of your own and published it on GitHub, it woul
 Here is how the badge looks like: [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows) 
 
 And here is the markdown code you can use to include the badge in your own workflow repos : 
-
 `[![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows)`
 
 
