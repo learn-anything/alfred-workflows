@@ -11,7 +11,8 @@ This is a curated list of all the interesting [Alfred Workflows](https://www.alf
 - [Alfred workflows for Developers](https://github.com/willfarrell/alfred-workflows)
 
 ## Contents
-- [Essential Workflows](#Essential Workflows)
+- [Essential Workflows](#essential-workflows)
+- [Productivity Workflows](#productivity-workflows)
 
 ## Essential Workflows
 ### [Searchio](https://github.com/deanishe/alfred-searchio) 
