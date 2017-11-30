@@ -8,6 +8,16 @@
 - [Developer Workflows](#developer-workflows)
 - [Writing Workflows](#writing-workflows)
 - [macOS Workflows](#macos-workflows)
+- [Web Workflows](#web-workflows)
+- [Design Workflows](#design-workflows)
+- [Utilities Workflows](#utilities-workflows)
+- [Social Workflows](#social-workflows)
+- [Translation Workflows](#translation-workflows)
+- [Help Workflows](#help-workflows)
+- [Fun Workflows](#fun-workflows)
+- [Music Workflows](#music-workflows)
+- [Collections of Workflows](#collections-of-workflows)
+- [Contributing](#contributing)
 
 ## Related websites / Repositories 
 - [Packal](http://www.packal.org/) - repository of user submited workflows and themes (not maintained) 
@@ -222,4 +232,6 @@ Here is how the badge looks like: [![Workflows](https://img.shields.io/badge/Mor
 And here is the markdown code you can use to include the badge in your own workflow repos : 
 `[![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows)`
 
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
