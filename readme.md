@@ -5,15 +5,15 @@
 - [Related websites / Repositories](#related-websites--repositories)
 - [Essential Workflows](#essential-workflows)
 - [Productivity Workflows](#productivity-workflows)
-- 
-
+- [Developer Workflows](#developer-workflows)
+- [Writing Workflows](#writing-workflows)
+- [macOS Workflows](#macos-workflows)
 
 ## Related websites / Repositories 
 - [Packal](http://www.packal.org/) - repository of user submited workflows and themes (not maintained) 
 - [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
 - [Alfred workflows](https://github.com/zenorocha/alfred-workflows)
 - [Alfred workflows for Developers](https://github.com/willfarrell/alfred-workflows)
-
 
 ## Essential Workflows
 ### [Searchio](https://github.com/deanishe/alfred-searchio) 
