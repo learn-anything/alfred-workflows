@@ -19,7 +19,7 @@
 - [Collections of Workflows](#collections-of-workflows)
 - [Contributing](#contributing)
 
-## Related websites / Repositories 
+## Related Websites / Repositories
 - [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
 - [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
 - [Alfred workflows](https://github.com/zenorocha/alfred-workflows)
@@ -193,7 +193,7 @@
 ### [Alfred Tidy](https://github.com/importre/alfred-tidy)
 - Beautify JSON/XML in clipboard.
 
-## Social Workflows
+## Social Workflows 
 ### [Telegram](https://github.com/Jamesits/alfred-workflow-telegram) 
 - Search for stickers and quickly operate Telegram from Alfred.
 
@@ -212,6 +212,9 @@
 ## Music Workflows
 ### [Play Song](https://github.com/caleb531/play-song)
 - Quickly and easily play music in iTunes.
+
+### [Discogs Explorer](https://github.com/dotson/Discogs-Explorer)
+- Explore the [Discogs.com](https://www.discogs.com) database.
 
 ## Fun Workflows
 ### [Alfred Birthday](https://github.com/nikitavoloboev/alfred-birthday)
