@@ -158,7 +158,7 @@
 ### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
 - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
 
-### [Synart](https://github.com/clarencecastillo/alfred-powerthesaurus)
+### [Synart](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt)
 - Search for synonyms and antonyms.
 
 ## macOS Workflows 
