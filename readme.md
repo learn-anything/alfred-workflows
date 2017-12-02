@@ -193,6 +193,9 @@
 ### [Network Locations](https://github.com/deanishe/alfred-network-location)
 - List, filter and activate network locations.
 
+### [Fakeum](https://github.com/deanishe/alfred-fakeum)
+- Generate fake test data.
+
 ### [Image Optimisation](https://github.com/ramiroaraujo/alfred-image-optim-workflow)
 - Optimise images to decrease size with [image_optim](https://github.com/toy/image_optim) library.
 
