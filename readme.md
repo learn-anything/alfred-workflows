@@ -36,8 +36,8 @@
 
 ### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
 - Companion workflow to [Dash](https://kapeli.com/dash) to quickly search through any docset that you have downloaded.
-- You can also scope your search to any specific docset that you want to search for and even create a supplementary workflow to search for specific docsets from hotkeys you set (like for example [here](https://github.com/nikitavoloboev/small-workflows/blob/master/workflows/Dash.alfredworkflow?raw=true)).
-- You can also make a workflow to [quickly change Dash profiles](https://github.com/nikitavoloboev/small-workflows#dash-profile-switcher---download).
+- You can also scope your search to any specific docset that you want to search for and even create a [supplementary workflow to search for specific docsets from hotkeys](https://github.com/nikitavoloboev/small-workflows#dash-search-with-custom-hotkeys).
+- You can also make a workflow to [quickly change Dash profiles](https://github.com/nikitavoloboev/small-workflows/tree/master/dash-profile-switch).
 <img src="media/dash.gif" width="400" alt="img">
 
 ### [GitHub Jump](https://github.com/lox/alfred-github-jump)
@@ -198,6 +198,9 @@
 - Search for stickers and quickly operate Telegram from Alfred.
 
 ## Translation Workflows
+### [Google Translate](https://www.alfredforum.com/topic/4549-google-translate-languages-configurable/)
+- Translate text using Google Translate (over 80+ languages to choose from).
+
 ### [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate)
 - Quickly translate from Russion > English and vice versa.
 
