@@ -148,7 +148,7 @@
 ### [Alfred GitHub](https://github.com/gharlan/alfred-github-workflow)
 - Fully featured workflow to interact with GitHub.
 
-### [Alfred GitHub Repo Search](https://github.com/anoff/alfred-github)
+### [GitHub Repo Search](https://github.com/anoff/alfred-github)
 - Find to projects on GitHub.
 
 ### [Alfred MDN](https://github.com/klaascuvelier/alfred-mdn)
