@@ -128,7 +128,7 @@
 ### [Notes](https://github.com/surrealroad/alfred-notes) 
 - Make new notes or search notes from macOS Notes app quickly.
 
-### [Alfred Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
+### [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
 - Browse all awesome lists in seconds inside Alfred.
 <img src="https://camo.githubusercontent.com/71b00206db6fc648f6daa8f79a38905b67ffa587/68747470733a2f2f692e696d6775722e636f6d2f325a657a4a737a2e706e67" width="400" alt="img">
 
@@ -151,8 +151,11 @@
 ### [GitHub Repo Search](https://github.com/anoff/alfred-github)
 - Find to projects on GitHub.
 
-### [Alfred MDN](https://github.com/klaascuvelier/alfred-mdn)
+### [MDN search](https://github.com/klaascuvelier/alfred-mdn)
 - Search MDN documentation.
+
+### [TLDR](https://github.com/cs1707/tldr-alfred)
+- Search [TLDR](https://github.com/tldr-pages/tldr) pages.
 
 ## Writing Workflows
 ### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
@@ -178,7 +181,7 @@
 - Find [Material Design Icons](https://github.com/google/material-design-icons).
 
 ## Utilities Workflows
-### [Alfred Pwgen](https://github.com/deanishe/alfred-pwgen)
+### [Pwgen](https://github.com/deanishe/alfred-pwgen)
 - Generate secure passwords.
 
 ### [Time Machine](http://www.packal.org/workflow/time-machine)
@@ -187,13 +190,13 @@
 ### [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search)
 - Make Google image searches on local files.
 
-### [Alfred Network Location](https://github.com/deanishe/alfred-network-location)
+### [Network Locations](https://github.com/deanishe/alfred-network-location)
 - List, filter and activate network locations.
 
 ### [Image Optimisation](https://github.com/ramiroaraujo/alfred-image-optim-workflow)
 - Optimise images to decrease size with [image_optim](https://github.com/toy/image_optim) library.
 
-### [Alfred Tidy](https://github.com/importre/alfred-tidy)
+### [Tidy](https://github.com/importre/alfred-tidy)
 - Beautify JSON/XML in clipboard.
 
 ## Social Workflows 
@@ -223,11 +226,11 @@
 - Explore the [Discogs.com](https://www.discogs.com) database.
 
 ## Fun Workflows
-### [Alfred Birthday](https://github.com/nikitavoloboev/alfred-birthday)
+### [Birthday](https://github.com/nikitavoloboev/alfred-birthday)
 - Showcase how much time passed since your birthday.
 <img src="https://camo.githubusercontent.com/e25d3abf30a4523048dfbe0bbf6af472fcf89769/68747470733a2f2f692e696d6775722e636f6d2f71756d477643752e706e67" width="400" alt="img">
 
-### [Alfred Figlet](https://github.com/importre/alfred-figlet)
+### [Figlet](https://github.com/importre/alfred-figlet)
 - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js)
 
 ### [Minecraft Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook)
