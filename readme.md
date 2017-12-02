@@ -17,6 +17,7 @@
 - [Music Workflows](#music-workflows)
 - [Fun Workflows](#fun-workflows)
 - [Collections of Workflows](#collections-of-workflows)
+- [Libraries to build workflows](#libraries-to-build-workflows)
 - [Contributing](#contributing)
 
 ## Related Websites / Repositories
@@ -242,6 +243,10 @@
 ## Collections of Workflows
 ### [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
 ### [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
+
+## Libraries to build workflows
+- [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
+- [Alfred Workflow](https://github.com/deanishe/alfred-workflow) - Write workflows in Python.
 
 ## Contributing 
 If you have found a workflow you really liked or have made, feel free to add it to this list. Just choose an appropriate category for it and add a good image/GIF to demonstrate the workflow in action if possible.
