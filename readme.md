@@ -158,8 +158,8 @@
 ### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
 - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
 
-### [Powerthesaurus Search](https://github.com/clarencecastillo/alfred-powerthesaurus)
-- Search for synonyms and antonyms on [Powerthesaurus.org](https://www.powerthesaurus.org/).
+### [Synart](https://github.com/clarencecastillo/alfred-powerthesaurus)
+- Search for synonyms and antonyms.
 
 ## macOS Workflows 
 ### [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) 
