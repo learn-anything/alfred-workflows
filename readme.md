@@ -158,12 +158,18 @@
 ### [TLDR](https://github.com/cs1707/tldr-alfred)
 - Search [TLDR](https://github.com/tldr-pages/tldr) pages.
 
+### [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow)
+- Search AWS Console Services.
+
 ## Writing Workflows
 ### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
 - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
 
 ### [Synart](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt)
 - Search for synonyms and antonyms.
+
+### [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow)
+- Find LaTeX commands for symbols.
 
 ## macOS Workflows 
 ### [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) 
@@ -175,8 +181,8 @@
 <img src="https://raw.githubusercontent.com/deanishe/alfred-reddit/master/demo.gif" width="400" alt="img">
 
 ## Design Workflows
-### [Flat UI Colours](https://github.com/mi-ca/alfredapp_flatuicolors_workflow)
-- Get flat colour hexa codes from [flatuicolors.com](https://flatuicolors.com).
+### [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow)
+- Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 
 ### [Material Design Icons](https://github.com/importre/alfred-mdi)
 - Find [Material Design Icons](https://github.com/google/material-design-icons).
@@ -194,14 +200,32 @@
 ### [Network Locations](https://github.com/deanishe/alfred-network-location)
 - List, filter and activate network locations.
 
+### [Syntax highlight code](https://github.com/importre/alfred-hl)
+- Highlight code in the clipboard using [highlight.js](https://highlightjs.org/).
+
 ### [Fakeum](https://github.com/deanishe/alfred-fakeum)
 - Generate fake test data.
+
+### [Lorem Ipsum](https://github.com/tillkruss/alfred-lorem-ipsum)
+- Create ultra-fast Lorem Ipsum text.
+
+### [Date calculator](https://github.com/LeEnno/alfred-date-calculator)
+- Display or calculate with current date and time.
 
 ### [Image Optimisation](https://github.com/ramiroaraujo/alfred-image-optim-workflow)
 - Optimise images to decrease size with [image_optim](https://github.com/toy/image_optim) library.
 
 ### [Tidy](https://github.com/importre/alfred-tidy)
 - Beautify JSON/XML in clipboard.
+
+### [Airport Searching](https://github.com/jeeftor/alfredAirports)
+- Search for Airports from the [Our Airports](http://ourairports.com/data/) data set.
+
+### [QR code creator](https://github.com/wensonsmith/QRcodeCreator)
+- Create QR code from text.
+
+### [Display calendar](https://github.com/owenwater/alfred-cal)
+- Displays a monthly calendar.
 
 ## Social Workflows 
 ### [Telegram](https://github.com/Jamesits/alfred-workflow-telegram) 
