@@ -161,6 +161,9 @@
 ### [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow)
 - Search AWS Console Services.
 
+### [D2](https://github.com/nire0510/d2)
+- Quick access to popular libraries, frameworks & tools online developer documentation.
+
 ## Writing Workflows
 ### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
 - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
@@ -226,6 +229,9 @@
 
 ### [Display calendar](https://github.com/owenwater/alfred-cal)
 - Displays a monthly calendar.
+
+### [Various screenshots](https://github.com/vookimedlo/alfred-various-screenshots)
+- Taking various screenshots.
 
 ## Social Workflows 
 ### [Telegram](https://github.com/Jamesits/alfred-workflow-telegram) 
