@@ -159,8 +159,14 @@
 ### [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow)
 - Search AWS Console Services.
 
+### [HTTP Status Codes](https://github.com/ilstar/http_status_code)
+- Check out HTTP status code quickly.
+
 ### [D2](https://github.com/nire0510/d2)
 - Quick access to popular libraries, frameworks & tools online developer documentation.
+
+### [Vagrant Up](https://github.com/m1keil/alfred-vagrant-workflow)
+- Control Vagrant.
 
 ## Writing Workflows
 ### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
@@ -269,8 +275,8 @@
 - Search all Minecraft recipes.
 
 ## Help Workflows
-### [Manage Alfred](https://github.com/jmjeong/alfred-extension)
-- Quckly open any Alfred Workflow directory in your terminal.
+### [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory)
+- Quckly open any Alfred Workflow directory in your Terminal, Finder.
 
 ## Collections of Workflows
 ### [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
