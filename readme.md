@@ -13,9 +13,10 @@
 - [Utilities Workflows](#utilities-workflows)
 - [Social Workflows](#social-workflows)
 - [Translation Workflows](#translation-workflows)
-- [Help Workflows](#help-workflows)
+- [Education workflows](#education-workflows)
 - [Music Workflows](#music-workflows)
 - [Fun Workflows](#fun-workflows)
+- [Help Workflows](#help-workflows)
 - [Collections of Workflows](#collections-of-workflows)
 - [Libraries to build workflows](#libraries-to-build-workflows)
 - [Contributing](#contributing)
@@ -110,9 +111,6 @@
 ## Productivity Workflows
 ### [Toggl](https://github.com/jason0x43/alfred-toggl)
 - Operate [Toggl](https://toggl.com) from Alfred.
-
-### [Web Screenshot](https://www.alfredforum.com/topic/8385-webscreenshot-—-take-screenshots-directly-to-the-web/)
-- Take a screenshot, it uploads it to [Imgur](https://imgur.com/) and gives you a link instantly.
 
 ### [Alfred Maestro](https://github.com/iansinnott/alfred-maestro)
 - Search through your [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros from Alfred.
@@ -248,9 +246,9 @@
 - Quickly translate from German > English and vice versa (see [repo](https://github.com/dennis-tra/alfred-dict.cc-workflow) for eight more languages).
 <img src="https://github.com/dennis-tra/alfred-dict.cc-workflow/blob/master/alfred-dict.cc-example.gif?raw=true" width="400" alt="img">
 
-## Help Workflows
-### [Manage Alfred](https://github.com/jmjeong/alfred-extension)
-- Quckly open any Alfred Workflow directory in your terminal.
+## Education workflows
+### [Papers 3](https://github.com/wookayin/alfred-papers3-workflow)
+- Search Papers3 items.
 
 ## Music Workflows
 ### [Play Song](https://github.com/caleb531/play-song)
@@ -269,6 +267,10 @@
 
 ### [Minecraft Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook)
 - Search all Minecraft recipes.
+
+## Help Workflows
+### [Manage Alfred](https://github.com/jmjeong/alfred-extension)
+- Quckly open any Alfred Workflow directory in your terminal.
 
 ## Collections of Workflows
 ### [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
