@@ -168,6 +168,9 @@
 ### [Vagrant Up](https://github.com/m1keil/alfred-vagrant-workflow)
 - Control Vagrant.
 
+### [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables)
+- Search your shell's variables.
+
 ## Writing Workflows
 ### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
 - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
@@ -216,6 +219,9 @@
 ### [Lorem Ipsum](https://github.com/tillkruss/alfred-lorem-ipsum)
 - Create ultra-fast Lorem Ipsum text.
 
+### [Monitor Resolutions](https://github.com/taylorludwig/Resolutions-Alfred)
+- Change resolutions on primary monitor.
+
 ### [Date calculator](https://github.com/LeEnno/alfred-date-calculator)
 - Display or calculate with current date and time.
 
@@ -236,6 +242,12 @@
 
 ### [Various screenshots](https://github.com/vookimedlo/alfred-various-screenshots)
 - Taking various screenshots.
+
+### [File Creator](https://github.com/SteliosHa/Alfred_File_Creator)
+- Create files of certain types quickly.
+
+### [Speak](https://github.com/mklement0/speak.awf)
+- Use OS X's TTS (text-to-speech) feature to speak text aloud.
 
 ## Social Workflows 
 ### [Telegram](https://github.com/Jamesits/alfred-workflow-telegram) 
