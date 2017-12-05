@@ -50,11 +50,14 @@
 > Search through your Safari history, bookmarks, reading list and more.
 <img src="media/safari-assistant.gif" width="400" alt="img">
 
+### [Repos](https://github.com/deanishe/alfred-repos)
+- Browse, search and open Git repositories.
+
 ### [Units](http://units.dnsu.ch)
 > Do quick unit conversions.
 <img src="media/units.gif" width="400" alt="img">
 
-### [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow).
+### [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
 > Search through currently active app's menu bar quickly from Alfred.
 
 ### [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
@@ -159,7 +162,7 @@
 ### [GitHub Gists](https://github.com/danielecook/gist-alfred)
 > Search through GitHub gists from Alfred.
 
-### [Alfred GitHub](https://github.com/gharlan/alfred-github-workflow)
+### [GitHub Integration](https://github.com/gharlan/alfred-github-workflow)
 > Fully featured workflow to interact with GitHub.
 
 ### [GitHub Repo Search](https://github.com/anoff/alfred-github)
