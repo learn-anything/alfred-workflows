@@ -12,4 +12,4 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - If you are unsure about anything, feel free to [open up an issue](https://github.com/learn-anything/alfred-workflows/issues/new) and we will help you.
 
-Your contributions are always welcome!  Thank you for your suggestions! 💜
+Thank you for your suggestions! 💜
