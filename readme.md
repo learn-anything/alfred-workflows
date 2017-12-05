@@ -1,7 +1,7 @@
 # Alfred Workflows [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 > Curated list of all the amazing [Alfred Workflows](https://www.alfredapp.com/workflows/)
 
-[<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Alfred-logo.png" align="right" width="300">](https://www.alfredapp.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Alfred-logo.png" align="right" width="200">](https://www.alfredapp.com/)
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
@@ -33,7 +33,8 @@
 
 ## Essential Workflows
 ### [Searchio](https://github.com/deanishe/alfred-searchio) 
-- Quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type.
+> Quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type.
+
 <img src="media/searchio.gif" width="400" alt="img">
 
 ### [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player)
