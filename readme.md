@@ -136,10 +136,10 @@
 > Make new notes or search notes from macOS Notes app quickly.
 
 ### [Pocket](https://github.com/fniephaus/alfred-pocket)
-- Manage your Pocket list.
+> Manage your Pocket list.
 
 ### [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow)
-- Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
+> Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 
 ### [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
 > Browse all awesome lists in seconds inside Alfred.
@@ -326,7 +326,7 @@
 > Write workflows in Go.
 
 ### [Alfred Workflow](https://github.com/deanishe/alfred-workflow)
-> Write workflows in Go.
+> Write workflows in Python.
 
 ## Related Websites / Repositories
 - [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
