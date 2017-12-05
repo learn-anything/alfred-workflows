@@ -1,5 +1,7 @@
 # Alfred Workflows [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-> Curated list of all the interesting [Alfred Workflows](https://www.alfredapp.com/workflows/)
+> Curated list of all the amazing [Alfred Workflows](https://www.alfredapp.com/workflows/)
+
+*Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Contents
 - [Related Websites / Repositories](#related-websites--repositories)
@@ -33,69 +35,71 @@
 <img src="media/searchio.gif" width="400" alt="img">
 
 ### [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player)
-- Fully control Spotify from Alfred.
+> Fully control Spotify from Alfred.
+
 <img src="media/spotify.gif" width="400" alt="img">
 
 ### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
-- Companion workflow to [Dash](https://kapeli.com/dash) to quickly search through any docset that you have downloaded.
-- You can also scope your search to any specific docset that you want to search for and even create a [supplementary workflow to search for specific docsets from hotkeys](https://github.com/nikitavoloboev/small-workflows#dash-search-with-custom-hotkeys).
-- You can also make a workflow to [quickly change Dash profiles](https://github.com/nikitavoloboev/small-workflows/tree/master/dash-profile-switch).
+> Companion workflow to [Dash](https://kapeli.com/dash) to quickly search through any docset that you have downloaded.
+
 <img src="media/dash.gif" width="400" alt="img">
 
 ### [GitHub Jump](https://github.com/lox/alfred-github-jump)
-- Saves all your starred repositories to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
+> Saves all your starred repositories to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
 
 ### [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant)
-- Search through your Safari history, bookmarks, reading list and more.
+> Search through your Safari history, bookmarks, reading list and more.
 <img src="media/safari-assistant.gif" width="400" alt="img">
 
 ### [Units](http://units.dnsu.ch)
-- Do quick unit conversions.
+> Do quick unit conversions.
 <img src="media/units.gif" width="400" alt="img">
 
 ### [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
-- Search through currently active app's menu bar quickly from Alfred.
+> Search through currently active app's menu bar quickly from Alfred.
 
 ### [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
-- Search through any website on the web from Alfred.
-- The list of websites can be found [here](https://github.com/nikitavoloboev/alfred-web-searches/blob/master/workflow/websites.csv) and can be easily extended.
+> Search through any website on the web from Alfred.
+
 <img src="media/web-searches.gif" width="400" alt="img">
 
 ### [Process Control](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl)
-- Search through currently active processes and kill ones that are misbehaving quickly.
+> Search through currently active processes and kill ones that are misbehaving quickly.
+
 <img src="https://camo.githubusercontent.com/78a80d4af16988c37e22b92798cf4208db39e2d5/68747470733a2f2f692e696d6775722e636f6d2f5146643569626a2e706e67" width="400" alt="img">
 
 ### [Mailto](https://github.com/deanishe/alfred-mailto) 
-- Search through your contact list to send emails to one or multiple people.
+> Search through your contact list to send emails to one or multiple people.
 
 ### [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search)
-- Quickly search through all Unicode symbols.
+> Quickly search through all Unicode symbols.
 
 ### [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2)
-- Browse through your Downloads directory or any other directory you specify from Alfred.
+> Browse through your Downloads directory or any other directory you specify from Alfred.
 
 ### [Eggtimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/)
-- Quickly set timers to notify you of things.
+> Quickly set timers to notify you of things.
 
 ### [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share)
-- Create many of web's submission from Alfred.
+> Create many of web's submission from Alfred.
+
 <img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/media/demo.gif" width="400" alt="img">
 
 ### [Secure Shell](https://github.com/deanishe/alfred-ssh)
-- Open SSH/SFTP/mosh connections from Alfred.
+> Open SSH/SFTP/mosh connections from Alfred.
 <img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" width="400" alt="img">
 
-### [Alfred tty](https://github.com/isometry/alfred-tty)
-- Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
+### [iTerm Window/Tab switch](https://github.com/isometry/alfred-tty)
+> Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
 
 ### [Upload Files](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/)
-- Quickly upload local files to share with [transfer.sh](https://transfer.sh).
+> Quickly upload local files to share with [transfer.sh](https://transfer.sh).
 
 ### [DownVid](https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/) 
-- Download videos from a [plethora of video sources](https://rg3.github.io/youtube-dl/supportedsites.html), even when embedded to other pages.
+> Download videos from a [plethora of video sources](https://rg3.github.io/youtube-dl/supportedsites.html), even when embedded to other pages.
 
 ### [Hastebin](https://github.com/jvandyke/alfred-hastebin)
-- Create [Hastebin](https://hastebin.com) snippet from selected text.
+> Create [Hastebin](https://hastebin.com) snippet from selected text.
 
 ### [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
 - Search through bookmarks, notes and various websites quickly from Alfred.
@@ -107,6 +111,9 @@
 ### [Alfred Help Workflow](https://github.com/pochemuto/alfred-help-workflow)
 - Search through Alfred workflow triggers.
 <img src="https://i.imgur.com/fBvn0Ob.png" width="500" alt="img">
+
+### [Layout](https://github.com/untoldwind/alfred2-layout)
+- Powerful window manager with many options.
 
 ## Productivity Workflows
 ### [Toggl](https://github.com/jason0x43/alfred-toggl)
@@ -126,6 +133,12 @@
 
 ### [Notes](https://github.com/surrealroad/alfred-notes) 
 - Make new notes or search notes from macOS Notes app quickly.
+
+### [Pocket](https://github.com/fniephaus/alfred-pocket)
+- Manage your Pocket list.
+
+### [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow)
+- Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 
 ### [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
 - Browse all awesome lists in seconds inside Alfred.
@@ -204,6 +217,9 @@
 ### [Time Machine](http://www.packal.org/workflow/time-machine)
 - Inspect and control Time Machine.
 
+### [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList)
+> 
+
 ### [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search)
 - Make Google image searches on local files.
 
@@ -243,11 +259,17 @@
 ### [Various screenshots](https://github.com/vookimedlo/alfred-various-screenshots)
 - Taking various screenshots.
 
+### [Top Process](https://github.com/zhaocai/alfred2-top-workflow)
+-  Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
+
 ### [File Creator](https://github.com/SteliosHa/Alfred_File_Creator)
 - Create files of certain types quickly.
 
 ### [Speak](https://github.com/mklement0/speak.awf)
 - Use OS X's TTS (text-to-speech) feature to speak text aloud.
+
+### [Screensharing](https://github.com/pstadler/alfred-screensharing)
+- Hosts with Screen Sharing enabled will be automatically discovered.
 
 ## Social Workflows 
 ### [Telegram](https://github.com/Jamesits/alfred-workflow-telegram) 
