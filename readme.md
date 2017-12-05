@@ -48,13 +48,15 @@
 
 ### [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant)
 > Search through your Safari history, bookmarks, reading list and more.
+
 <img src="media/safari-assistant.gif" width="400" alt="img">
 
 ### [Repos](https://github.com/deanishe/alfred-repos)
-- Browse, search and open Git repositories.
+> Browse, search and open Git repositories.
 
 ### [Units](http://units.dnsu.ch)
 > Do quick unit conversions.
+
 <img src="media/units.gif" width="400" alt="img">
 
 ### [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
@@ -89,6 +91,7 @@
 
 ### [Secure Shell](https://github.com/deanishe/alfred-ssh)
 > Open SSH/SFTP/mosh connections from Alfred.
+
 <img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" width="400" alt="img">
 
 ### [iTerm Window/Tab switch](https://github.com/isometry/alfred-tty)
@@ -346,4 +349,4 @@ And here is the markdown code you can use to include the badge in your own workf
 `[![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows)`
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/
