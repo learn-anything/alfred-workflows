@@ -1,8 +1,6 @@
 # Alfred Workflows [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 > Curated list of all the amazing [Alfred Workflows](https://www.alfredapp.com/workflows/)
 
-[<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Alfred-logo.png" align="right" width="100">](https://www.alfredapp.com/)
-
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Contents
@@ -104,15 +102,17 @@
 ### [Hastebin](https://github.com/jvandyke/alfred-hastebin)
 > Create [Hastebin](https://hastebin.com) snippet from selected text.
 
-### [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
-- Search through bookmarks, notes and various websites quickly from Alfred.
+### [My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
+> Search through bookmarks, notes and various websites quickly from Alfred.
+
 <img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-my-mind/master/media/demo.gif" width="400" alt="img">
 
 ### [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot)
 - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
 
-### [Alfred Help Workflow](https://github.com/pochemuto/alfred-help-workflow)
-- Search through Alfred workflow triggers.
+### [Alfred Triggers](https://github.com/pochemuto/alfred-help-workflow)
+> Search through Alfred workflow triggers.
+
 <img src="https://i.imgur.com/fBvn0Ob.png" width="500" alt="img">
 
 ### [Layout](https://github.com/untoldwind/alfred2-layout)
@@ -122,7 +122,7 @@
 ### [Toggl](https://github.com/jason0x43/alfred-toggl)
 - Operate [Toggl](https://toggl.com) from Alfred.
 
-### [Alfred Maestro](https://github.com/iansinnott/alfred-maestro)
+### [Maestro](https://github.com/iansinnott/alfred-maestro)
 - Search through your [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros from Alfred.
 
 ### [Weather](https://github.com/jason0x43/alfred-weather)
@@ -144,7 +144,8 @@
 - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 
 ### [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
-- Browse all awesome lists in seconds inside Alfred.
+> Browse all awesome lists in seconds inside Alfred.
+
 <img src="https://camo.githubusercontent.com/71b00206db6fc648f6daa8f79a38905b67ffa587/68747470733a2f2f692e696d6775722e636f6d2f325a657a4a737a2e706e67" width="400" alt="img">
 
 ## Developer Workflows
