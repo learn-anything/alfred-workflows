@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://i.imgur.com/7jjgelL.png" width="128" height="128">
+</p>
+
 # Alfred Workflows [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything#explore-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 > Curated list of all the amazing [Alfred Workflows](https://www.alfredapp.com/workflows/)
 
@@ -339,4 +343,4 @@ And here is the markdown code you can use to include the badge in your own workf
 `[![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows)`
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.reativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
