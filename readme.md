@@ -54,7 +54,7 @@
 > Do quick unit conversions.
 <img src="media/units.gif" width="400" alt="img">
 
-### [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
+### [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow).
 > Search through currently active app's menu bar quickly from Alfred.
 
 ### [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
