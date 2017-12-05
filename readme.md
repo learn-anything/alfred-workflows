@@ -116,26 +116,26 @@
 <img src="https://i.imgur.com/fBvn0Ob.png" width="500" alt="img">
 
 ### [Layout](https://github.com/untoldwind/alfred2-layout)
-- Powerful window manager with many options.
+> Powerful window manager with many options.
 
 ## Productivity Workflows
 ### [Toggl](https://github.com/jason0x43/alfred-toggl)
-- Operate [Toggl](https://toggl.com) from Alfred.
+> Operate [Toggl](https://toggl.com) from Alfred.
 
 ### [Maestro](https://github.com/iansinnott/alfred-maestro)
-- Search through your [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros from Alfred.
+> Search through your [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros from Alfred.
 
 ### [Weather](https://github.com/jason0x43/alfred-weather)
-- Get latest weather for the day, week.
+> Get latest weather for the day, week.
 
 ### [Machine Clean](http://www.packal.org/workflow/machineclean)
-- Freeze keyboard input for some time to clean your keyboard.
+> Freeze keyboard input for some time to clean your keyboard.
 
 ### [Uninstall with Clean my Mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3)
-- Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac).
+> Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac).
 
 ### [Notes](https://github.com/surrealroad/alfred-notes) 
-- Make new notes or search notes from macOS Notes app quickly.
+> Make new notes or search notes from macOS Notes app quickly.
 
 ### [Pocket](https://github.com/fniephaus/alfred-pocket)
 - Manage your Pocket list.

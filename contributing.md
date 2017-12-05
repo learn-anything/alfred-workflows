@@ -1,6 +1,5 @@
 # Contribution Guidelines
 Ensure your pull request adheres to the following guidelines:
-
 - Search included workflows before adding a new one, as yours may be a duplicate.
 - Every workflow addition should follow the same format.
 	1. The workflow should be put into its appropriate category (Just put the one you think is closest if you are not sure).
@@ -11,5 +10,6 @@ Ensure your pull request adheres to the following guidelines:
 - End all descriptions with a full stop.
 - Check your spelling and grammar.
 - If you are unsure about anything, feel free to [open up an issue](https://github.com/learn-anything/alfred-workflows/issues/new) and we will help you.
+- If you want to add [related websites or repositories](https://github.com/learn-anything/alfred-workflows#related-websites--repositories), give a description of the website when possible.
 
 Thank you for your suggestions! 💜
