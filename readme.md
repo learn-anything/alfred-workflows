@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/7jjgelL.png" width="128" height="128">
+    <img src="https://i.imgur.com/7jjgelL.png" width="640" height="128">
 </p>
 
 # Alfred Workflows [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything#explore-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
