@@ -152,8 +152,6 @@
 ### [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
 > Browse all awesome lists in seconds inside Alfred.
 
-<img src="https://camo.githubusercontent.com/71b00206db6fc648f6daa8f79a38905b67ffa587/68747470733a2f2f692e696d6775722e636f6d2f325a657a4a737a2e706e67" width="400" alt="img">
-
 ## Developer Workflows
 ### [Npms](https://github.com/sindresorhus/alfred-npms) 
 > Search for npm packages with [npms.io](https://npms.io).
@@ -214,8 +212,6 @@
 ## Web Workflows
 ### [Reddit search](https://github.com/deanishe/alfred-reddit)
 > Find subreddits and browse hot posts from [Reddit](http://reddit.com).
-
-<img src="https://raw.githubusercontent.com/deanishe/alfred-reddit/master/demo.gif" width="400" alt="img">
 
 ## Design Workflows
 ### [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow)
@@ -322,8 +318,6 @@
 ## Fun Workflows
 ### [Birthday](https://github.com/nikitavoloboev/alfred-birthday)
 > Showcase how much time passed since your birthday.
-
-<img src="https://camo.githubusercontent.com/e25d3abf30a4523048dfbe0bbf6af472fcf89769/68747470733a2f2f692e696d6775722e636f6d2f71756d477643752e706e67" width="400" alt="img">
 
 ### [Figlet](https://github.com/importre/alfred-figlet)
 > Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js)
