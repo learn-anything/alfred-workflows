@@ -43,10 +43,10 @@
 <img src="media/dash.gif" width="400" alt="img">
 
 ### [GitHub Jump](https://github.com/lox/alfred-github-jump)
-> Search your own and your GitHub starred repositories.
+> Search your and your GitHub starred repositories.
 
 ### [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant)
-> Search through your Safari history, bookmarks, reading list and more.
+> Search through your Safari history, bookmarks, reading list.
 
 <img src="media/safari-assistant.gif" width="400" alt="img">
 
@@ -59,7 +59,7 @@
 <img src="media/units.gif" width="400" alt="img">
 
 ### [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
-> Search through currently active app's menu bar quickly.
+> Search through currently active app's menu bar actions quickly.
 
 ### [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
 > Search through any website on the web.
