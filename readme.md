@@ -21,7 +21,6 @@
 - [Education workflows](#education-workflows)
 - [Music Workflows](#music-workflows)
 - [Fun Workflows](#fun-workflows)
-- [Help Workflows](#help-workflows)
 - [Collections of Workflows](#collections-of-workflows)
 - [Libraries to build workflows](#libraries-to-build-workflows)
 - [Related Websites / Repositories](#related-websites--repositories)
@@ -34,17 +33,17 @@
 <img src="media/searchio.gif" width="400" alt="img">
 
 ### [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player)
-> Fully control Spotify from Alfred.
+> Fully control Spotify.
 
 <img src="media/spotify.gif" width="400" alt="img">
 
 ### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
-> Companion workflow to [Dash](https://kapeli.com/dash) to quickly search through any docset that you have downloaded.
+> Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
 
 <img src="media/dash.gif" width="400" alt="img">
 
 ### [GitHub Jump](https://github.com/lox/alfred-github-jump)
-> Saves all your starred repositories to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
+> Search your own and your GitHub starred repositories.
 
 ### [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant)
 > Search through your Safari history, bookmarks, reading list and more.
@@ -60,10 +59,10 @@
 <img src="media/units.gif" width="400" alt="img">
 
 ### [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
-> Search through currently active app's menu bar quickly from Alfred.
+> Search through currently active app's menu bar quickly.
 
 ### [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
-> Search through any website on the web from Alfred.
+> Search through any website on the web.
 
 <img src="media/web-searches.gif" width="400" alt="img">
 
@@ -79,18 +78,18 @@
 > Quickly search through all Unicode symbols.
 
 ### [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2)
-> Browse through your Downloads directory or any other directory you specify from Alfred.
+> Browse through your Downloads directory or any other directory you specify.
 
 ### [Eggtimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/)
 > Quickly set timers to notify you of things.
 
 ### [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share)
-> Create many of web's submission from Alfred.
+> Create various web submission.
 
 <img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/media/demo.gif" width="400" alt="img">
 
 ### [Secure Shell](https://github.com/deanishe/alfred-ssh)
-> Open SSH/SFTP/mosh connections from Alfred.
+> Open SSH/SFTP/mosh connections.
 
 <img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" width="400" alt="img">
 
@@ -107,7 +106,7 @@
 > Create [Hastebin](https://hastebin.com) snippet from selected text.
 
 ### [My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
-> Search through bookmarks, notes and various websites quickly from Alfred.
+> Search through bookmarks, notes and various websites quickly.
 
 <img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-my-mind/master/media/demo.gif" width="400" alt="img">
 
@@ -122,12 +121,15 @@
 ### [Layout](https://github.com/untoldwind/alfred2-layout)
 > Powerful window manager with many options.
 
+### [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow)
+> Incrementally search for [Font Awesome](http://fontawesome.io/icons/) icons.
+
 ## Productivity Workflows
 ### [Toggl](https://github.com/jason0x43/alfred-toggl)
-> Operate [Toggl](https://toggl.com) from Alfred.
+> Operate [Toggl](https://toggl.com).
 
 ### [Maestro](https://github.com/iansinnott/alfred-maestro)
-> Search through your [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros from Alfred.
+> Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 
 ### [Weather](https://github.com/jason0x43/alfred-weather)
 > Get latest weather for the day, week.
@@ -157,13 +159,13 @@
 > Search for npm packages with [npms.io](https://npms.io).
 
 ### [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred)
-> Search through [Cocoapods](https://cocoapods.org) with Alfred.
+> Search through [Cocoapods](https://cocoapods.org).
 
 ### [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html) 
-> Alfred integration for [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
+> Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
 
 ### [GitHub Gists](https://github.com/danielecook/gist-alfred)
-> Search through GitHub gists from Alfred.
+> Search through GitHub gists.
 
 ### [GitHub Integration](https://github.com/gharlan/alfred-github-workflow)
 > Fully featured workflow to interact with GitHub.
@@ -191,6 +193,9 @@
 
 ### [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables)
 > Search your shell's variables.
+
+### [Tower](https://github.com/cjlucas/tower-alfred-workflow)
+> Search / Open Tower git repositories.
 
 ## Writing Workflows
 ### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
@@ -277,24 +282,31 @@
 ### [Speak](https://github.com/mklement0/speak.awf)
 > Use OS X's TTS (text-to-speech) feature to speak text aloud.
 
+### [Crypto Tracker](https://github.com/rhlsthrm/alfred-crypto-tracker)
+> Quickly check cryptocurrency prices.
+
 ### [Screensharing](https://github.com/pstadler/alfred-screensharing)
 > Hosts with Screen Sharing enabled will be automatically discovered.
 
+### [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory)
+> Quckly open any Alfred Workflow directory in your Terminal, Finder.
+
 ## Social Workflows 
 ### [Telegram](https://github.com/Jamesits/alfred-workflow-telegram) 
-> Search for stickers and quickly operate Telegram from Alfred.
+> Search for stickers and quickly operate Telegram.
 
 ## Translation Workflows
 ### [Google Translate](https://www.alfredforum.com/topic/4549-google-translate-languages-configurable/)
 > Translate text using Google Translate (over 80+ languages to choose from).
 
+### [Linguee](https://github.com/alexander-heimbuch/linguee-alfred-workflow)
+> Translate German-English and vice versa with [linguee.de](https://www.linguee.de).
+
 ### [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate)
 > Quickly translate from Russion > English and vice versa.
 
 ### [Translate ger-en en-ger + 8 others](https://github.com/dennis-tra/alfred-dict.cc-workflow)
-> Quickly translate from German > English and vice versa (see [repo](https://github.com/dennis-tra/alfred-dict.cc-workflow) for eight more languages).
-
-<img src="https://github.com/dennis-tra/alfred-dict.cc-workflow/blob/master/alfred-dict.cc-example.gif?raw=true" width="400" alt="img">
+> Quickly translate from German > English and vice versa.
 
 ## Education workflows
 ### [Papers 3](https://github.com/wookayin/alfred-papers3-workflow)
@@ -318,10 +330,6 @@
 
 ### [Minecraft Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook)
 > Search all Minecraft recipes.
-
-## Help Workflows
-### [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory)
-> Quckly open any Alfred Workflow directory in your Terminal, Finder.
 
 ## Collections of Workflows
 ### [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
@@ -349,4 +357,4 @@ And here is the markdown code you can use to include the badge in your own workf
 `[![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows)`
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
