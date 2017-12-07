@@ -121,6 +121,9 @@
 ### [Layout](https://github.com/untoldwind/alfred2-layout)
 > Powerful window manager with many options.
 
+### [GitHub Repo Search](https://github.com/anoff/alfred-github)
+> Find projects on GitHub.
+
 ### [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow)
 > Incrementally search for [Font Awesome](http://fontawesome.io/icons/) icons.
 
@@ -137,14 +140,23 @@
 ### [Machine Clean](http://www.packal.org/workflow/machineclean)
 > Freeze keyboard input for some time to clean your keyboard.
 
+### [Notes](https://github.com/surrealroad/alfred-notes)
+> Create and search Apple Notes.
+
 ### [Uninstall with Clean my Mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3)
 > Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac).
 
 ### [Notes](https://github.com/surrealroad/alfred-notes) 
 > Make new notes or search notes from macOS Notes app quickly.
 
+### [Drive](https://github.com/azai91/alfred-drive-workflow)
+> Search Google Drive.
+
 ### [Pocket](https://github.com/fniephaus/alfred-pocket)
 > Manage your Pocket list.
+
+### [Chrome History](https://github.com/manifestinteractive/alfred-workflows/tree/master/Chrome%20History)
+> Open Recent Google Chrome Webpages.
 
 ### [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow)
 > Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
@@ -156,8 +168,14 @@
 ### [Npms](https://github.com/sindresorhus/alfred-npms) 
 > Search for npm packages with [npms.io](https://npms.io).
 
+### [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow)
+> Search [StackOverflow.com](https://stackoverflow.com).
+
 ### [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred)
 > Search through [Cocoapods](https://cocoapods.org).
+
+### [GitHub Gists](https://github.com/danielecook/gist-alfred)
+> Access starred Gists as snippets.
 
 ### [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html) 
 > Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
@@ -168,8 +186,11 @@
 ### [GitHub Integration](https://github.com/gharlan/alfred-github-workflow)
 > Fully featured workflow to interact with GitHub.
 
-### [GitHub Repo Search](https://github.com/anoff/alfred-github)
-> Find to projects on GitHub.
+### [Devdocs](https://github.com/yannickglt/alfred-devdocs)
+> Search through [devdocs.io](http://devdocs.io/).
+
+### [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow)
+> Search [can I use](https://caniuse.com) website.
 
 ### [MDN search](https://github.com/klaascuvelier/alfred-mdn)
 > Search MDN documentation.
@@ -192,6 +213,9 @@
 ### [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables)
 > Search your shell's variables.
 
+### [Git Ignore Templates](https://github.com/importre/alfred-gi)
+> find `*.gitignore files`.
+
 ### [Tower](https://github.com/cjlucas/tower-alfred-workflow)
 > Search / Open Tower git repositories.
 
@@ -205,6 +229,9 @@
 ### [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow)
 > Find LaTeX commands for symbols.
 
+### [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher)
+> Access the React & React Native Documentation.
+
 ## macOS Workflows 
 ### [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) 
 > Quickly toggle menu bar dark mode.
@@ -212,6 +239,12 @@
 ## Web Workflows
 ### [Reddit search](https://github.com/deanishe/alfred-reddit)
 > Find subreddits and browse hot posts from [Reddit](http://reddit.com).
+
+### [HackerBoard](https://github.com/vitorgalvao/alfred-workflows/tree/master/HackerBoard)
+> Front page news from Hacker News and Pinboard.
+
+### [Product Hunt](https://github.com/loris/alfred-producthunt-workflow)
+> Get today's hunts from [Product Hunt](https://www.producthunt.com/).
 
 ## Design Workflows
 ### [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow)
@@ -275,6 +308,9 @@
 ### [File Creator](https://github.com/SteliosHa/Alfred_File_Creator)
 > Create files of certain types quickly.
 
+### [Viscosity](https://github.com/deanishe/alfred-viscosity)
+> Manage Viscosity VPN connections.
+
 ### [Speak](https://github.com/mklement0/speak.awf)
 > Use OS X's TTS (text-to-speech) feature to speak text aloud.
 
@@ -283,6 +319,9 @@
 
 ### [Screensharing](https://github.com/pstadler/alfred-screensharing)
 > Hosts with Screen Sharing enabled will be automatically discovered.
+
+### [Brightness](https://github.com/fniephaus/alfred-brightness)
+> Adjust your display's brightness.
 
 ### [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory)
 > Quckly open any Alfred Workflow directory in your Terminal, Finder.
@@ -302,7 +341,7 @@
 > Quickly translate from Russion > English and vice versa.
 
 ### [Translate ger-en en-ger + 8 others](https://github.com/dennis-tra/alfred-dict.cc-workflow)
-> Quickly translate from German > English and vice versa.
+> Quickly translate from German > English and vice versa + 8 other languages.
 
 ## Education workflows
 ### [Papers 3](https://github.com/wookayin/alfred-papers3-workflow)
