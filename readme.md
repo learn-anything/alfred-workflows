@@ -23,7 +23,7 @@
 - [Fun Workflows](#fun-workflows)
 - [Collections of Workflows](#collections-of-workflows)
 - [Libraries to build workflows](#libraries-to-build-workflows)
-- [Related Websites / Repositories](#related-websites--repositories)
+- [Related](#related)
 - [GitHub badge](#github-badge)
 
 ## Essential Workflows
@@ -182,6 +182,9 @@
 
 ### [GitHub Gists](https://github.com/danielecook/gist-alfred)
 > Search through GitHub gists.
+
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow)
+> Quick package/plugin/component (repo) lookup for your favourite package managers.
 
 ### [GitHub Integration](https://github.com/gharlan/alfred-github-workflow)
 > Fully featured workflow to interact with GitHub.
@@ -375,7 +378,7 @@
 ### [Alfred Workflow](https://github.com/deanishe/alfred-workflow)
 > Write workflows in Python.
 
-## Related Websites / Repositories
+## Related 
 - [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
 - [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
 - [Alfred workflows](https://github.com/zenorocha/alfred-workflows)

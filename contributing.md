@@ -8,7 +8,5 @@ Ensure your pull request adheres to the following guidelines:
 - End all descriptions with a full stop.
 - Only `essential` workflows can have an Image or GIF to showcase the workflow. What is essential is subjective but we still want to keep it as a category.
 - Check your spelling and grammar.
-- If you are unsure about anything, feel free to [open up an issue](https://github.com/learn-anything/alfred-workflows/issues/new) and we will help you.
-- If you want to add to [related websites or repositories](https://github.com/learn-anything/alfred-workflows#related-websites--repositories), give a description of the website/repo where possible.
 
 Thank you for your suggestions! 💜
