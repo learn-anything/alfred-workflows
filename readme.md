@@ -40,195 +40,94 @@
 <img src="media/dash.gif" width="400" alt="img">
 
 - [GitHub Jump](https://github.com/lox/alfred-github-jump) - Search your and your GitHub starred repositories.
-
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Search through your Safari history, bookmarks, reading list.
 
 <img src="media/safari-assistant.gif" width="400" alt="img">
 
-### [Repos](https://github.com/deanishe/alfred-repos)
-> Browse, search and open Git repositories.
-
-### [Units](http://units.dnsu.ch)
-> Do quick unit conversions.
+- [Repos](https://github.com/deanishe/alfred-repos) - Browse, search and open Git repositories.
+- [Units](http://units.dnsu.ch) - Do quick unit conversions.
 
 <img src="media/units.gif" width="400" alt="img">
 
-### [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
-> Search through currently active app's menu bar actions quickly.
-
-### [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
-> Search through any website on the web.
+- [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) - Search through currently active app's menu bar actions quickly.
+- [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web.
 
 <img src="media/web-searches.gif" width="400" alt="img">
 
-### [Process Control](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl)
-> Search through currently active processes and kill ones that are misbehaving quickly.
+- [Process Control](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl) - Search through currently active processes and kill ones that are misbehaving quickly.
 
 <img src="https://camo.githubusercontent.com/78a80d4af16988c37e22b92798cf4208db39e2d5/68747470733a2f2f692e696d6775722e636f6d2f5146643569626a2e706e67" width="400" alt="img">
 
-### [Mailto](https://github.com/deanishe/alfred-mailto) 
-> Search through your contact list to send emails to one or multiple people.
+- [Mailto](https://github.com/deanishe/alfred-mailto)  - Search through your contact list to send emails to one or multiple people.
+- [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search) - Quickly search through all Unicode symbols.
+- [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Browse through your Downloads directory or any other directory you specify.
 
-### [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search)
-> Quickly search through all Unicode symbols.
-
-### [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2)
-> Browse through your Downloads directory or any other directory you specify.
-
-### [Eggtimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/)
-> Quickly set timers to notify you of things.
-
-### [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share)
-> Create various web submission.
+- [Eggtimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/) - Quickly set timers to notify you of things.
+- [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create various web submission.
 
 <img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-ask-create-share/master/media/demo.gif" width="400" alt="img">
 
-### [Secure Shell](https://github.com/deanishe/alfred-ssh)
-> Open SSH/SFTP/mosh connections.
+- [Secure Shell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
 
 <img src="https://raw.githubusercontent.com/deanishe/alfred-ssh/master/demo.gif" width="400" alt="img">
 
-### [iTerm Window/Tab switch](https://github.com/isometry/alfred-tty)
-> Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
-
-### [Upload Files](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/)
-> Quickly upload local files to share with [transfer.sh](https://transfer.sh).
-
-### [DownVid](https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/) 
-> Download videos from a [plethora of video sources](https://rg3.github.io/youtube-dl/supportedsites.html), even when embedded to other pages.
-
-### [Hastebin](https://github.com/jvandyke/alfred-hastebin)
-> Create [Hastebin](https://hastebin.com) snippet from selected text.
-
-### [My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
-> Search through bookmarks, notes and various websites quickly.
+- [iTerm Window/Tab switch](https://github.com/isometry/alfred-tty) - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
+- [Upload Files](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/) - Quickly upload local files to share with [transfer.sh](https://transfer.sh).
+- [DownVid](https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/)  - Download videos from a [plethora of video sources](https://rg3.github.io/youtube-dl/supportedsites.html), even when embedded to other pages.
+- [Hastebin](https://github.com/jvandyke/alfred-hastebin) - Create [Hastebin](https://hastebin.com) snippet from selected text.
+- [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through bookmarks, notes and various websites quickly.
 
 <img src="https://raw.githubusercontent.com/nikitavoloboev/alfred-my-mind/master/media/demo.gif" width="400" alt="img">
 
-### [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot)
-- Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
-
-### [Alfred Triggers](https://github.com/pochemuto/alfred-help-workflow)
-> Search through Alfred workflow triggers.
+- [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
+- [Alfred Triggers](https://github.com/pochemuto/alfred-help-workflow) - Search through Alfred workflow triggers.
 
 <img src="https://i.imgur.com/fBvn0Ob.png" width="500" alt="img">
 
-### [Layout](https://github.com/untoldwind/alfred2-layout)
-> Powerful window manager with many options.
-
-### [GitHub Repo Search](https://github.com/anoff/alfred-github)
-> Find projects on GitHub.
-
-### [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow)
-> Incrementally search for [Font Awesome](http://fontawesome.io/icons/) icons.
+- [Layout](https://github.com/untoldwind/alfred2-layout) - Powerful window manager with many options.
+- [GitHub Repo Search](https://github.com/anoff/alfred-github) - Find projects on GitHub.
+- [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) - Incrementally search for [Font Awesome](http://fontawesome.io/icons/) icons.
 
 ## Productivity Workflows
-### [Toggl](https://github.com/jason0x43/alfred-toggl)
-> Operate [Toggl](https://toggl.com).
-
-### [Maestro](https://github.com/iansinnott/alfred-maestro)
-> Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
-
-### [Weather](https://github.com/jason0x43/alfred-weather)
-> Get latest weather for the day, week.
-
-### [Machine Clean](http://www.packal.org/workflow/machineclean)
-> Freeze keyboard input for some time to clean your keyboard.
-
-### [Notes](https://github.com/surrealroad/alfred-notes)
-> Create and search Apple Notes.
-
-### [Uninstall with Clean my Mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3)
-> Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac).
-
-### [Notes](https://github.com/surrealroad/alfred-notes) 
-> Make new notes or search notes from macOS Notes app quickly.
-
-### [Drive](https://github.com/azai91/alfred-drive-workflow)
-> Search Google Drive.
-
-### [Pocket](https://github.com/fniephaus/alfred-pocket)
-> Manage your Pocket list.
-
-### [Chrome History](https://github.com/manifestinteractive/alfred-workflows/tree/master/Chrome%20History)
-> Open Recent Google Chrome Webpages.
-
-### [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow)
-> Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
-
-### [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists)
-> Browse all awesome lists in seconds inside Alfred.
+- [Toggl](https://github.com/jason0x43/alfred-toggl) - Operate [Toggl](https://toggl.com).
+- [Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
+- [Weather](https://github.com/jason0x43/alfred-weather) - Get latest weather for the day, week.
+- [Machine Clean](http://www.packal.org/workflow/machineclean) - Freeze keyboard input for some time to clean your keyboard.
+- [Notes](https://github.com/surrealroad/alfred-notes) - Create and search Apple Notes.
+- [Uninstall with Clean my Mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3) - Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac).
+- [Notes](https://github.com/surrealroad/alfred-notes) - Make new notes or search notes from macOS Notes app quickly.
+- [Drive](https://github.com/azai91/alfred-drive-workflow)- Search Google Drive.
+- [Pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list.
+- [Chrome History](https://github.com/manifestinteractive/alfred-workflows/tree/master/Chrome%20History) - Open Recent Google Chrome Webpages.
+- [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow) - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/)
+- [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds inside Alfred.
 
 ## Developer Workflows
-### [Npms](https://github.com/sindresorhus/alfred-npms) 
-> Search for npm packages with [npms.io](https://npms.io).
-
-### [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow)
-> Search [StackOverflow.com](https://stackoverflow.com).
-
-### [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred)
-> Search through [Cocoapods](https://cocoapods.org).
-
-### [GitHub Gists](https://github.com/danielecook/gist-alfred)
-> Access starred Gists as snippets.
-
-### [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html) 
-> Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
-
-### [GitHub Gists](https://github.com/danielecook/gist-alfred)
-> Search through GitHub gists.
-
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow)
-> Quick package/plugin/component (repo) lookup for your favourite package managers.
-
-### [GitHub Integration](https://github.com/gharlan/alfred-github-workflow)
-> Fully featured workflow to interact with GitHub.
-
-### [Devdocs](https://github.com/yannickglt/alfred-devdocs)
-> Search through [devdocs.io](http://devdocs.io/).
-
-### [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow)
-> Search [can I use](https://caniuse.com) website.
-
-### [MDN search](https://github.com/klaascuvelier/alfred-mdn)
-> Search MDN documentation.
-
-### [TLDR](https://github.com/cs1707/tldr-alfred)
-> Search [TLDR](https://github.com/tldr-pages/tldr) pages.
-
-### [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow)
-> Search AWS Console Services.
-
-### [HTTP Status Codes](https://github.com/ilstar/http_status_code)
-> Check out HTTP status code quickly.
-
-### [D2](https://github.com/nire0510/d2)
-> Quick access to popular libraries, frameworks & tools online developer documentation.
-
-### [Vagrant Up](https://github.com/m1keil/alfred-vagrant-workflow)
-> Control Vagrant.
-
-### [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables)
-> Search your shell's variables.
-
-### [Git Ignore Templates](https://github.com/importre/alfred-gi)
-> find `*.gitignore files`.
-
-### [Tower](https://github.com/cjlucas/tower-alfred-workflow)
-> Search / Open Tower git repositories.
+- [Npms](https://github.com/sindresorhus/alfred-npms)  - Search for npm packages with [npms.io](https://npms.io).
+- [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow) - Search [StackOverflow.com](https://stackoveflow.com).
+- [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred) - Search through [Cocoapods](htts://cocoapods.org).
+- [GitHub Gists](https://github.com/danielecook/gist-alfred) - Access starred Gists as snippets.
+- [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html)  - Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app
+- [GitHub Gists](https://github.com/danielecook/gist-alfred) - Search through GitHub gists.
+- [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Quick package/plugin/component (repo) lookup for your favourite package managers
+- [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) - Fully featured workflow to inteact with GitHub.
+- [Devdocs](https://github.com/yannickglt/alfred-devdocs) - Search through [devdocs.io](http://devdocs.io/)
+- [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) - Search [can Iuse](https://caniuse.com) website.
+- [MDN search](https://github.com/klaascuvelier/alfred-mdn) - Search MDN documentation
+- [TLDR](https://github.com/cs1707/tldr-alfred) - Search [TLDR](https://github.com/tldr-pages/tldr) pages
+- [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Search AWS onsole Services.
+- [HTTP Status Codes](https://github.com/ilstar/http_status_code) - Check out HTTP status code quickly
+- [D2](https://github.com/nire0510/d2) - Quick access to popular libraries, framewoks & tools online developer documentation.
+- [Vagrant Up](https://github.com/m1keil/alfred-vagrant-workflow) - Control Vagrant
+- [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell'svariables.
+- [Git Ignore Templates](https://github.com/importre/alfred-gi) - find `*.gitignore files`
+- [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search / Open Tower git repositories.
 
 ## Writing Workflows
-### [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow)
-> Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
-
-### [Synart](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt)
-> Search for synonyms and antonyms.
-
-### [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow)
-> Find LaTeX commands for symbols.
-
-### [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher)
-> Access the React & React Native Documentation.
+- [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/)
+- [Synart](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
+- [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow) - Find LaTeX commands for symbols
+- [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
 
 ## macOS Workflows 
 ### [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) 
