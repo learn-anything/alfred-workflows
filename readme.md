@@ -142,6 +142,7 @@
 - [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate) - Quickly translate from Russion > English and vice versa.
 - [Translate ger-en en-ger + 8 others](https://github.com/dennis-tra/alfred-dict.cc-workflow) - Quickly translate from German > English and vice versa + 8 other languages.
 
+
 ## Education workflows
 - [Papers 3](https://github.com/wookayin/alfred-papers3-workflow) - Search Papers3 items.
 
