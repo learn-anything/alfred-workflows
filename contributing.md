@@ -6,5 +6,6 @@ Ensure your pull request adheres to the following guidelines:
 	2. Omit `Alfred` in workflow name if possible.
 	3. End all descriptions with a full stop.
 - Check your spelling and grammar.
+- You can also add other related websites and repositories in the end.
 
 Thank you for your [suggestions](https://github.com/learn-anything/alfred-workflows/edit/master/readme.md)! 💜
