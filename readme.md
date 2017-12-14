@@ -27,26 +27,21 @@
 - [GitHub badge](#github-badge)
 
 ## Essential Workflows
-### [Searchio](https://github.com/deanishe/alfred-searchio) 
-> Quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type.
+- [Searchio](https://github.com/deanishe/alfred-searchio) - Quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type.
 
 <img src="media/searchio.gif" width="400" alt="img">
 
-### [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player)
-> Fully control Spotify.
+- [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) - Fully control Spotify.
 
 <img src="media/spotify.gif" width="400" alt="img">
 
-### [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
-> Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
+- [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
 
 <img src="media/dash.gif" width="400" alt="img">
 
-### [GitHub Jump](https://github.com/lox/alfred-github-jump)
-> Search your and your GitHub starred repositories.
+- [GitHub Jump](https://github.com/lox/alfred-github-jump) - Search your and your GitHub starred repositories.
 
-### [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant)
-> Search through your Safari history, bookmarks, reading list.
+- [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Search through your Safari history, bookmarks, reading list.
 
 <img src="media/safari-assistant.gif" width="400" alt="img">
 
