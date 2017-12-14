@@ -65,7 +65,7 @@
 - [Drive](https://github.com/azai91/alfred-drive-workflow)- Search Google Drive.
 - [Pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list.
 - [Chrome History](https://github.com/manifestinteractive/alfred-workflows/tree/master/Chrome%20History) - Open Recent Google Chrome Webpages.
-- [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow) - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/)
+- [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow) - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 - [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds inside Alfred.
 
 ## Developer 
@@ -73,26 +73,26 @@
 - [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow) - Search [StackOverflow.com](https://stackoveflow.com).
 - [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred) - Search through [Cocoapods](htts://cocoapods.org).
 - [GitHub Gists](https://github.com/danielecook/gist-alfred) - Access starred Gists as snippets.
-- [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html)  - Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app
+- [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html)  - Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
 - [GitHub Gists](https://github.com/danielecook/gist-alfred) - Search through GitHub gists.
-- [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Quick package/plugin/component (repo) lookup for your favourite package managers
+- [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Quick package/plugin/component (repo) lookup for your favourite package managers.
 - [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) - Fully featured workflow to inteact with GitHub.
 - [Devdocs](https://github.com/yannickglt/alfred-devdocs) - Search through [devdocs.io](http://devdocs.io/)
 - [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) - Search [can Iuse](https://caniuse.com) website.
-- [MDN search](https://github.com/klaascuvelier/alfred-mdn) - Search MDN documentation
+- [MDN search](https://github.com/klaascuvelier/alfred-mdn) - Search MDN documentation.
 - [TLDR](https://github.com/cs1707/tldr-alfred) - Search [TLDR](https://github.com/tldr-pages/tldr) pages
 - [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Search AWS onsole Services.
-- [HTTP Status Codes](https://github.com/ilstar/http_status_code) - Check out HTTP status code quickly
+- [HTTP Status Codes](https://github.com/ilstar/http_status_code) - Check out HTTP status code quickly.
 - [D2](https://github.com/nire0510/d2) - Quick access to popular libraries, framewoks & tools online developer documentation.
-- [Vagrant Up](https://github.com/m1keil/alfred-vagrant-workflow) - Control Vagrant
+- [Vagrant Up](https://github.com/m1keil/alfred-vagrant-workflow) - Control Vagrant.
 - [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell'svariables.
-- [Git Ignore Templates](https://github.com/importre/alfred-gi) - Find `*.gitignore files`
+- [Git Ignore Templates](https://github.com/importre/alfred-gi) - Find `*.gitignore files`.
 - [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search / Open Tower git repositories.
 
 ## Writing 
-- [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/)
+- [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
 - [Synart](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
-- [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow) - Find LaTeX commands for symbols
+- [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow) - Find LaTeX commands for symbols.
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
 
 ## macOS 
@@ -108,28 +108,28 @@
 - [Material Design Icons](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
 
 ## Utilities 
-- [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords
+- [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
-- [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) - Play and manage local audiovisual content and streams
+- [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) - Play and manage local audiovisual content and streams.
 - [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search) - Make Google image searches on localfiles.
 - [Network Locations](https://github.com/deanishe/alfred-network-location) - List, filter and activate network locations.
 - [Syntax highlight code](https://github.com/importre/alfred-hl) - Highlight code in the clipboard using [highlight.js](https://highlightjs.org/)
-- [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate fake test data
-- [Lorem Ipsum](https://github.com/tillkruss/alfred-lorem-ipsum) - Create ultra-fast Lorem Ipsum text
-- [Monitor Resolutions](https://github.com/taylorludwig/Resolutions-Alfred) - Change resolutions on primary monitor
+- [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate fake test data.
+- [Lorem Ipsum](https://github.com/tillkruss/alfred-lorem-ipsum) - Create ultra-fast Lorem Ipsum text.
+- [Monitor Resolutions](https://github.com/taylorludwig/Resolutions-Alfred) - Change resolutions on primary monitor.
 - [Date calculator](https://github.com/LeEnno/alfred-date-calculator) - Display or calculate with current date and time.
-- [Image Optimisation](https://github.com/ramiroaraujo/alfred-image-optim-workflow) - Optimise images to decrease size with [image_optim](https://github.com/toy/image_optim) library
+- [Image Optimisation](https://github.com/ramiroaraujo/alfred-image-optim-workflow) - Optimise images to decrease size with [image_optim](https://github.com/toy/image_optim) library.
 - [Tidy](https://github.com/importre/alfred-tidy) - Beautify JSON/XML in clipboard.
-- [Airport Searching](https://github.com/jeeftor/alfredAirports) - Search for Airports from the [Our Airports](http://ourairports.com/data/) data set
+- [Airport Searching](https://github.com/jeeftor/alfredAirports) - Search for Airports from the [Our Airports](http://ourairports.com/data/) data set.
 - [QR code creator](https://github.com/wensonsmith/QRcodeCreator) - Create QR code from tex.
-- [Display calendar](https://github.com/owenwater/alfred-cal) - Displays a monthly calendar
+- [Display calendar](https://github.com/owenwater/alfred-cal) - Displays a monthly calendar.
 - [Various screenshots](https://github.com/vookimedlo/alfred-various-screenshots) - Taking various screenshots.
-- [Top Process](https://github.com/zhaocai/alfred2-top-workflow) - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status
+- [Top Process](https://github.com/zhaocai/alfred2-top-workflow) - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
 - [File Creator](https://github.com/SteliosHa/Alfred_File_Creator) - Create files of certain tpes quickly.
-- [Viscosity](https://github.com/deanishe/alfred-viscosity) - Manage Viscosity VPN connections
-- [Speak](https://github.com/mklement0/speak.awf) - Use OS X's TTS (text-to-speech) feature to speak text aoud.
+- [Viscosity](https://github.com/deanishe/alfred-viscosity) - Manage Viscosity VPN connections.
+- [Speak](https://github.com/mklement0/speak.awf) - Use OS X's TTS (text-to-speech) feature to speak text aloud.
 - [Crypto Tracker](https://github.com/rhlsthrm/alfred-crypto-tracker) - Quickly check cryptocurrency prices.
-- [Screensharing](https://github.com/pstadler/alfred-screensharing) - Hosts with Screen Sharing enabled will be automatically discovered
+- [Screensharing](https://github.com/pstadler/alfred-screensharing) - Hosts with Screen Sharing enabled will be automatically discovered.
 - [Brightness](https://github.com/fniephaus/alfred-brightness) - Adjust your display's brightness.
 - [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory) - Quckly open any Alfred Workflow directory in your Terminal, Finder.
 
