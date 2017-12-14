@@ -4,7 +4,7 @@ Ensure your pull request adheres to the following guidelines:
 - Every workflow addition should follow the same format:
 	1. The workflow should be put into its appropriate category (Pick the one you think is closest if you are not sure).
 	2. Omit `Alfred` in workflow name if possible.
-- End all descriptions with a full stop.
+	3. End all descriptions with a full stop.
 - Check your spelling and grammar.
 
 Thank you for your [suggestions](https://github.com/learn-anything/alfred-workflows/edit/master/readme.md)! 💜
