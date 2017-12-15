@@ -14,4 +14,4 @@ Ensure your pull request adheres to the following guidelines:
 
 Thank you for your [suggestions](https://github.com/learn-anything/alfred-workflows/edit/master/readme.md)! 💜
 
-You can also add other related websites and repositories in the end.
+You can also add other related websites and repositories in the `Related` section in the end.
