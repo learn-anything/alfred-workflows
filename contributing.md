@@ -12,6 +12,6 @@ Ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorisation are welcome.
 - If you submit a workflow that is similar to an existing workflow in the list, argument how it's better.
 
-Thank you for your [suggestions](https://github.com/learn-anything/alfred-workflows/edit/master/readme.md)! 💜
-
 You can also add other related websites and repositories in the `Related` section in the end.
+
+Thank you for your [suggestions](https://github.com/learn-anything/alfred-workflows/edit/master/readme.md)! 💜
