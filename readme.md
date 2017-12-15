@@ -87,7 +87,7 @@
 - [Vagrant Up](https://github.com/m1keil/alfred-vagrant-workflow) - Control Vagrant.
 - [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell's variables.
 - [Git Ignore Templates](https://github.com/importre/alfred-gi) - Find `*.gitignore files`.
-- [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search / Open Tower git repositories.
+- [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search/Open Tower git repositories.
 
 ## Writing
 - [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
