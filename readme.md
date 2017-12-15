@@ -85,7 +85,7 @@
 - [HTTP Status Codes](https://github.com/ilstar/http_status_code) - Check out HTTP status code quickly.
 - [D2](https://github.com/nire0510/d2) - Quick access to popular libraries, framewoks & tools online developer documentation.
 - [Vagrant Up](https://github.com/m1keil/alfred-vagrant-workflow) - Control Vagrant.
-- [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell'svariables.
+- [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell'sv ariables.
 - [Git Ignore Templates](https://github.com/importre/alfred-gi) - Find `*.gitignore files`.
 - [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search / Open Tower git repositories.
 
