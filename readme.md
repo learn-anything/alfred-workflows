@@ -26,7 +26,7 @@
 - [Related](#related)
 - [GitHub badge](#github-badge)
 
-## Essential 
+## Essential
 - [Searchio](https://github.com/deanishe/alfred-searchio) - Quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query you type.
 - [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) - Fully control Spotify.
 - [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
@@ -54,7 +54,7 @@
 - [GitHub Repo Search](https://github.com/anoff/alfred-github) - Find projects on GitHub.
 - [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) - Incrementally search for [Font Awesome](http://fontawesome.io/icons/) icons.
 
-## Productivity 
+## Productivity
 - [Toggl](https://github.com/jason0x43/alfred-toggl) - Operate [Toggl](https://toggl.com).
 - [Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 - [Weather](https://github.com/jason0x43/alfred-weather) - Get latest weather for the day, week.
@@ -68,7 +68,7 @@
 - [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow) - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 - [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds inside Alfred.
 
-## Developer 
+## Developer
 - [Npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow) - Search [StackOverflow.com](https://stackoveflow.com).
 - [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred) - Search through [Cocoapods](htts://cocoapods.org).
@@ -89,25 +89,25 @@
 - [Git Ignore Templates](https://github.com/importre/alfred-gi) - Find `*.gitignore files`.
 - [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search / Open Tower git repositories.
 
-## Writing 
+## Writing
 - [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
 - [Synart](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
 - [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow) - Find LaTeX commands for symbols.
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
 
-## macOS 
+## macOS
 - [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode)  - Quickly toggle menu bar dark mode.
 
-## Web 
+## Web
 - [Reddit search](https://github.com/deanishe/alfred-reddit) - Find subreddits and browse hot posts from [Reddit](http://reddit.com).
 - [HackerBoard](https://github.com/vitorgalvao/alfred-workflows/tree/master/HackerBoard) - Front page news from Hacker News and Pinboard.
 - [Product Hunt](https://github.com/loris/alfred-producthunt-workflow) - Get today's hunts from [Product Hunt](https://www.producthunt.com/).
 
-## Design 
+## Design
 - [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 - [Material Design Icons](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
 
-## Utilities 
+## Utilities
 - [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
 - [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) - Play and manage local audiovisual content and streams.
@@ -133,23 +133,23 @@
 - [Brightness](https://github.com/fniephaus/alfred-brightness) - Adjust your display's brightness.
 - [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory) - Quckly open any Alfred Workflow directory in your Terminal, Finder.
 
-## Social 
+## Social
 - [Telegram](https://github.com/Jamesits/alfred-workflow-telegram)  - Search for stickers and quickly operate Telegram.
 
-## Translation 
+## Translation
 - [Google Translate](https://www.alfredforum.com/topic/4549-google-translate-languages-configurable/) - Translate text using Google Translate (over 80+ languages to choose from).
 - [Linguee](https://github.com/alexander-heimbuch/linguee-alfred-workflow) - Translate German-English and vice versa with [linguee.de](https://www.linguee.de)
 - [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate) - Quickly translate from Russion > English and vice versa.
 - [Translate ger-en en-ger + 8 others](https://github.com/dennis-tra/alfred-dict.cc-workflow) - Quickly translate from German > English and vice versa + 8 other languages.
 
-## Education 
+## Education
 - [Papers 3](https://github.com/wookayin/alfred-papers3-workflow) - Search Papers3 items.
 
-## Music 
+## Music
 - [Play Song](https://github.com/caleb531/play-song) - Quickly and easily play music in iTunes.
 - [Discogs Explorer](https://github.com/dotson/Discogs-Explorer) - Explore the [Discogs.com](https://www.discogs.com) database.
 
-## Fun 
+## Fun
 - [Birthday](https://github.com/nikitavoloboev/alfred-birthday) - Showcase how much time passed since your birthday.
 - [Figlet](https://github.com/importre/alfred-figlet) - Asciify plain text using [figlet.js](https://github.com/ptorjk/figlet.js)
 - [Minecraft Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook) - Search all Minecraft recipes.
@@ -162,7 +162,7 @@
 - [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
 - [Alfred Workflow](https://github.com/deanishe/alfred-workflow) - Write workflows in Python.
 
-## Related 
+## Related
 - [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
 - [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
 - [Alfred workflows](https://github.com/zenorocha/alfred)
@@ -171,9 +171,9 @@
 ## GitHub badge
 If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
-Here is how the badge looks like: [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred) 
+Here is how the badge looks like: [![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred)
 
-And here is the markdown code you can use to include the badge in your own workflow repos: 
+And here is the markdown code you can use to include the badge in your own workflow repos:
 `[![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred)`
 
 ## License
