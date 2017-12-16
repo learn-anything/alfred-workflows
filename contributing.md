@@ -6,11 +6,10 @@ Ensure your pull request adheres to the following guidelines:
 - Omit `Alfred` in workflow name as it is implied.
 - Start the description with a capital and end with a full stop/period.
 - Don't start the description with `A` or `An`.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title and include a link to the workflow and why it should be included.
 - New categories or improvements to the existing categorisation are welcome.
 - If you submit a workflow that is similar to an existing workflow in the list, argument how it's better.
+- Check your spelling and grammar.
 
 You can also add other related websites and repositories in the `Related` section in the end.
 
