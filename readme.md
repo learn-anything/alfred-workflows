@@ -27,7 +27,7 @@
 - [GitHub badge](#github-badge)
 
 ## Essential
-- [Searchio](https://github.com/deanishe/alfred-searchio) - Quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly with autosuggestions.
+- [Searchio](https://github.com/deanishe/alfred-searchio) - Search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly with autosuggestions.
 - [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) - Fully control Spotify.
 - [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
 - [GitHub Jump](https://github.com/lox/alfred-github-jump) - Search your and your GitHub starred repositories.
