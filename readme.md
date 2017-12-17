@@ -22,7 +22,7 @@
 - [Music](#music)
 - [Fun](#fun)
 - [Collections of Workflows](#collections-of-workflows)
-- [Libraries to build workflows](#libraries-to-build)
+- [Libraries to build workflows](#libraries-to-build-workflows)
 - [Related](#related)
 - [GitHub badge](#github-badge)
 
