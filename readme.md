@@ -132,6 +132,7 @@
 - [Screensharing](https://github.com/pstadler/alfred-screensharing) - Hosts with Screen Sharing enabled will be automatically discovered.
 - [Brightness](https://github.com/fniephaus/alfred-brightness) - Adjust your display's brightness.
 - [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory) - Quckly open any Alfred Workflow directory in your Terminal, Finder.
+- [IMDB](https://github.com/KevinRamsunder/alfred3-imdb-workflow) - Search IMDB.
 
 ## Social
 - [Telegram](https://github.com/Jamesits/alfred-workflow-telegram)  - Search for stickers and quickly operate Telegram.
