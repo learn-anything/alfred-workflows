@@ -109,6 +109,7 @@
 
 ## Utilities
 - [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords.
+- [Currency Convert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) - Convert currency conveniently.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
 - [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) - Play and manage local audiovisual content and streams.
 - [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search) - Make Google image searches on localfiles.
