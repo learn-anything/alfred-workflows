@@ -158,7 +158,7 @@
 
 ## Collections of Workflows
 - [Vitor's Workflows](https://github.com/vitorgalvao/alfred)
-- [Small Workflows by Nikita](https://github.com/nikitavoloboev/small)
+- [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
 
 ## Libraries to build workflows
 - [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
