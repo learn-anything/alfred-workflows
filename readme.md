@@ -33,6 +33,7 @@
 - [GitHub Jump](https://github.com/lox/alfred-github-jump) - Search your and your GitHub starred repositories.
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Search through your Safari history, bookmarks, reading list.
 - [Repos](https://github.com/deanishe/alfred-repos) - Browse, search and open Git repositories.
+- [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search [Learn Anything](https://learn-anything.xyz/) Website.
 - [Units](http://units.dnsu.ch) - Do quick unit conversions.
 - [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) - Search through currently active app's menu bar actions quickly.
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web.
