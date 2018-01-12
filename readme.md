@@ -109,6 +109,7 @@
 - [Material Design Icons](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
 
 ## Utilities
+- [Emoji](https://github.com/jsumners/alfred-emoji) - Search and copy emoji.
 - [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords.
 - [Currency Convert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) - Convert currency conveniently.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
