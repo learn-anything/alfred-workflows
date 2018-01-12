@@ -90,6 +90,7 @@
 - [Material Design Icons](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
 
 ## Utilities
+- [Emoji](https://github.com/jsumners/alfred-emoji/tree/master) - Search and copy emojis.
 - [Upload Files](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/) - Quickly upload local files to share with [transfer.sh](https://transfer.sh).
 - [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) - Incrementally search for [Font Awesome](http://fontawesome.io/icons/) icons.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
