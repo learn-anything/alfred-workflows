@@ -93,7 +93,6 @@
 - [Upload Files](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/) - Quickly upload local files to share with [transfer.sh](https://transfer.sh).
 - [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) - Incrementally search for [Font Awesome](http://fontawesome.io/icons/) icons.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
-- [Emoji](https://github.com/jsumners/alfred-emoji) - Search and copy emoji.
 - [Layout](https://github.com/untoldwind/alfred2-layout) - Powerful window manager with many options.
 - [Process Control](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl) - Search through currently active processes and kill ones that are misbehaving quickly.
 - [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords.
