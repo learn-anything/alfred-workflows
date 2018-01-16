@@ -63,7 +63,7 @@
 - [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) - Search [can Iuse](https://caniuse.com) website.
 - [MDN search](https://github.com/klaascuvelier/alfred-mdn) - Search MDN documentation.
 - [TLDR](https://github.com/cs1707/tldr-alfred) - Search [TLDR](https://github.com/tldr-pages/tldr) pages
-- [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Search AWS onsole Services.
+- [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Search AWS console Services.
 - [HTTP Status Codes](https://github.com/ilstar/http_status_code) - Check out HTTP status code quickly.
 - [D2](https://github.com/nire0510/d2) - Quick access to popular libraries, framewoks & tools online developer documentation.
 - [Vagrant Up](https://github.com/m1keil/alfred-vagrant-workflow) - Control Vagrant.
