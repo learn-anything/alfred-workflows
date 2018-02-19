@@ -1,4 +1,4 @@
-# Amazing [Alfred Workflows](https://www.alfredapp.com/workflows/) [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists-) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Amazing [Alfred Workflows](https://www.alfredapp.com/workflows/) [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists)
 *Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
 - [Productivity](#productivity)
@@ -165,7 +165,7 @@
 See [contribution guidelines](contributing.md/#contribution-guidelines).
 
 ## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists-).
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists).
 
 ## GitHub badge
 If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
