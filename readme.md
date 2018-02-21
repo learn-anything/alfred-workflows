@@ -89,6 +89,7 @@
 - [Material Design Icons](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
 
 ## Utilities
+- [Show network info](https://github.com/jeppestaerk/alfred-show-network-info) - Get your network information.
 - [Emoji](https://github.com/jsumners/alfred-emoji) - Search and copy emojis.
 - [Upload Files](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/) - Quickly upload local files to share with [transfer.sh](https://transfer.sh).
 - [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) - Incrementally search for [Font Awesome](http://fontawesome.io/icons/) icons.
