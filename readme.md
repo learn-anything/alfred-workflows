@@ -138,6 +138,7 @@
 
 ## Education
 - [Papers 3](https://github.com/wookayin/alfred-papers3-workflow) - Search Papers3 items.
+- [Goodreads](https://github.com/wesbaker/alfred-goodreads-workflow) - Search [Goodreads](https://www.goodreads.com) for books.
 
 ## Music
 - [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) - Fully control Spotify.
