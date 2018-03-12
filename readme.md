@@ -146,7 +146,7 @@
 - [Discogs Explorer](https://github.com/dotson/Discogs-Explorer) - Explore the [Discogs.com](https://www.discogs.com) database.
 
 ## Fun
-- [Birthday](https://github.com/nikitavoloboev/alfred-birthday) - Showcase how much time passed since your birthday.
+- [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday#readme) - Showcase how much time passed since your birthday.
 - [Figlet](https://github.com/importre/alfred-figlet) - Asciify plain text using [figlet.js](https://github.com/ptorjk/figlet.js)
 - [Minecraft Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook) - Search all Minecraft recipes.
 
