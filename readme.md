@@ -160,9 +160,8 @@
 
 ## Related
 - [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
-- [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows)
-- [Alfred workflows](https://github.com/zenorocha/alfred)
-- [Alfred workflows for Developers](https://github.com/willfarrell/alfred)
+- [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows#readme)
+- [Alfred workflows](https://github.com/zenorocha/alfred#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
