@@ -91,6 +91,7 @@
 
 ## Utility
 - [Show network info](https://github.com/jeppestaerk/alfred-show-network-info) - Get your network information.
+- [Pinboard search](https://github.com/spamwax/alfred-pinboard-rs) - Manage, post and preview your bookmarks on [Pinboard](https://pinboard.in/).
 - [Google URL Shortener](https://github.com/digiltd/alfred-google-url-shortener) - Use Google's URL Shortener API to quickly shorten long URLs.
 - [Rsync Folders](https://github.com/Acidham/rsync-folders) - Keep a set of folders in sync with their target folders via rsync.
 - [Emoji](https://github.com/jsumners/alfred-emoji) - Search and copy emojis.
