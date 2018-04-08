@@ -134,7 +134,7 @@
 - [Telegram](https://github.com/Jamesits/alfred-workflow-telegram)  - Search for stickers and quickly operate Telegram.
 
 ## Translation
-- [Google Translate](https://www.alfredforum.com/topic/4549-google-translate-languages-configurable/) - Translate text using Google Translate (over 80+ languages to choose from).
+- [Polyglot](https://github.com/nikersify/alfred-polyglot) - Translate text using Google Translate.
 - [Linguee](https://github.com/alexander-heimbuch/linguee-alfred-workflow) - Translate German-English and vice versa with [linguee.de](https://www.linguee.de)
 - [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate) - Quickly translate from Russion > English and vice versa.
 - [Translate ger-en en-ger + 8 others](https://github.com/dennis-tra/alfred-dict.cc-workflow) - Quickly translate from German > English and vice versa + 8 other languages.
