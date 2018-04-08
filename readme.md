@@ -135,6 +135,7 @@
 
 ## Translation
 - [Polyglot](https://github.com/nikersify/alfred-polyglot) - Translate text using Google Translate.
+- [Google Translate](http://www.packal.org/workflow/translate) - Utilize any of Google Translate's languages and see results for multiple languages.
 - [Linguee](https://github.com/alexander-heimbuch/linguee-alfred-workflow) - Translate German-English and vice versa with [linguee.de](https://www.linguee.de)
 - [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate) - Quickly translate from Russion > English and vice versa.
 - [Translate ger-en en-ger + 8 others](https://github.com/dennis-tra/alfred-dict.cc-workflow) - Quickly translate from German > English and vice versa + 8 other languages.
