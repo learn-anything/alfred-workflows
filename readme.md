@@ -22,7 +22,7 @@
 ## Productivity
 - [Searchio](https://github.com/deanishe/alfred-searchio) - Auto-suggest search results from multiple search engines and languages.
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web.
-- [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) - Search through currently active app's menu bar actions quickly.
+- [Fast Menu Bar Search](https://github.com/BenziAhamed/Menu-Bar-Search/raw/master/Menu%20Bar%20Search.alfredworkflow) - Search through currently active app's menu bar actions quickly.
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Search through your Safari history, bookmarks, reading list.
 - [Toggl](https://github.com/jason0x43/alfred-toggl) - Operate [Toggl](https://toggl.com).
 - [Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
