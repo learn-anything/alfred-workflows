@@ -45,7 +45,7 @@
 - [Alfred Triggers](https://github.com/pochemuto/alfred-help-workflow) - Search through Alfred workflow triggers.
 
 ## Developer
-- [Httpstat](https://github.com/leozhang2018/alfred-httpstat) -  Httpstat visualizes.
+- [Httpstat](https://github.com/leozhang2018/alfred-httpstat) - Httpstat visualizes.
 - [Secure Shell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
 - [iTerm Window/Tab switch](https://github.com/isometry/alfred-tty) - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
 - [GitHub Repo Search](https://github.com/anoff/alfred-github) - Find projects on GitHub.
