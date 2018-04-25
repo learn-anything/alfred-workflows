@@ -51,6 +51,7 @@
 - [GitHub Repo Search](https://github.com/anoff/alfred-github) - Find projects on GitHub.
 - [Npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [Repos](https://github.com/deanishe/alfred-repos) - Browse, search and open Git repositories.
+- [Transmit](https://github.com/bigluck/alfred2-transmit) - Open Transmit Bookmarks.
 - [GitHub Jump](https://github.com/lox/alfred-github-jump) - Search your and your GitHub starred repositories.
 - [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
 - [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow) - Search [StackOverflow.com](https://stackoveflow.com).
