@@ -4,6 +4,7 @@
 ##### Contents
 - [Productivity](#productivity)
 - [Developer](#developer)
+- [Documentation](#documentation)
 - [Writing](#writing)
 - [macOS](#macos)
 - [Web](#web)
@@ -67,15 +68,18 @@
 - [Network Tools](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands.
 - [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) - Search [can Iuse](https://caniuse.com) website.
 - [Pipe](https://github.com/isometry/alfred-pipe) - Easy transformation of the current contents of the clipboard by piping through arbitrary shell one-liners.
-- [MDN search](https://github.com/klaascuvelier/alfred-mdn) - Search MDN documentation.
 - [TLDR](https://github.com/cs1707/tldr-alfred) - Search [TLDR](https://github.com/tldr-pages/tldr) pages
 - [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Search AWS console Services.
 - [HTTP Status Codes](https://github.com/ilstar/http_status_code) - Check out HTTP status code quickly.
-- [D2](https://github.com/nire0510/d2) - Quick access to popular libraries, framewoks & tools online developer documentation.
-- [Vagrant Up](https://github.com/m1keil/alfred-vagrant-workflow) - Control Vagrant.
 - [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell's variables.
 - [Git Ignore Templates](https://github.com/importre/alfred-gi) - Find `*.gitignore files`.
 - [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search/Open Tower git repositories.
+
+## Documentation
+- [MDN search](https://github.com/klaascuvelier/alfred-mdn) - Search MDN documentation.
+- [D2](https://github.com/nire0510/d2) - Quick access to popular libraries, framewoks & tools online developer documentation.
+- [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native documentation and community links.
+- [Elasticsearch Documentation](https://github.com/spinscale/alfred-workflow-elastic-docs) - Search Elasticsearch documentation.
 
 ## Writing
 - [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
@@ -117,6 +121,7 @@
 - [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search) - Quickly search through all Unicode symbols.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
 - [Hide Desktop](http://www.packal.org/workflow/hide-desktop) - Hide and Unhide Desktop.
+- [TimeZones](http://geekzone.philosophicalzombie.net/post/45823505821/alfred-workflow-timezones-a-customizable-world) -  Displays a customised world clock.
 - [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) - Play and manage local audiovisual content and streams.
 - [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search) - Make Google image searches on localfiles.
 - [Network Locations](https://github.com/deanishe/alfred-network-location) - List, filter and activate network locations.
@@ -124,6 +129,7 @@
 - [Syntax highlight code](https://github.com/importre/alfred-hl) - Highlight code in the clipboard using [highlight.js](https://highlightjs.org/)
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate fake test data.
 - [RunCommand](https://github.com/vitorgalvao/alfred-workflows/tree/master/RunCommand) - Run shell commands on selected files/directories.
+- [Shhhhh!](https://github.com/skotzko/shhhhh) - Close all open system alerts (iCal, etc) without touching the mouse.
 - [Flush](https://github.com/joshtronic/alfred-workflow-flush) - Flush DNS/Memcached.
 - [Lorem Ipsum](https://github.com/tillkruss/alfred-lorem-ipsum) - Create ultra-fast Lorem Ipsum text.
 - [Monitor Resolutions](https://github.com/taylorludwig/Resolutions-Alfred) - Change resolutions on primary monitor.
