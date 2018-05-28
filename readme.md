@@ -14,6 +14,7 @@
 - [Education](#education)
 - [Music](#music)
 - [Fun](#fun)
+- [Remote](#remote)
 - [Collections of Workflows](#collections-of-workflows)
 - [Libraries to build workflows](#libraries-to-build-workflows)
 - [Related](#related)
@@ -22,7 +23,7 @@
 ## Productivity
 - [Searchio](https://github.com/deanishe/alfred-searchio) - Auto-suggest search results from multiple search engines and languages.
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web.
-- [Fast Menu Bar Search](https://github.com/BenziAhamed/Menu-Bar-Search/raw/master/Menu%20Bar%20Search.alfredworkflow) - Search through currently active app's menu bar actions quickly.
+- [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) - Search through currently active app's menu bar actions quickly.
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Search through your Safari history, bookmarks, reading list.
 - [Toggl](https://github.com/jason0x43/alfred-toggl) - Operate [Toggl](https://toggl.com).
 - [Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
@@ -52,6 +53,7 @@
 - [Npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [Repos](https://github.com/deanishe/alfred-repos) - Browse, search and open Git repositories.
 - [Transmit](https://github.com/bigluck/alfred2-transmit) - Open Transmit Bookmarks.
+- [DNS Lookups](https://github.com/phallstrom/AlfredDig) - Perform DNS lookups using dig and optionally copy a specific result to the clipboard.
 - [GitHub Jump](https://github.com/lox/alfred-github-jump) - Search your and your GitHub starred repositories.
 - [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
 - [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow) - Search [StackOverflow.com](https://stackoveflow.com).
@@ -62,7 +64,9 @@
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Quick package/plugin/component (repo) lookup for your favourite package managers.
 - [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) - Fully featured workflow to inteact with GitHub.
 - [Devdocs](https://github.com/yannickglt/alfred-devdocs) - Search through [devdocs.io](http://devdocs.io/)
+- [Network Tools](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands.
 - [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) - Search [can Iuse](https://caniuse.com) website.
+- [Pipe](https://github.com/isometry/alfred-pipe) - Easy transformation of the current contents of the clipboard by piping through arbitrary shell one-liners.
 - [MDN search](https://github.com/klaascuvelier/alfred-mdn) - Search MDN documentation.
 - [TLDR](https://github.com/cs1707/tldr-alfred) - Search [TLDR](https://github.com/tldr-pages/tldr) pages
 - [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Search AWS console Services.
@@ -75,7 +79,7 @@
 
 ## Writing
 - [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
-- [Synart](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
+- [SynArt](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
 - [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow) - Find LaTeX commands for symbols.
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
 
@@ -90,6 +94,7 @@
 ## Design
 - [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 - [Material Design Icons](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
+- [Alfred](https://github.com/TylerEich/Alfred-Extras)
 
 ## Utility
 - [Show network info](https://github.com/jeppestaerk/alfred-show-network-info) - Get your network information.
@@ -98,38 +103,55 @@
 - [Rsync Folders](https://github.com/Acidham/rsync-folders) - Keep a set of folders in sync with their target folders via rsync.
 - [Emoji](https://github.com/jsumners/alfred-emoji) - Search and copy emojis.
 - [Upload Files](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/) - Quickly upload local files to share with [transfer.sh](https://transfer.sh).
-- [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) - Incrementally search for [Font Awesome](http://fontawesome.io/icons/) icons.
+- [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
+- [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
 - [Layout](https://github.com/untoldwind/alfred2-layout) - Powerful window manager with many options.
 - [Process Control](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl) - Search through currently active processes and kill ones that are misbehaving quickly.
+- [Toggle Hidden Files](http://www.packal.org/workflow/toggle-hidden-files) - Show and hide hidden system files in Finder with one click.
+- [Folder2ISO](https://github.com/josefglatz/folder2iso-alfredworkflow) - Makes an image file for each selected folder in OS X Finder.
 - [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords.
+- [Number System Converter](https://github.com/obstschale/NSC) - Convert numbers into other number systems.
 - [Currency Convert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) - Convert currency conveniently.
+- [Haskell Text Converter](http://www.packal.org/workflow/haskell-text-converter) - Converts text to different type and does line numbering	.
 - [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search) - Quickly search through all Unicode symbols.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
+- [Hide Desktop](http://www.packal.org/workflow/hide-desktop) - Hide and Unhide Desktop.
 - [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) - Play and manage local audiovisual content and streams.
 - [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search) - Make Google image searches on localfiles.
 - [Network Locations](https://github.com/deanishe/alfred-network-location) - List, filter and activate network locations.
+- [Mac App Store Search](http://www.packal.org/workflow/mac-app-store-search) - Search the Mac App Store.
 - [Syntax highlight code](https://github.com/importre/alfred-hl) - Highlight code in the clipboard using [highlight.js](https://highlightjs.org/)
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate fake test data.
+- [RunCommand](https://github.com/vitorgalvao/alfred-workflows/tree/master/RunCommand) - Run shell commands on selected files/directories.
+- [Flush](https://github.com/joshtronic/alfred-workflow-flush) - Flush DNS/Memcached.
 - [Lorem Ipsum](https://github.com/tillkruss/alfred-lorem-ipsum) - Create ultra-fast Lorem Ipsum text.
 - [Monitor Resolutions](https://github.com/taylorludwig/Resolutions-Alfred) - Change resolutions on primary monitor.
 - [Date calculator](https://github.com/LeEnno/alfred-date-calculator) - Display or calculate with current date and time.
-- [Image Optimisation](https://github.com/ramiroaraujo/alfred-image-optim-workflow) - Optimise images to decrease size with [image_optim](https://github.com/toy/image_optim) library.
 - [Tidy](https://github.com/importre/alfred-tidy) - Beautify JSON/XML in clipboard.
 - [Airport Searching](https://github.com/jeeftor/alfredAirports) - Search for Airports from the [Our Airports](http://ourairports.com/data/) data set.
 - [QR code creator](https://github.com/wensonsmith/QRcodeCreator) - Create QR code from tex.
 - [Display calendar](https://github.com/owenwater/alfred-cal) - Displays a monthly calendar.
-- [Various screenshots](https://github.com/vookimedlo/alfred-various-screenshots) - Taking various screenshots.
+- [Various Screenshots](https://github.com/vookimedlo/alfred-various-screenshots) - Taking various screenshots.
 - [Top Process](https://github.com/zhaocai/alfred2-top-workflow) - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
 - [File Creator](https://github.com/SteliosHa/Alfred_File_Creator) - Create files of certain tpes quickly.
 - [Viscosity](https://github.com/deanishe/alfred-viscosity) - Manage Viscosity VPN connections.
 - [Speak](https://github.com/mklement0/speak.awf) - Use OS X's TTS (text-to-speech) feature to speak text aloud.
 - [Crypto Tracker](https://github.com/rhlsthrm/alfred-crypto-tracker) - Quickly check cryptocurrency prices.
 - [Screensharing](https://github.com/pstadler/alfred-screensharing) - Hosts with Screen Sharing enabled will be automatically discovered.
+- [Battery](https://github.com/BenziAhamed/alfred-battery) - Display battery levels of your Apple devices.
 - [Brightness](https://github.com/fniephaus/alfred-brightness) - Adjust your display's brightness.
 - [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory) - Quckly open any Alfred Workflow directory in your Terminal, Finder.
+- [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a sting into multiple variations.
 - [IMDB](https://github.com/KevinRamsunder/alfred3-imdb-workflow) - Search IMDB.
+- [Audio Device](https://github.com/mikegrb/Alfred-Audio-Device) - Audio Device Input / Output Switching
+- [Copy Safari Tabs](https://www.alfredforum.com/topic/9093-copy-safari-tabs/) - Copies all open Safari tabs as markdown list into clipboard.
 - [Units](http://units.dnsu.ch) - Do quick unit conversions.
+- [AirPlay Mirroring On/Off](https://www.alfredforum.com/topic/2292-airplay-mirroring-onoff/) - Activate and deactivate AirPlay Mirroring﻿﻿ from Mac to﻿ Apple TV.
+- [Get App Icon](https://www.alfredforum.com/topic/5874-16-get-app-icon/) - Extracts icon from selected app or downloads from App store/mac app store.
+- [UUID generator](http://www.packal.org/workflow/uuid-generator-0) - Generates random UUID and copy to clipboard or paste to most front app.
+- [Swich Bluetooth](https://github.com/uchida/alfred-switch-bluetooth) - Manage bluetooth device pairing.
+- [About This Mac](https://www.alfredforum.com/topic/2025-about-this-mac/) - Shows "about this mac" info.
 - [DownVid](https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/)  - Download videos from a [plethora of video sources](https://rg3.github.io/youtube-dl/supportedsites.html), even when embedded to other pages.
 
 ## Social
@@ -154,11 +176,17 @@
 ## Fun
 - [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday#readme) - Showcase how much time passed since your birthday.
 - [Figlet](https://github.com/importre/alfred-figlet) - Asciify plain text using [figlet.js](https://github.com/ptorjk/figlet.js)
+- [Dongers](https://github.com/frdmn/alfred-dongers) - List unicode emoticons easily.
 - [Minecraft Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook) - Search all Minecraft recipes.
+
+## Remote
+- [Keynote Remote](https://github.com/gabamnml/Keynote-remote)
+- [Unlock Your Mac](https://github.com/gabamnml/unlock-your-mac)
 
 ## Collections of Workflows
 - [Vitor's Workflows](https://github.com/vitorgalvao/alfred)
 - [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
+- [Pirafrank's workflows](https://github.com/pirafrank/alfred_workflows)
 
 ## Libraries to build workflows
 - [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
