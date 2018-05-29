@@ -165,6 +165,7 @@
 - [AirPlay Mirroring On/Off](https://www.alfredforum.com/topic/2292-airplay-mirroring-onoff/) - Activate and deactivate AirPlay Mirroring﻿﻿ from Mac to﻿ Apple TV.
 - [Get App Icon](https://www.alfredforum.com/topic/5874-16-get-app-icon/) - Extracts icon from selected app or downloads from App store/mac app store.
 - [UUID generator](http://www.packal.org/workflow/uuid-generator-0) - Generates random UUID and copy to clipboard or paste to most front app.
+- [Open Windows](https://github.com/jnewland/alfred-open-windows) - Switch between open windows of the currently focused application.
 - [Swich Bluetooth](https://github.com/uchida/alfred-switch-bluetooth) - Manage bluetooth device pairing.
 - [About This Mac](https://www.alfredforum.com/topic/2025-about-this-mac/) - Shows "about this mac" info.
 - [DownVid](https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/)  - Download videos from a [plethora of video sources](https://rg3.github.io/youtube-dl/supportedsites.html), even when embedded to other pages.
