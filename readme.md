@@ -14,6 +14,7 @@
 - [Translation](#translation)
 - [Education](#education)
 - [Music](#music)
+- [Travel](#travel)
 - [Fun](#fun)
 - [Remote](#remote)
 - [Collections of Workflows](#collections-of-workflows)
@@ -39,18 +40,18 @@
 - [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow) - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 - [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds inside Alfred.
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search [Learn Anything](https://learn-anything.xyz/) Website.
-- [Mailto](https://github.com/deanishe/alfred-mailto)  - Search through your contact list to send emails to one or multiple people.
+- [MailTo](https://github.com/deanishe/alfred-mailto)  - Search through your contact list to send emails to one or multiple people.
 - [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Browse through your Downloads directory or any other directory you specify.
-- [Eggtimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/) - Quickly set timers to notify you of things.
+- [EggTimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/) - Quickly set timers to notify you of things.
 - [Hastebin](https://github.com/jvandyke/alfred-hastebin) - Create [Hastebin](https://hastebin.com) snippet from selected text.
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through bookmarks, notes and various websites quickly.
 - [Alfred Triggers](https://github.com/pochemuto/alfred-help-workflow) - Search through Alfred workflow triggers.
 
 ## Developer
-- [Httpstat](https://github.com/leozhang2018/alfred-httpstat) - Httpstat visualizes.
-- [Secure Shell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
-- [iTerm Window/Tab switch](https://github.com/isometry/alfred-tty) - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
+- [Secure SHell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
+- [iTerm TTY switch](https://github.com/isometry/alfred-tty) - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
 - [GitHub Repo Search](https://github.com/anoff/alfred-github) - Find projects on GitHub.
+- [Httpstat](https://github.com/leozhang2018/alfred-httpstat) - Httpstat visualizes.
 - [Npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [Repos](https://github.com/deanishe/alfred-repos) - Browse, search and open Git repositories.
 - [Transmit](https://github.com/bigluck/alfred2-transmit) - Open Transmit Bookmarks.
@@ -62,17 +63,22 @@
 - [GitHub Gists](https://github.com/danielecook/gist-alfred) - Access starred Gists as snippets.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html)  - Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
 - [GitHub Gists](https://github.com/danielecook/gist-alfred) - Search through GitHub gists.
-- [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Quick package/plugin/component (repo) lookup for your favourite package managers.
+- [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Quick package/plugin/component (repo) lookup for your favourite package managers.
 - [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) - Fully featured workflow to inteact with GitHub.
 - [Devdocs](https://github.com/yannickglt/alfred-devdocs) - Search through [devdocs.io](http://devdocs.io/)
 - [Network Tools](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands.
 - [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) - Search [can Iuse](https://caniuse.com) website.
 - [Pipe](https://github.com/isometry/alfred-pipe) - Easy transformation of the current contents of the clipboard by piping through arbitrary shell one-liners.
 - [TLDR](https://github.com/cs1707/tldr-alfred) - Search [TLDR](https://github.com/tldr-pages/tldr) pages
+- [VM Control](https://github.com/fniephaus/alfred-vmcontrol) - Control your Parallels and Virtual Box virtual machines.
 - [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Search AWS console Services.
 - [HTTP Status Codes](https://github.com/ilstar/http_status_code) - Check out HTTP status code quickly.
 - [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell's variables.
 - [Git Ignore Templates](https://github.com/importre/alfred-gi) - Find `*.gitignore files`.
+- [Swift Evolution](https://github.com/attaswift/alfred-swift-evolution) - Look up Swift evolution proposals.
+- [Errnum](https://github.com/deanishe/alfred-errnum) - Search macOS errors.
+- [Travis](https://github.com/fniephaus/alfred-travis-ci) - Quickly check build statuses on [Travis](https://travis-ci.org).
+- [CircleCI](https://github.com/lorentzca/alfred-circleci-workflow/) - Show [CircleCI](https://circleci.com/) Build Statuses.
 - [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search/Open Tower git repositories.
 
 ## Documentation
@@ -105,7 +111,7 @@
 - [Pinboard search](https://github.com/spamwax/alfred-pinboard-rs) - Manage, post and preview your bookmarks on [Pinboard](https://pinboard.in/).
 - [Google URL Shortener](https://github.com/digiltd/alfred-google-url-shortener) - Use Google's URL Shortener API to quickly shorten long URLs.
 - [Rsync Folders](https://github.com/Acidham/rsync-folders) - Keep a set of folders in sync with their target folders via rsync.
-- [Emoji](https://github.com/jsumners/alfred-emoji) - Search and copy emojis.
+- [Emoji Search](https://github.com/jsumners/alfred-emoji) - Search and copy emojis.
 - [Upload Files](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/) - Quickly upload local files to share with [transfer.sh](https://transfer.sh).
 - [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
@@ -115,10 +121,12 @@
 - [Toggle Hidden Files](http://www.packal.org/workflow/toggle-hidden-files) - Show and hide hidden system files in Finder with one click.
 - [Folder2ISO](https://github.com/josefglatz/folder2iso-alfredworkflow) - Makes an image file for each selected folder in OS X Finder.
 - [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords.
+- [Google Calendar](https://github.com/deanishe/alfred-gcal) - View Google Calendar events.
 - [Number System Converter](https://github.com/obstschale/NSC) - Convert numbers into other number systems.
 - [Currency Convert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) - Convert currency conveniently.
 - [Haskell Text Converter](http://www.packal.org/workflow/haskell-text-converter) - Converts text to different type and does line numbering	.
 - [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search) - Quickly search through all Unicode symbols.
+- [Karabiner Elements Profile Switcher](https://github.com/awinecki/karabiner-elements-profile-switcher) - Handy profile switcher for Karabiner Elements.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
 - [Hide Desktop](http://www.packal.org/workflow/hide-desktop) - Hide and Unhide Desktop.
 - [TimeZones](http://geekzone.philosophicalzombie.net/post/45823505821/alfred-workflow-timezones-a-customizable-world) -  Displays a customised world clock.
@@ -126,7 +134,7 @@
 - [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search) - Make Google image searches on localfiles.
 - [Network Locations](https://github.com/deanishe/alfred-network-location) - List, filter and activate network locations.
 - [Mac App Store Search](http://www.packal.org/workflow/mac-app-store-search) - Search the Mac App Store.
-- [Syntax highlight code](https://github.com/importre/alfred-hl) - Highlight code in the clipboard using [highlight.js](https://highlightjs.org/)
+- [Syntax highlight code](https://github.com/importre/alfred-hl) - Highlight code in the clipboard using [highlight.js](https://highlightjs.org/).
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate fake test data.
 - [RunCommand](https://github.com/vitorgalvao/alfred-workflows/tree/master/RunCommand) - Run shell commands on selected files/directories.
 - [Shhhhh!](https://github.com/skotzko/shhhhh) - Close all open system alerts (iCal, etc) without touching the mouse.
@@ -152,6 +160,7 @@
 - [IMDB](https://github.com/KevinRamsunder/alfred3-imdb-workflow) - Search IMDB.
 - [Audio Device](https://github.com/mikegrb/Alfred-Audio-Device) - Audio Device Input / Output Switching
 - [Copy Safari Tabs](https://www.alfredforum.com/topic/9093-copy-safari-tabs/) - Copies all open Safari tabs as markdown list into clipboard.
+- [Convert](https://github.com/deanishe/alfred-convert) - Convert between different units.
 - [Units](http://units.dnsu.ch) - Do quick unit conversions.
 - [AirPlay Mirroring On/Off](https://www.alfredforum.com/topic/2292-airplay-mirroring-onoff/) - Activate and deactivate AirPlay Mirroring﻿﻿ from Mac to﻿ Apple TV.
 - [Get App Icon](https://www.alfredforum.com/topic/5874-16-get-app-icon/) - Extracts icon from selected app or downloads from App store/mac app store.
@@ -173,11 +182,17 @@
 ## Education
 - [Papers 3](https://github.com/wookayin/alfred-papers3-workflow) - Search Papers3 items.
 - [Goodreads](https://github.com/wesbaker/alfred-goodreads-workflow) - Search [Goodreads](https://www.goodreads.com) for books.
+- [LeetCode Search](https://github.com/TooSchoolForCool/LeetCode-Search) - Search algorithm problems in [LeetCode](https://leetcode.com/) with custom options.
+- [Wolfram Alpha Suggest](https://github.com/AkikoZ/alfred-web-search-suggest#wolframalpha) - Supports direct term suggestions.
 
 ## Music
 - [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) - Fully control Spotify.
 - [Play Song](https://github.com/caleb531/play-song) - Quickly and easily play music in iTunes.
 - [Discogs Explorer](https://github.com/dotson/Discogs-Explorer) - Explore the [Discogs.com](https://www.discogs.com) database.
+- [MPD](https://github.com/deanishe/alfred-mpd) - Control MPD music player.
+
+## Travel
+- [Airports](https://github.com/jeeftor/alfredAirports) - Search for Airports from the [Our Airports](http://ourairports.com/data/) data set.
 
 ## Fun
 - [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday#readme) - Showcase how much time passed since your birthday.
