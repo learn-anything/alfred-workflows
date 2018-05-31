@@ -104,7 +104,6 @@
 ## Design
 - [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 - [Material Design Icons](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
-- [Alfred](https://github.com/TylerEich/Alfred-Extras)
 
 ## Utility
 - [Show network info](https://github.com/jeppestaerk/alfred-show-network-info) - Get your network information.
