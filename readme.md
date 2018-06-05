@@ -45,7 +45,7 @@
 - [EggTimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/) - Quickly set timers to notify you of things.
 - [Hastebin](https://github.com/jvandyke/alfred-hastebin) - Create [Hastebin](https://hastebin.com) snippet from selected text.
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through bookmarks, notes and various websites quickly.
-- [Alfred Triggers](https://github.com/pochemuto/alfred-help-workflow) - Search through Alfred workflow triggers.
+- [Alfred Keywords](https://github.com/pochemuto/alfred-help-workflow) - Search through Alfred workflow keywords.
 
 ## Developer
 - [Secure SHell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
