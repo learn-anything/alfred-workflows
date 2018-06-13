@@ -28,7 +28,7 @@
 - [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) - Search through currently active app's menu bar actions quickly.
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Search through your Safari history, bookmarks, reading list.
 - [Toggl](https://github.com/jason0x43/alfred-toggl) - Operate [Toggl](https://toggl.com).
-- [Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
+- [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 - [Weather](https://github.com/jason0x43/alfred-weather) - Get latest weather for the day, week.
 - [Machine Clean](http://www.packal.org/workflow/machineclean) - Freeze keyboard input for some time to clean your keyboard.
 - [Notes](https://github.com/surrealroad/alfred-notes) - Create and search Apple Notes.
