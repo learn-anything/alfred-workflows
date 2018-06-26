@@ -37,6 +37,7 @@
 - [Drive](https://github.com/azai91/alfred-drive-workflow)- Search Google Drive.
 - [Pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list.
 - [Chrome History](https://github.com/manifestinteractive/alfred-workflows/tree/master/Chrome%20History) - Open Recent Google Chrome Webpages.
+- [Chrome Bookmarks](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium bookmarks search.
 - [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow) - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 - [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds inside Alfred.
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search [Learn Anything](https://learn-anything.xyz/) Website.
