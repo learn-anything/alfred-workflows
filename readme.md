@@ -81,6 +81,7 @@
 - [Travis](https://github.com/fniephaus/alfred-travis-ci) - Quickly check build statuses on [Travis](https://travis-ci.org).
 - [CircleCI](https://github.com/lorentzca/alfred-circleci-workflow/) - Show [CircleCI](https://circleci.com/) Build Statuses.
 - [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search/Open Tower git repositories.
+- [Docker](https://github.com/anmolnagpal/alfred-docker-workflows) - Search/Stop/Remove docker containers.
 
 ## Documentation
 - [MDN search](https://github.com/klaascuvelier/alfred-mdn) - Search MDN documentation.
