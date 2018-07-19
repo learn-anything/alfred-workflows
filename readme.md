@@ -206,7 +206,7 @@
 - [Unlock Your Mac](https://github.com/gabamnml/unlock-your-mac)
 
 ## Collections of Workflows
-- [Vitor's Workflows](https://github.com/vitorgalvao/alfred)
+- [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
 - [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
 - [Pirafrank's workflows](https://github.com/pirafrank/alfred_workflows)
 
