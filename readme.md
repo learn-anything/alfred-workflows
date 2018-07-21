@@ -31,9 +31,7 @@
 - [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 - [Weather](https://github.com/jason0x43/alfred-weather) - Get latest weather for the day, week.
 - [Machine Clean](http://www.packal.org/workflow/machineclean) - Freeze keyboard input for some time to clean your keyboard.
-- [Notes](https://github.com/surrealroad/alfred-notes) - Create and search Apple Notes.
-- [Uninstall with Clean my Mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3) - Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac).
-- [Notes](https://github.com/surrealroad/alfred-notes) - Make new notes or search notes from macOS Notes app quickly.
+- [Notes](https://github.com/surrealroad/alfred-notes) - Make new notes or search notes from macOS Notes app.
 - [Drive](https://github.com/azai91/alfred-drive-workflow)- Search Google Drive.
 - [Pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list.
 - [Chrome History](https://github.com/manifestinteractive/alfred-workflows/tree/master/Chrome%20History) - Open Recent Google Chrome Webpages.
@@ -43,6 +41,7 @@
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search [Learn Anything](https://learn-anything.xyz/) Website.
 - [MailTo](https://github.com/deanishe/alfred-mailto)  - Search through your contact list to send emails to one or multiple people.
 - [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Browse through your Downloads directory or any other directory you specify.
+- [Uninstall with Clean my Mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3) - Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac).
 - [EggTimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/) - Quickly set timers to notify you of things.
 - [Hastebin](https://github.com/jvandyke/alfred-hastebin) - Create [Hastebin](https://hastebin.com) snippet from selected text.
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through bookmarks, notes and various websites quickly.
