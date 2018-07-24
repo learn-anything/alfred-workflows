@@ -46,6 +46,7 @@
 - [Hastebin](https://github.com/jvandyke/alfred-hastebin) - Create [Hastebin](https://hastebin.com) snippet from selected text.
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through bookmarks, notes and various websites quickly.
 - [Alfred Keywords](https://github.com/pochemuto/alfred-help-workflow) - Search through Alfred workflow keywords.
+- [Timezone](https://github.com/lox/alfred-timezone) - Quickly search through cities and timezones to find out what time it is in different places.
 
 ## Developer
 - [Secure SHell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
