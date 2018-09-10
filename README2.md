@@ -1,5 +1,5 @@
 # Amazing [Alfred Workflows](https://www.alfredapp.com/workflows/) [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 ##### Contents
 - [Productivity](#productivity)
@@ -79,6 +79,7 @@
 - [Swift Evolution](https://github.com/attaswift/alfred-swift-evolution) - Look up Swift evolution proposals.
 - [Errnum](https://github.com/deanishe/alfred-errnum) - Search macOS errors.
 - [Travis](https://github.com/fniephaus/alfred-travis-ci) - Quickly check build statuses on [Travis](https://travis-ci.org).
+- [Open in Jetbrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' product.
 - [CircleCI](https://github.com/lorentzca/alfred-circleci-workflow/) - Show [CircleCI](https://circleci.com/) Build Statuses.
 - [SemaphoreCI](https://github.com/renuo/semaphoreci-workflow) - Show SemaphoreCI(https://semaphoreci.com/renuo) build statuses.
 - [Tower](https://github.com/cjlucas/tower-alfred-workflow) - Search/Open Tower git repositories.
@@ -221,7 +222,7 @@
 - [Alfred workflows](https://github.com/zenorocha/alfred#readme)
 
 ## Contributing
-See [contribution guidelines](contributing.md#readme).
+See [contribution guidelines](CONTRIBUTING.md#readme).
 
 ## GitHub badge
 If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
