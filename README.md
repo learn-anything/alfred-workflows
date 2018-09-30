@@ -66,7 +66,7 @@
 - [Secure SHell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
 - [SemaphoreCI](https://github.com/renuo/semaphoreci-workflow) - Show SemaphoreCI(https://semaphoreci.com/renuo) build statuses.
 - [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell's variables.
-- [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html)  - Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
+- [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html) - Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
 - [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow) - Search [StackOverflow.com](https://stackoveflow.com).
 - [Swift Evolution](https://github.com/attaswift/alfred-swift-evolution) - Look up Swift evolution proposals.
 - [TLDR](https://github.com/cs1707/tldr-alfred) - Search [TLDR](https://github.com/tldr-pages/tldr) pages
@@ -104,7 +104,7 @@
 
 ## MacOS
 
-- [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode)  - Quickly toggle menu bar dark mode.
+- [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) - Quickly toggle menu bar dark mode.
 
 ## Music
 
@@ -126,7 +126,7 @@
 - [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search [Learn Anything](https://learn-anything.xyz/) Website.
 - [Machine Clean](http://www.packal.org/workflow/machineclean) - Freeze keyboard input for some time to clean your keyboard.
-- [MailTo](https://github.com/deanishe/alfred-mailto)  - Search through your contact list to send emails to one or multiple people.
+- [MailTo](https://github.com/deanishe/alfred-mailto) - Search through your contact list to send emails to one or multiple people.
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through bookmarks, notes and various websites quickly.
 - [Notes](https://github.com/surrealroad/alfred-notes) - Make new notes or search notes from macOS Notes app.
 - [Pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list.
@@ -153,7 +153,7 @@
 
 ## Social
 
-- [Telegram](https://github.com/Jamesits/alfred-workflow-telegram)  - Search for stickers and quickly operate Telegram.
+- [Telegram](https://github.com/Jamesits/alfred-workflow-telegram) - Search for stickers and quickly operate Telegram.
 
 ## Translation
 
@@ -181,7 +181,7 @@
 - [Currency Convert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) - Convert currency conveniently.
 - [Date calculator](https://github.com/LeEnno/alfred-date-calculator) - Display or calculate with current date and time.
 - [Display calendar](https://github.com/owenwater/alfred-cal) - Displays a monthly calendar.
-- [DownVid](https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/)  - Download videos from a [plethora of video sources](https://rg3.github.io/youtube-dl/supportedsites.html), even when embedded to other pages.
+- [DownVid](https://www.alfredforum.com/topic/2045-downvid-%E2%80%94-download-videos-from-popular-sources/) - Download videos from a [plethora of video sources](https://rg3.github.io/youtube-dl/supportedsites.html), even when embedded to other pages.
 - [Emoji Search](https://github.com/jsumners/alfred-emoji) - Search and copy emojis.
 - [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a sting into multiple variations.
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate fake test data.
@@ -192,7 +192,7 @@
 - [Get App Icon](https://www.alfredforum.com/topic/5874-16-get-app-icon/) - Extracts icon from selected app or downloads from App store/mac app store.
 - [Google Calendar](https://github.com/deanishe/alfred-gcal) - View Google Calendar events.
 - [Google Similar Images](https://github.com/deanishe/alfred-similar-image-search) - Make Google image searches on localfiles.
-- [Haskell Text Converter](http://www.packal.org/workflow/haskell-text-converter) - Converts text to different type and does line numbering	.
+- [Haskell Text Converter](http://www.packal.org/workflow/haskell-text-converter) - Converts text to different type and does line numbering .
 - [Hide Desktop](http://www.packal.org/workflow/hide-desktop) - Hide and Unhide Desktop.
 - [IMDB](https://github.com/KevinRamsunder/alfred3-imdb-workflow) - Search IMDB.
 - [Karabiner Elements Profile Switcher](https://github.com/awinecki/karabiner-elements-profile-switcher) - Handy profile switcher for Karabiner Elements.
@@ -218,7 +218,7 @@
 - [Syntax highlight code](https://github.com/importre/alfred-hl) - Highlight code in the clipboard using [highlight.js](https://highlightjs.org/).
 - [Tidy](https://github.com/importre/alfred-tidy) - Beautify JSON/XML in clipboard.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
-- [TimeZones](http://geekzone.philosophicalzombie.net/post/45823505821/alfred-workflow-timezones-a-customizable-world) -  Displays a customised world clock.
+- [TimeZones](http://geekzone.philosophicalzombie.net/post/45823505821/alfred-workflow-timezones-a-customizable-world) - Displays a customised world clock.
 - [Toggle Hidden Files](http://www.packal.org/workflow/toggle-hidden-files) - Show and hide hidden system files in Finder with one click.
 - [Top Process](https://github.com/zhaocai/alfred2-top-workflow) - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
 - [UUID generator](http://www.packal.org/workflow/uuid-generator-0) - Generates random UUID and copy to clipboard or paste to most front app.
@@ -250,9 +250,9 @@
 
 If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
-[![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows#readme)
+[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)
 
-`[![Workflows](https://img.shields.io/badge/More%20Workflows-🎩-purple.svg)](https://github.com/learn-anything/alfred-workflows#readme)`
+`[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)`
 
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
