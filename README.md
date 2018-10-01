@@ -29,9 +29,9 @@
 
 ## Collections of Workflows
 
-- [Pirafrank's workflows](https://github.com/pirafrank/alfred_workflows)
 - [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
 - [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
+- [Pirafrank's workflows](https://github.com/pirafrank/alfred_workflows)
 
 ## Design
 
