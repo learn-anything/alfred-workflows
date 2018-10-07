@@ -57,6 +57,7 @@
 - [GitHub Repo Search](https://github.com/anoff/alfred-github) - Find projects on GitHub.
 - [HTTP Status Codes](https://github.com/ilstar/http_status_code) - Check out HTTP status code quickly.
 - [Httpstat](https://github.com/leozhang2018/alfred-httpstat) - Httpstat visualizes.
+- [iTerm TTY switch](https://github.com/isometry/alfred-tty) - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
 - [Network Tools](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands.
 - [Npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [Open in Jetbrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' product.
@@ -75,7 +76,6 @@
 - [Transmit](https://github.com/bigluck/alfred2-transmit) - Open Transmit Bookmarks.
 - [Travis](https://github.com/fniephaus/alfred-travis-ci) - Quickly check build statuses on [Travis](https://travis-ci.org).
 - [VM Control](https://github.com/fniephaus/alfred-vmcontrol) - Control your Parallels and Virtual Box virtual machines.
-- [iTerm TTY switch](https://github.com/isometry/alfred-tty) - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
 
 ## Documentation
 
@@ -251,9 +251,9 @@
 
 If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
-How it looks: [![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)
+[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)
 
-Code: `[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)`
+```[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)```
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
