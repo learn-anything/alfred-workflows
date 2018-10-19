@@ -42,7 +42,7 @@
 ## Developer
 
 - [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Search AWS console Services.
-- [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) - Search [can Iuse](https://caniuse.com) website.
+- [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) - Search [can I use](https://caniuse.com) website.
 - [CircleCI](https://github.com/lorentzca/alfred-circleci-workflow/) - Show [CircleCI](https://circleci.com/) Build Statuses.
 - [DNS Lookups](https://github.com/phallstrom/AlfredDig) - Perform DNS lookups using dig and optionally copy a specific result to the clipboard.
 - [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
