@@ -13,11 +13,9 @@
 - [Documentation](#documentation)
 - [Education](#education)
 - [Fun](#fun)
-- [Libraries to build workflows](#libraries-to-build-workflows)
 - [MacOS](#macos)
 - [Music](#music)
 - [Productivity](#productivity)
-- [Related](#related)
 - [Remote](#remote)
 - [Social](#social)
 - [Translation](#translation)
@@ -25,6 +23,8 @@
 - [Utility](#utility)
 - [Web](#web)
 - [Writing](#writing)
+- [Libraries to build workflows](#libraries-to-build-workflows)
+- [Related](#related)
 
 ---
 
@@ -98,11 +98,6 @@
 - [Figlet](https://github.com/importre/alfred-figlet) - Asciify plain text using [figlet.js](https://github.com/ptorjk/figlet.js)
 - [Minecraft Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook) - Search all Minecraft recipes.
 
-## Libraries to build workflows
-
-- [Alfred Workflow](https://github.com/deanishe/alfred-workflow) - Write workflows in Python.
-- [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
-
 ## MacOS
 
 - [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) - Quickly toggle menu bar dark mode.
@@ -140,12 +135,6 @@
 - [Uninstall with Clean my Mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3) - Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac).
 - [Weather](https://github.com/jason0x43/alfred-weather) - Get latest weather for the day, week.
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web.
-
-## Related
-
-- [Alfred workflows](https://github.com/zenorocha/alfred#readme)
-- [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows#readme)
-- [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
 
 ## Remote
 
@@ -244,6 +233,18 @@
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
 - [SynArt](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
 - [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
+
+## Libraries to build workflows
+
+- [Alfred Workflow](https://github.com/deanishe/alfred-workflow) - Write workflows in Python.
+- [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
+- [Alfred Footman](https://github.com/meck/alfred-footman) - Write workflows in Haskell
+
+## Related
+
+- [Alfred workflows](https://github.com/zenorocha/alfred#readme)
+- [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows#readme)
+- [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
 
 ---
 
