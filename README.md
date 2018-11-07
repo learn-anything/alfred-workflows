@@ -1,4 +1,4 @@
-# Alfred workflows
+# Alfred Workflows
 
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
@@ -7,12 +7,13 @@
 
 #### Contents
 
-- [Collections of Workflows](#collections-of-workflows)
+- [Collections](#collections)
 - [Design](#design)
 - [Developer](#developer)
 - [Documentation](#documentation)
 - [Education](#education)
 - [Fun](#fun)
+- [Libraries](#libraries)
 - [MacOS](#macos)
 - [Music](#music)
 - [Productivity](#productivity)
@@ -23,16 +24,15 @@
 - [Utility](#utility)
 - [Web](#web)
 - [Writing](#writing)
-- [Libraries to build workflows](#libraries-to-build-workflows)
 - [Related](#related)
 
 ---
 
-## Collections of Workflows
+## Collections
 
+- [Pirafrank's workflows](https://github.com/pirafrank/alfred_workflows)
 - [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
 - [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
-- [Pirafrank's workflows](https://github.com/pirafrank/alfred_workflows)
 
 ## Design
 
@@ -44,9 +44,9 @@
 - [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Search AWS console Services.
 - [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) - Search [can I use](https://caniuse.com) website.
 - [CircleCI](https://github.com/lorentzca/alfred-circleci-workflow/) - Show [CircleCI](https://circleci.com/) Build Statuses.
-- [DNS Lookups](https://github.com/phallstrom/AlfredDig) - Perform DNS lookups using dig and optionally copy a specific result to the clipboard.
 - [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) - Search though any [Dash](https://kapeli.com/dash) docset that you have downloaded.
 - [Devdocs](https://github.com/yannickglt/alfred-devdocs) - Search through [devdocs.io](http://devdocs.io/)
+- [DNS Lookups](https://github.com/phallstrom/AlfredDig) - Perform DNS lookups using dig and optionally copy a specific result to the clipboard.
 - [Docker](https://github.com/anmolnagpal/alfred-docker-workflows) - Search/Stop/Remove docker containers.
 - [Errnum](https://github.com/deanishe/alfred-errnum) - Search macOS errors.
 - [Git Ignore Templates](https://github.com/importre/alfred-gi) - Find `*.gitignore files`.
@@ -97,6 +97,12 @@
 - [Dongers](https://github.com/frdmn/alfred-dongers) - List unicode emoticons easily.
 - [Figlet](https://github.com/importre/alfred-figlet) - Asciify plain text using [figlet.js](https://github.com/ptorjk/figlet.js)
 - [Minecraft Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook) - Search all Minecraft recipes.
+
+## Libraries
+
+- [Alfred Footman](https://github.com/meck/alfred-footman) - Write workflows in Haskell
+- [Alfred Workflow](https://github.com/deanishe/alfred-workflow) - Write workflows in Python.
+- [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
 
 ## MacOS
 
@@ -211,10 +217,10 @@
 - [TimeZones](http://geekzone.philosophicalzombie.net/post/45823505821/alfred-workflow-timezones-a-customizable-world) - Displays a customised world clock.
 - [Toggle Hidden Files](http://www.packal.org/workflow/toggle-hidden-files) - Show and hide hidden system files in Finder with one click.
 - [Top Process](https://github.com/zhaocai/alfred2-top-workflow) - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
-- [UUID generator](http://www.packal.org/workflow/uuid-generator-0) - Generates random UUID and copy to clipboard or paste to most front app.
 - [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search) - Quickly search through all Unicode symbols.
 - [Units](http://units.dnsu.ch) - Do quick unit conversions.
 - [Upload Files](https://www.alfredforum.com/topic/5233-uploadfile-—-upload-files-and-directories-for-easy-sharing/) - Quickly upload local files to share with [transfer.sh](https://transfer.sh).
+- [UUID generator](http://www.packal.org/workflow/uuid-generator-0) - Generates random UUID and copy to clipboard or paste to most front app.
 - [Various Screenshots](https://github.com/vookimedlo/alfred-various-screenshots) - Taking various screenshots.
 - [Viscosity](https://github.com/deanishe/alfred-viscosity) - Manage Viscosity VPN connections.
 - [WatchList](https://github.com/vitorgalvao/alfred-workflows/tree/master/WatchList) - Play and manage local audiovisual content and streams.
@@ -233,12 +239,6 @@
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
 - [SynArt](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
 - [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
-
-## Libraries to build workflows
-
-- [Alfred Workflow](https://github.com/deanishe/alfred-workflow) - Write workflows in Python.
-- [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
-- [Alfred Footman](https://github.com/meck/alfred-footman) - Write workflows in Haskell
 
 ## Related
 
