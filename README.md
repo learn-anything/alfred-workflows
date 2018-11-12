@@ -107,6 +107,7 @@
 ## MacOS
 
 - [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) - Quickly toggle menu bar dark mode.
+- [macOS App Search](https://github.com/nkcmr/alfred-apple-app-search) - Search macOS app store.
 
 ## Music
 
