@@ -101,6 +101,7 @@
 
 - [Alfred Footman](https://github.com/meck/alfred-footman) - Write workflows in Haskell
 - [Alfred Workflow](https://github.com/deanishe/alfred-workflow) - Write workflows in Python.
+- [Alfy](https://github.com/sindresorhus/alfy) - Write workflows in Node.js.
 - [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
 
 ## MacOS
