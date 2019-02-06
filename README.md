@@ -56,6 +56,7 @@
 - [GitHub Repo Search](https://github.com/anoff/alfred-github) - Find projects on GitHub.
 - [HTTP Status Codes](https://github.com/ilstar/http_status_code) - Check out HTTP status code quickly.
 - [Httpstat](https://github.com/leozhang2018/alfred-httpstat) - Httpstat visualizes.
+- [Hoogle](https://github.com/meck/alfred-hoogle) - Search [Hoogle](https://hoogle.haskell.org/).
 - [iTerm TTY switch](https://github.com/isometry/alfred-tty) - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
 - [Network Tools](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands.
 - [Npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
