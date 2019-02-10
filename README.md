@@ -83,6 +83,7 @@
 - [Elasticsearch Documentation](https://github.com/spinscale/alfred-workflow-elastic-docs) - Search Elasticsearch documentation.
 - [MDN search](https://github.com/klaascuvelier/alfred-mdn) - Search MDN documentation.
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native documentation and community links.
+- [Flutter Documentation](https://github.com/Sh1d0w/alfred-flutter-docs) - Search Flutter documentation.
 
 ## Education
 
