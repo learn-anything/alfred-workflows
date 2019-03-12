@@ -184,7 +184,7 @@
 - [Emoji Search](https://github.com/jsumners/alfred-emoji) - Search and copy emojis.
 - [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a sting into multiple variations.
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate fake test data.
-- [File Creator](https://github.com/SteliosHa/Alfred_File_Creator) - Create files of certain tpes quickly.
+- [File Creator](https://github.com/SteliosHa/Alfred_File_Creator) - Create files of certain types quickly.
 - [Flush](https://github.com/joshtronic/alfred-workflow-flush) - Flush DNS/Memcached.
 - [Folder2ISO](https://github.com/josefglatz/folder2iso-alfredworkflow) - Makes an image file for each selected folder in OS X Finder.
 - [Font Awesome](https://github.com/ruedap/alfred-font-awesome-workflow) - Search for [Font Awesome](http://fontawesome.io/icons/) icons.
