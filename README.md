@@ -213,7 +213,7 @@
 - [Shhhhh!](https://github.com/skotzko/shhhhh) - Close all open system alerts (iCal, etc) without touching the mouse.
 - [Show network info](https://github.com/jeppestaerk/alfred-show-network-info) - Get your network information.
 - [Speak](https://github.com/mklement0/speak.awf) - Use OS X's TTS (text-to-speech) feature to speak text aloud.
-- [Swich Bluetooth](https://github.com/uchida/alfred-switch-bluetooth) - Manage bluetooth device pairing.
+- [Bluetooth](https://github.com/uchida/alfred-switch-bluetooth) - quickly connect / disconnect Bluetooth devices.
 - [Syntax highlight code](https://github.com/importre/alfred-hl) - Highlight code in the clipboard using [highlight.js](https://highlightjs.org/).
 - [Tidy](https://github.com/importre/alfred-tidy) - Beautify JSON/XML in clipboard.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
