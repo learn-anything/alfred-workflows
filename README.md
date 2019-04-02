@@ -76,6 +76,7 @@
 - [Transmit](https://github.com/bigluck/alfred2-transmit) - Open Transmit Bookmarks.
 - [Travis](https://github.com/fniephaus/alfred-travis-ci) - Quickly check build statuses on [Travis](https://travis-ci.org).
 - [VM Control](https://github.com/fniephaus/alfred-vmcontrol) - Control your Parallels and Virtual Box virtual machines.
+- [GCP shortcuts](https://github.com/jarlefosen/alfred-gcloud-shortcuts) - Shortcuts for opening Google Cloud Platform products in the browser.
 
 ## Documentation
 
