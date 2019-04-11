@@ -162,6 +162,7 @@
 - [Polyglot](https://github.com/nikersify/alfred-polyglot) - Translate text using Google Translate.
 - [Translate ger-en en-ger + 8 others](https://github.com/dennis-tra/alfred-dict.cc-workflow) - Quickly translate from German > English and vice versa + 8 other languages.
 - [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate) - Quickly translate from Russion > English and vice versa.
+- [Convert en-ko](https://github.com/738/alfred-inko) - Convert misspelled English characters into Korean letters (& vice versa)
 
 ## Travel
 
