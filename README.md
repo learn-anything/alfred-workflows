@@ -145,6 +145,7 @@
 - [Uninstall with Clean my Mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3) - Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac).
 - [Weather](https://github.com/jason0x43/alfred-weather) - Get latest weather for the day, week.
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web.
+- [Say-workflow](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/say-workflow) - Read out something swiftly, a good reference for pronunciation.
 
 ## Remote
 
