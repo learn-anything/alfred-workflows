@@ -109,7 +109,7 @@
 
 ## MacOS
 
-- [Dark Mode](https://github.com/sindresorhus/alfred-dark-mode) - Quickly toggle menu bar dark mode.
+- [DarkOrLight](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/DarkOrLight) - Change macOS theme to Dark/Light with one click.
 - [macOS App Search](https://github.com/nkcmr/alfred-apple-app-search) - Search macOS app store.
 
 ## Music
