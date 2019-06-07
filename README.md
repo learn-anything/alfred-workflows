@@ -24,6 +24,7 @@
 - [Utility](#utility)
 - [Web](#web)
 - [Writing](#writing)
+- [Meta](#meta)
 - [Related](#related)
 
 ---
@@ -121,7 +122,6 @@
 
 ## Productivity
 
-- [Alfred Keywords](https://github.com/pochemuto/alfred-help-workflow) - Search through Alfred workflow keywords.
 - [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds inside Alfred.
 - [Chrome Bookmarks](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium bookmarks search.
 - [Chrome History](https://github.com/manifestinteractive/alfred-workflows/tree/master/Chrome%20History) - Open Recent Google Chrome Webpages.
@@ -245,6 +245,11 @@
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
 - [SynArt](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
 - [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
+
+## Meta
+
+- [Search Alfred Workflows](https://github.com/Acidham/search-alfred-workflows) - Alfred Workflows help to search in Title, Keyword, Description of a workflow and open it in various actions.
+- [Alfred Keywords](https://github.com/pochemuto/alfred-help-workflow) - Search through Alfred workflow keywords.
 
 ## Related
 
