@@ -253,9 +253,10 @@
 
 ## Related
 
+- [Pacmax](https://pacmax.org/) - Explore & Share Great Alfred Packages.
+- [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
 - [Alfred workflows](https://github.com/zenorocha/alfred#readme)
 - [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows#readme)
-- [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
 
 ---
 
