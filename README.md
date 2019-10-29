@@ -3,8 +3,6 @@
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
----
-
 #### Contents
 
 - [Collections](#collections)
@@ -26,8 +24,6 @@
 - [Writing](#writing)
 - [Meta](#meta)
 - [Related](#related)
-
----
 
 ## Collections
 
@@ -257,8 +253,6 @@
 - [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
 - [Alfred workflows](https://github.com/zenorocha/alfred#readme)
 - [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows#readme)
-
----
 
 ## GitHub badge
 
