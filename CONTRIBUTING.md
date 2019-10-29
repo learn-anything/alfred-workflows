@@ -1,5 +1,7 @@
 # Contribution Guidelines
+
 Ensure your pull request adheres to the following guidelines:
+
 - Search included workflows before adding a new one, as yours may be a duplicate.
 - Use the following format: `[Workflow name](link) - Description.`
 - The workflow should be put into its appropriate category. Pick the one you think is closest if you are not sure.
@@ -12,4 +14,4 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - You can also add related links and repositories in the end.
 
-Thank you for [your suggestions](../../edit/master/README.md)! 💜
+Thank you for [your suggestions](../../edit/master/README.md)! ♥️
