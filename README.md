@@ -62,6 +62,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred) - Search through [Cocoapods](htts://cocoapods.org).
 - [Repos](https://github.com/deanishe/alfred-repos) - Browse, search and open Git repositories.
 - [Secure SHell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
+- [SSH iTerm](https://github.com/hanjm/alfred-ssh-iterm-workflow) - Query and open ssh host with iTerm badge.
 - [SemaphoreCI](https://github.com/renuo/semaphoreci-workflow) - Show SemaphoreCI(https://semaphoreci.com/renuo) build statuses.
 - [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell's variables.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html) - Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
