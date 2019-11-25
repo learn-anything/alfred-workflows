@@ -2,7 +2,7 @@
 
 _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
 
-#### Contents
+## Contents
 
 - [Collections](#collections)
 - [Design](#design)
@@ -23,18 +23,19 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Writing](#writing)
 - [Meta](#meta)
 - [Related](#related)
+- [GitHub badge](#github-badge)
 
-## Collections
+### Collections
 
 - [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
 - [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
 
-## Design
+### Design
 
 - [Flat UI Colors](https://github.com/mi-ca/alfredapp_flatuicolors_workflow) - Get flat color hexa codes from [flatuicolors.com](https://flatuicolors.com).
 - [Material Design Icons](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
 
-## Developer
+### Developer
 
 - [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Search AWS console Services.
 - [Can I use?](https://github.com/willfarrell/alfred-caniuse-workflow) - Search [can I use](https://caniuse.com) website.
@@ -62,7 +63,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred) - Search through [Cocoapods](htts://cocoapods.org).
 - [Repos](https://github.com/deanishe/alfred-repos) - Browse, search and open Git repositories.
 - [Secure SHell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
-- [SemaphoreCI](https://github.com/renuo/semaphoreci-workflow) - Show SemaphoreCI(https://semaphoreci.com/renuo) build statuses.
+- [SemaphoreCI](https://github.com/renuo/semaphoreci-workflow) - Show [SemaphoreCI](https://semaphoreci.com/renuo) build statuses.
 - [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell's variables.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html) - Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
 - [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow) - Search [StackOverflow.com](https://stackoveflow.com).
@@ -74,7 +75,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [VM Control](https://github.com/fniephaus/alfred-vmcontrol) - Control your Parallels and Virtual Box virtual machines.
 - [GCP shortcuts](https://github.com/jarlefosen/alfred-gcloud-shortcuts) - Shortcuts for opening Google Cloud Platform products in the browser.
 
-## Documentation
+### Documentation
 
 - [D2](https://github.com/nire0510/d2) - Quick access to popular libraries, framewoks & tools online developer documentation.
 - [Elasticsearch Documentation](https://github.com/spinscale/alfred-workflow-elastic-docs) - Search Elasticsearch documentation.
@@ -82,40 +83,40 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native documentation and community links.
 - [Flutter Documentation](https://github.com/Sh1d0w/alfred-flutter-docs) - Search Flutter documentation.
 
-## Education
+### Education
 
 - [Goodreads](https://github.com/wesbaker/alfred-goodreads-workflow) - Search [Goodreads](https://www.goodreads.com) for books.
 - [LeetCode Search](https://github.com/TooSchoolForCool/LeetCode-Search) - Search algorithm problems in [LeetCode](https://leetcode.com/) with custom options.
 - [Papers 3](https://github.com/wookayin/alfred-papers3-workflow) - Search Papers3 items.
 - [Wolfram Alpha Suggest](https://github.com/AkikoZ/alfred-web-search-suggest#wolframalpha) - Supports direct term suggestions.
 
-## Fun
+### Fun
 
 - [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday#readme) - Showcase how much time passed since your birthday.
 - [Dongers](https://github.com/frdmn/alfred-dongers) - List unicode emoticons easily.
 - [Figlet](https://github.com/importre/alfred-figlet) - Asciify plain text using [figlet.js](https://github.com/ptorjk/figlet.js)
 - [Minecraft Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook) - Search all Minecraft recipes.
 
-## Libraries
+### Libraries
 
 - [Alfred Footman](https://github.com/meck/alfred-footman) - Write workflows in Haskell
 - [Alfred Workflow](https://github.com/deanishe/alfred-workflow) - Write workflows in Python.
 - [Alfy](https://github.com/sindresorhus/alfy) - Write workflows in Node.js.
 - [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
 
-## MacOS
+### MacOS
 
 - [DarkOrLight](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/DarkOrLight) - Change macOS theme to Dark/Light with one click.
 - [macOS App Search](https://github.com/nkcmr/alfred-apple-app-search) - Search macOS app store.
 
-## Music
+### Music
 
 - [Discogs Explorer](https://github.com/dotson/Discogs-Explorer) - Explore the [Discogs.com](https://www.discogs.com) database.
 - [MPD](https://github.com/deanishe/alfred-mpd) - Control MPD music player.
 - [Play Song](https://github.com/caleb531/play-song) - Quickly and easily play music in iTunes.
 - [Spotify Mini Player](https://github.com/vdesabou/alfred-spotify-mini-player) - Fully control Spotify.
 
-## Productivity
+### Productivity
 
 - [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds inside Alfred.
 - [Chrome Bookmarks](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium bookmarks search.
@@ -142,16 +143,16 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web.
 - [Say-workflow](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/say-workflow) - Read out something swiftly, a good reference for pronunciation.
 
-## Remote
+### Remote
 
 - [Keynote Remote](https://github.com/gabamnml/Keynote-remote)
 - [Unlock Your Mac](https://github.com/gabamnml/unlock-your-mac)
 
-## Social
+### Social
 
 - [Telegram](https://github.com/Jamesits/alfred-workflow-telegram) - Search for stickers and quickly operate Telegram.
 
-## Translation
+### Translation
 
 - [Google Translate](http://www.packal.org/workflow/translate) - Utilize any of Google Translate's languages and see results for multiple languages.
 - [Linguee](https://github.com/alexander-heimbuch/linguee-alfred-workflow) - Translate German-English and vice versa with [linguee.de](https://www.linguee.de)
@@ -160,11 +161,11 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Translate ru-en en-ru](https://github.com/podgorniy/alfred-translate) - Quickly translate from Russion > English and vice versa.
 - [Convert en-ko](https://github.com/738/alfred-inko) - Convert misspelled English characters into Korean letters (& vice versa)
 
-## Travel
+### Travel
 
 - [Airports](https://github.com/jeeftor/alfredAirports) - Search for Airports from the [Our Airports](http://ourairports.com/data/) data set.
 
-## Utility
+### Utility
 
 - [About This Mac](https://www.alfredforum.com/topic/2025-about-this-mac/) - Shows "about this mac" info.
 - [AirPlay Mirroring On/Off](https://www.alfredforum.com/topic/2292-airplay-mirroring-onoff/) - Activate and deactivate AirPlay Mirroring﻿﻿ from Mac to﻿ Apple TV.
@@ -228,43 +229,40 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
 - [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory) - Quckly open any Alfred Workflow directory in your Terminal, Finder.
 
-## Web
+### Web
 
 - [HackerBoard](https://github.com/vitorgalvao/alfred-workflows/tree/master/HackerBoard) - Front page news from Hacker News and Pinboard.
 - [Product Hunt](https://github.com/loris/alfred-producthunt-workflow) - Get today's hunts from [Product Hunt](https://www.producthunt.com/).
 - [Reddit search](https://github.com/deanishe/alfred-reddit) - Find subreddits and browse hot posts from [Reddit](http://reddit.com).
 
-## Writing
+### Writing
 
 - [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow) - Find LaTeX commands for symbols.
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
 - [SynArt](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
 - [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
 
-## Meta
+### Meta
 
 - [Search Alfred Workflows](https://github.com/Acidham/search-alfred-workflows) - Alfred Workflows help to search in Title, Keyword, Description of a workflow and open it in various actions.
 - [Alfred Keywords](https://github.com/pochemuto/alfred-help-workflow) - Search through Alfred workflow keywords.
 
-## Related
+### Related
 
-- [Pacmax](https://pacmax.org/) - Explore & Share Great Alfred Packages.
-- [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
+- [Pacmax](https://pacmax.org/) - Explore & Share Great Alfred Packages
+- [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (unmaintained).
 - [Alfred workflows](https://github.com/zenorocha/alfred#readme)
 - [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows#readme)
 
-## GitHub badge
+### GitHub badge
 
 If you have made a workflow of your own and published it on GitHub, it would be awesome if you added a badge to your workflow that links to this list.
 
 [![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)
 
-```
-[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)
-```
+`[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)`
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-
