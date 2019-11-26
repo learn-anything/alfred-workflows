@@ -62,7 +62,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred) - Search through [Cocoapods](htts://cocoapods.org).
 - [Repos](https://github.com/deanishe/alfred-repos) - Browse, search and open Git repositories.
 - [Secure SHell](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections.
-- [SemaphoreCI](https://github.com/renuo/semaphoreci-workflow) - Show SemaphoreCI(https://semaphoreci.com/renuo) build statuses.
+- [SemaphoreCI](https://github.com/renuo/semaphoreci-workflow) - Show [SemaphoreCI](https://semaphoreci.com/renuo) build statuses.
 - [Shell Variables](https://github.com/hug33k/Alfred-ShellVariables) - Search your shell's variables.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/manual/mac/tips-and-tricks/alfred-integration.html) - Search through [SnippetsLab](https://www.renfei.org/snippets-lab/) app.
 - [Stack Overflow](https://github.com/deanishe/alfred-stackoverflow) - Search [StackOverflow.com](https://stackoveflow.com).
@@ -249,9 +249,9 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Related
 
 - [Pacmax](https://pacmax.org/) - Explore & Share Great Alfred Packages.
-- [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (not maintained).
-- [Alfred workflows](https://github.com/zenorocha/alfred#readme)
-- [Awesome workflows](https://github.com/derimagia/awesome-alfred-workflows#readme)
+- [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (unmaintained).
+- [Alfred Workflows](https://github.com/zenorocha/alfred-workflows#readme)
+- [Awesome Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme)
 
 ## GitHub badge
 
@@ -259,12 +259,9 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 
 [![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)
 
-```
-[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)
-```
+`[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)`
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-
