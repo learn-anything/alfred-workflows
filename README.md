@@ -23,7 +23,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Writing](#writing)
 - [Meta](#meta)
 - [Related](#related)
-- [GitHub badge](#github-badge)
 
 ## Collections
 
