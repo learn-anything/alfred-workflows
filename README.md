@@ -8,7 +8,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Design](#design)
 - [Developer](#developer)
 - [Documentation](#documentation)
-- [Education](#education)
+- [Learn](#learn)
 - [Fun](#fun)
 - [Libraries](#libraries)
 - [MacOS](#macos)
@@ -83,9 +83,9 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native documentation and community links.
 - [Flutter Documentation](https://github.com/Sh1d0w/alfred-flutter-docs) - Search Flutter documentation.
 
-## Education
+## Learn
 
-- [Goodreads](https://github.com/wesbaker/alfred-goodreads-workflow) - Search [Goodreads](https://www.goodreads.com) for books.
+- [Goodreads](https://github.com/deanishe/alfred-goodreads) - Search [Goodreads](https://www.goodreads.com) for books.
 - [LeetCode Search](https://github.com/TooSchoolForCool/LeetCode-Search) - Search algorithm problems in [LeetCode](https://leetcode.com/) with custom options.
 - [Papers 3](https://github.com/wookayin/alfred-papers3-workflow) - Search Papers3 items.
 - [Wolfram Alpha Suggest](https://github.com/AkikoZ/alfred-web-search-suggest#wolframalpha) - Supports direct term suggestions.
