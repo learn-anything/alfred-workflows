@@ -56,6 +56,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [iTerm TTY switch](https://github.com/isometry/alfred-tty) - Quickly switch between or close iTerm windows, tabs and panes based on title and tty name.
 - [Network Tools](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands.
 - [Npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
+- [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
 - [Open in Jetbrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' product.
 - [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Quick package/plugin/component (repo) lookup for your favourite package managers.
 - [Pipe](https://github.com/isometry/alfred-pipe) - Easy transformation of the current contents of the clipboard by piping through arbitrary shell one-liners.
@@ -240,8 +241,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Writing
 
 - [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow) - Find LaTeX commands for symbols.
-- [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
 - [SynArt](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
+- [Bear](https://github.com/bjrnt/alfred-bear) - Allows you to quickly search Bear notes using Alfred.
 - [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
 
 ## Meta
