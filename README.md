@@ -45,8 +45,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Docker](https://github.com/anmolnagpal/alfred-docker-workflows) - Search/Stop/Remove docker containers.
 - [Errnum](https://github.com/deanishe/alfred-errnum) - Search macOS errors.
 - [Git Ignore Templates](https://github.com/importre/alfred-gi) - Find `*.gitignore files`.
-- [GitHub Gists](https://github.com/danielecook/gist-alfred) - Access starred Gists as snippets.
-- [GitHub Gists](https://github.com/danielecook/gist-alfred) - Search through GitHub gists.
+- [GitHub Gists](https://github.com/danielecook/gist-alfred) - Search through GitHub gists, access starred Gists as snippets
 - [GitHub Integration](https://github.com/gharlan/alfred-github-workflow) - Fully featured workflow to inteact with GitHub.
 - [GitHub Jump](https://github.com/lox/alfred-github-jump) - Search your and your GitHub starred repositories.
 - [GitHub Repo Search](https://github.com/anoff/alfred-github) - Find projects on GitHub.
