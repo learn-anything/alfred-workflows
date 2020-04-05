@@ -196,6 +196,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Hide Desktop](http://www.packal.org/workflow/hide-desktop) - Hide and Unhide Desktop.
 - [IMDB](https://github.com/KevinRamsunder/alfred3-imdb-workflow) - Search IMDB.
 - [Karabiner Elements Profile Switcher](https://github.com/awinecki/karabiner-elements-profile-switcher) - Handy profile switcher for Karabiner Elements.
+- [KPass](https://github.com/Angoll/KPass) - KeePassXC Integration to retrieve passwords.
 - [Layout](https://github.com/untoldwind/alfred2-layout) - Powerful window manager with many options.
 - [Lorem Ipsum](https://github.com/tillkruss/alfred-lorem-ipsum) - Create ultra-fast Lorem Ipsum text.
 - [Mac App Store Search](http://www.packal.org/workflow/mac-app-store-search) - Search the Mac App Store.
