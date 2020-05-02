@@ -170,6 +170,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Utility
 
 - [About This Mac](https://www.alfredforum.com/topic/2025-about-this-mac/) - Shows "about this mac" info.
+- [Search Notes App](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
 - [AirPlay Mirroring On/Off](https://www.alfredforum.com/topic/2292-airplay-mirroring-onoff/) - Activate and deactivate AirPlay Mirroring﻿﻿ from Mac to﻿ Apple TV.
 - [Airport Searching](https://github.com/jeeftor/alfredAirports) - Search for Airports from the [Our Airports](http://ourairports.com/data/) data set.
 - [Audio Device](https://github.com/mikegrb/Alfred-Audio-Device) - Audio Device Input / Output Switching
@@ -215,7 +216,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Shhhhh!](https://github.com/skotzko/shhhhh) - Close all open system alerts (iCal, etc) without touching the mouse.
 - [Show network info](https://github.com/jeppestaerk/alfred-show-network-info) - Get your network information.
 - [Speak](https://github.com/mklement0/speak.awf) - Use OS X's TTS (text-to-speech) feature to speak text aloud.
-- [Bluetooth](https://github.com/uchida/alfred-switch-bluetooth) - quickly connect / disconnect Bluetooth devices.
+- [Bluetooth Controller](https://github.com/vegardinho/alfred_bluetooth_controller) - Manage bluetooth settings and connections.
+- [Bluetooth Switch](https://github.com/uchida/alfred-switch-bluetooth) - Quickly connect / disconnect Bluetooth devices.
 - [Syntax highlight code](https://github.com/importre/alfred-hl) - Highlight code in the clipboard using [highlight.js](https://highlightjs.org/).
 - [Tidy](https://github.com/importre/alfred-tidy) - Beautify JSON/XML in clipboard.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
