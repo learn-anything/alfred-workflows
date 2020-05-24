@@ -28,6 +28,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
 - [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
+- [Collection of Alfred workflows](https://github.com/msoedov/Alfred-collection#readme)
 
 ## Design
 
