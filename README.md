@@ -245,7 +245,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [LaTeX Symbols](https://github.com/wookayin/alfred-latex-symbols-workflow) - Find LaTeX commands for symbols.
 - [SynArt](https://github.com/vitorgalvao/alfred-workflows/tree/master/SynAnt) - Search for synonyms and antonms.
-- [Bear](https://github.com/bjrnt/alfred-bear) - Allows you to quickly search Bear notes using Alfred.
+- [Bear](https://github.com/drgrib/alfred-bear) - Streamlined note searching and creation for Bear using Alfred.
 - [Ulysses](https://github.com/robwalton/alfred-ulysses-workflow) - Search for sheets or groups from [Ulysses](https://ulyssesapp.com/).
 
 ## Meta
