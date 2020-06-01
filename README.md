@@ -127,6 +127,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [EggTimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/) - Quickly set timers to notify you of things.
 - [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) - Search through currently active app's menu bar actions quickly.
 - [Hastebin](https://github.com/jvandyke/alfred-hastebin) - Create [Hastebin](https://hastebin.com) snippet from selected text.
+– [Join Zoom Meeting](https://github.com/aurooba/alfred-workflow-zoom-meetings) - Join Zoom meetings easily without a new tab opening in your browswer.
 - [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search [Learn Anything](https://learn-anything.xyz/) Website.
 - [Machine Clean](http://www.packal.org/workflow/machineclean) - Freeze keyboard input for some time to clean your keyboard.
