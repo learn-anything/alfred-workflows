@@ -106,6 +106,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Alfy](https://github.com/sindresorhus/alfy) - Write workflows in Node.js.
 - [AwGo](https://github.com/deanishe/awgo) - Write workflows in Go.
 - [Alfred Rust](https://github.com/lilyball/alfred-rs)
+- [Alfred Rust 2](https://github.com/spamwax/alfred-workflow)
 
 ## MacOS
 
