@@ -75,6 +75,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [VM Control](https://github.com/fniephaus/alfred-vmcontrol) - Control your Parallels and Virtual Box virtual machines.
 - [GCP shortcuts](https://github.com/jarlefosen/alfred-gcloud-shortcuts) - Shortcuts for opening Google Cloud Platform products in the browser.
 - [Rustdoc](https://github.com/fanzeyi/alfred-rustdoc) - Uses rustdoc's search index to provide local search result.
+- [alfred-crates](https://github.com/FGRibreau/alfred-crates) - Workflow for searching Rust crates from Alfred.
 
 ## Documentation
 
