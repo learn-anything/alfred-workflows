@@ -203,9 +203,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [IMDB](https://github.com/KevinRamsunder/alfred3-imdb-workflow) - Search IMDB.
 - [Karabiner Elements Profile Switcher](https://github.com/awinecki/karabiner-elements-profile-switcher) - Handy profile switcher for Karabiner Elements.
 - [KPass](https://github.com/Angoll/KPass) - KeePassXC Integration to retrieve passwords.
-- [Layout](https://github.com/untoldwind/alfred2-layout) - Powerful window manager with many options.
+- [Layout](https://github.com/untoldwind/alfred2-layout) - Powerful window manager with many options (Looking for new owner/maintainer)
 - [Lorem Ipsum](https://github.com/tillkruss/alfred-lorem-ipsum) - Create ultra-fast Lorem Ipsum text.
 - [Mac App Store Search](http://www.packal.org/workflow/mac-app-store-search) - Search the Mac App Store.
+- [Mac Window Layout Tiles](https://github.com/jknight/MacWindowLayoutTiles) - Keyboard shortcuts to position and size windows
 - [Monitor Resolutions](https://github.com/taylorludwig/Resolutions-Alfred) - Change resolutions on primary monitor.
 - [Network Locations](https://github.com/deanishe/alfred-network-location) - List, filter and activate network locations.
 - [Number System Converter](https://github.com/obstschale/NSC) - Convert numbers into other number systems.
@@ -277,3 +278,4 @@ If you have made a workflow of your own and published it on GitHub, it would be 
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+
