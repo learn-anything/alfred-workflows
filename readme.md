@@ -147,6 +147,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web.
 - [Say-workflow](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/say-workflow) - Read out something swiftly, a good reference for pronunciation.
 - [iMessage 2FA](https://github.com/squatto/alfred-imessage-2fa) - Find two-factor authentication codes in your recent iMessage messages.
+- [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
 ## Remote
 
