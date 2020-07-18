@@ -180,6 +180,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Audio Device](https://github.com/mikegrb/Alfred-Audio-Device) - Audio Device Input / Output Switching
 - [Battery](https://github.com/BenziAhamed/alfred-battery) - Display battery levels of your Apple devices.
 - [Brightness](https://github.com/fniephaus/alfred-brightness) - Adjust your display's brightness.
+- [Cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Gets keyboard shortcuts for applications, websites, and tools...
 - [Convert](https://github.com/deanishe/alfred-convert) - Convert between different units.
 - [Copy Safari Tabs](https://www.alfredforum.com/topic/9093-copy-safari-tabs/) - Copies all open Safari tabs as markdown list into clipboard.
 - [Crypto Tracker](https://github.com/rhlsthrm/alfred-crypto-tracker) - Quickly check cryptocurrency prices.
