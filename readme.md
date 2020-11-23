@@ -148,6 +148,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Say-workflow](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/say-workflow) - Read out something swiftly, a good reference for pronunciation.
 - [iMessage 2FA](https://github.com/squatto/alfred-imessage-2fa) - Find two-factor authentication codes in your recent iMessage messages.
 - [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+- [Todoist](https://github.com/moranje/alfred-workflow-todoist) - Manage Todoist tasks with Alfred.
 
 ## Remote
 
@@ -240,6 +241,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots with a keyboard shortcut and upload them directly to [Imgur](https://imgur.com/).
 - [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory) - Quckly open any Alfred Workflow directory in your Terminal, Finder.
 - [Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow) - Alfred workflow to search Notion with instant results.
+- [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Enumerate and switch between windows on macOS.
 
 ## Web
 
