@@ -74,6 +74,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [GCP shortcuts](https://github.com/jarlefosen/alfred-gcloud-shortcuts) - Shortcuts for opening Google Cloud Platform products in the browser.
 - [Rustdoc](https://github.com/fanzeyi/alfred-rustdoc) - Uses rustdoc's search index to provide local search result.
 - [alfred-crates](https://github.com/FGRibreau/alfred-crates) - Workflow for searching Rust crates.
+- [String Operations](https://github.com/fatih-yavuz/alfred-string-operations) - Perform string manipulation to the clipboard content.
 
 ## Documentation
 
@@ -149,6 +150,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [iMessage 2FA](https://github.com/squatto/alfred-imessage-2fa) - Find two-factor authentication codes in your recent iMessage messages.
 - [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 - [Todoist](https://github.com/moranje/alfred-workflow-todoist) - Manage Todoist tasks with Alfred.
+- [Hue Timer](https://github.com/fatih-yavuz/alfred-timer-workflow) - Start a timer, which blinks the lights when the time is up.
 
 ## Remote
 
