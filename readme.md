@@ -204,6 +204,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Haskell Text Converter](http://www.packal.org/workflow/haskell-text-converter) - Converts text to different type and does line numbering .
 - [Hide Desktop](http://www.packal.org/workflow/hide-desktop) - Hide and Unhide Desktop.
 - [IMDB](https://github.com/KevinRamsunder/alfred3-imdb-workflow) - Search IMDB.
+- [JSON Beautifier In FeHelper](https://github.com/hanjm/alfred-json-beautifier-in-fehelper-workflow) - View clipboard/input JSON in FeHelper.
 - [Karabiner Elements Profile Switcher](https://github.com/awinecki/karabiner-elements-profile-switcher) - Handy profile switcher for Karabiner Elements.
 - [KPass](https://github.com/Angoll/KPass) - KeePassXC Integration to retrieve passwords.
 - [Layout](https://github.com/untoldwind/alfred2-layout) - Powerful window manager with many options (Looking for new owner/maintainer)
