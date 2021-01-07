@@ -270,6 +270,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Packal](http://www.packal.org/) - Repository of user submitted workflows and themes (unmaintained).
 - [Alfred Workflows](https://github.com/zenorocha/alfred-workflows)
 - [Awesome Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows)
+- [Awesome Alfred Workflows 2](https://github.com/alfred-workflows/awesome-alfred-workflows)
 
 ## GitHub badge
 
