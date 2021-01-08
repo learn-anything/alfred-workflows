@@ -135,7 +135,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Machine Clean](http://www.packal.org/workflow/machineclean) - Freeze keyboard input for some time to clean your keyboard.
 - [MailTo](https://github.com/deanishe/alfred-mailto) - Search through your contact list to send emails to one or multiple people.
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through bookmarks, notes and various websites quickly.
-- [Notes](https://github.com/surrealroad/alfred-notes) - Make new notes or search notes from macOS Notes app.
+- [Apple Notes](https://github.com/sballin/alfred-search-notes-app) - Make new notes or search notes from macOS Notes app.
 - [Pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list.
 - [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Browse through your Downloads directory or any other directory you specify.
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Search through your Safari history, bookmarks, reading list.
