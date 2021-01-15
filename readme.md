@@ -245,6 +245,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory) - Quckly open any Alfred Workflow directory in your Terminal, Finder.
 - [Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow) - Alfred workflow to search Notion with instant results.
 - [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Enumerate and switch between windows on macOS.
+- [Alfred ADB](https://github.com/xiaozhuai/alfred-adb) - Capture & record screen for android device via adb tools.
 
 ## Web
 
