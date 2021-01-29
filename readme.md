@@ -111,6 +111,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [DarkOrLight](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/DarkOrLight) - Change macOS theme to Dark/Light with one click.
 - [macOS App Search](https://github.com/nkcmr/alfred-apple-app-search) - Search macOS app store.
+- [NightShift](https://github.com/shmulvad/alfred-nightshift) - Quickly turn on/off Night Shift or set the warm strength to a custom value.
 
 ## Music
 
@@ -220,6 +221,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Process Control](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl) - Search through currently active processes and kill ones that are misbehaving quickly.
 - [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords.
 - [QR code creator](https://github.com/wensonsmith/QRcodeCreator) - Create QR code from tex.
+- [Roman Numerals](https://github.com/shmulvad/alfred-roman-numerals) - Quickly convert between roman numerals and arabic integers.
 - [Rsync Folders](https://github.com/Acidham/rsync-folders) - Keep a set of folders in sync with their target folders via rsync.
 - [RunCommand](https://github.com/vitorgalvao/alfred-workflows/tree/master/RunCommand) - Run shell commands on selected files/directories.
 - [Screensharing](https://github.com/pstadler/alfred-screensharing) - Hosts with Screen Sharing enabled will be automatically discovered.
@@ -232,6 +234,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Tidy](https://github.com/importre/alfred-tidy) - Beautify JSON/XML in clipboard.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
 - [TimeZones](http://geekzone.philosophicalzombie.net/post/45823505821/alfred-workflow-timezones-a-customizable-world) - Displays a customised world clock.
+- [TinyPNG](https://github.com/shmulvad/alfred-tinypng) - Compress PNG and JPG images using TinyPNG in Alfred.
 - [Toggle Hidden Files](http://www.packal.org/workflow/toggle-hidden-files) - Show and hide hidden system files in Finder with one click.
 - [Top Process](https://github.com/zhaocai/alfred2-top-workflow) - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
 - [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search) - Quickly search through all Unicode symbols.
