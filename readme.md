@@ -9,7 +9,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Learn](#learn)
 - [Fun](#fun)
 - [Libraries](#libraries)
-- [MacOS](#macos)
+- [macOS](#macos)
 - [Music](#music)
 - [Productivity](#productivity)
 - [Remote](#remote)
@@ -107,10 +107,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Alfred Rust](https://github.com/lilyball/alfred-rs)
 - [Alfred Rust 2](https://github.com/spamwax/alfred-workflow)
 
-## MacOS
+## macOS
 
 - [DarkOrLight](https://github.com/BaksiLi/AlfredWorkflows/tree/master/Index/DarkOrLight) - Change macOS theme to Dark/Light with one click.
 - [macOS App Search](https://github.com/nkcmr/alfred-apple-app-search) - Search macOS app store.
+- [NightShift](https://github.com/shmulvad/alfred-nightshift) - Quickly turn on/off Night Shift or set the warm strength to a custom value.
 
 ## Music
 
@@ -129,7 +130,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [EggTimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/) - Quickly set timers to notify you of things.
 - [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) - Search through currently active app's menu bar actions quickly.
 - [Hastebin](https://github.com/jvandyke/alfred-hastebin) - Create [Hastebin](https://hastebin.com) snippet from selected text.
-  – [Join Zoom Meeting](https://github.com/aurooba/alfred-workflow-zoom-meetings) - Join Zoom meetings easily without a new tab opening in your browswer.
+- [Join Zoom Meeting](https://github.com/aurooba/alfred-workflow-zoom-meetings) - Join Zoom meetings easily without a new tab opening in your browswer.
 - [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search [Learn Anything](https://learn-anything.xyz/) Website.
 - [Machine Clean](http://www.packal.org/workflow/machineclean) - Freeze keyboard input for some time to clean your keyboard.
@@ -220,6 +221,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Process Control](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl) - Search through currently active processes and kill ones that are misbehaving quickly.
 - [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords.
 - [QR code creator](https://github.com/wensonsmith/QRcodeCreator) - Create QR code from tex.
+- [Roman Numerals](https://github.com/shmulvad/alfred-roman-numerals) - Quickly convert between roman numerals and arabic integers.
 - [Rsync Folders](https://github.com/Acidham/rsync-folders) - Keep a set of folders in sync with their target folders via rsync.
 - [RunCommand](https://github.com/vitorgalvao/alfred-workflows/tree/master/RunCommand) - Run shell commands on selected files/directories.
 - [Screensharing](https://github.com/pstadler/alfred-screensharing) - Hosts with Screen Sharing enabled will be automatically discovered.
@@ -232,6 +234,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Tidy](https://github.com/importre/alfred-tidy) - Beautify JSON/XML in clipboard.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
 - [TimeZones](http://geekzone.philosophicalzombie.net/post/45823505821/alfred-workflow-timezones-a-customizable-world) - Displays a customised world clock.
+- [TinyPNG](https://github.com/shmulvad/alfred-tinypng) - Compress PNG and JPG images using TinyPNG in Alfred.
 - [Toggle Hidden Files](http://www.packal.org/workflow/toggle-hidden-files) - Show and hide hidden system files in Finder with one click.
 - [Top Process](https://github.com/zhaocai/alfred2-top-workflow) - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
 - [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search) - Quickly search through all Unicode symbols.
