@@ -75,6 +75,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Rustdoc](https://github.com/fanzeyi/alfred-rustdoc) - Uses rustdoc's search index to provide local search result.
 - [alfred-crates](https://github.com/FGRibreau/alfred-crates) - Workflow for searching Rust crates.
 - [String Operations](https://github.com/fatih-yavuz/alfred-string-operations) - Perform string manipulation to the clipboard content.
+- [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
 
 ## Documentation
 
@@ -130,19 +131,20 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [EggTimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/) - Quickly set timers to notify you of things.
 - [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) - Search through currently active app's menu bar actions quickly.
 - [Hastebin](https://github.com/jvandyke/alfred-hastebin) - Create [Hastebin](https://hastebin.com) snippet from selected text.
-- [Join Zoom Meeting](https://github.com/aurooba/alfred-workflow-zoom-meetings) - Join Zoom meetings easily without a new tab opening in your browswer.
+- [Join Zoom Meeting](https://github.com/aurooba/alfred-workflow-zoom-meetings) - Join Zoom meetings easily without a new tab opening in your browser.
 - [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Search through [Keyboard Maestro](https://www.keyboardmaestro.com/main/) macros.
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) - Search [Learn Anything](https://learn-anything.xyz/) Website.
 - [Machine Clean](http://www.packal.org/workflow/machineclean) - Freeze keyboard input for some time to clean your keyboard.
 - [MailTo](https://github.com/deanishe/alfred-mailto) - Search through your contact list to send emails to one or multiple people.
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search through bookmarks, notes and various websites quickly.
-- [Apple Notes](https://github.com/sballin/alfred-search-notes-app) - Make new notes or search notes from macOS Notes app.
+- [Apple Notes](https://github.com/surrealroad/alfred-notes) - Make new notes or search notes from macOS Notes app.
 - [Pocket](https://github.com/fniephaus/alfred-pocket) - Manage your Pocket list.
 - [Recent Downloads](https://github.com/ddjfreedom/recent-downloads-alfred-v2) - Browse through your Downloads directory or any other directory you specify.
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Search through your Safari history, bookmarks, reading list.
 - [Searchio](https://github.com/deanishe/alfred-searchio) - Auto-suggest search results from multiple search engines and languages.
 - [Taskpaper](https://github.com/robwalton/alfred-taskpaper-workflow) - Search and create tasks in [TaskPaper 3](https://www.taskpaper.com/).
 - [Timezone](https://github.com/lox/alfred-timezone) - Quickly search through cities and timezones to find out what time it is in different places.
+- [TinyPNG](https://github.com/shmulvad/alfred-tinypng) - Compress PNG and JPG images using TinyPNG in Alfred.
 - [Toggl](https://github.com/jason0x43/alfred-toggl) - Operate [Toggl](https://toggl.com).
 - [Uninstall with Clean my Mac 3](http://www.packal.org/workflow/uninstall-cleanmymac-3) - Uninstall applications quickly using [Clean my Mac](https://macpaw.com/cleanmymac).
 - [Weather](https://github.com/jason0x43/alfred-weather) - Get latest weather for the day, week.
@@ -221,7 +223,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Process Control](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl) - Search through currently active processes and kill ones that are misbehaving quickly.
 - [Pwgen](https://github.com/deanishe/alfred-pwgen) - Generate secure passwords.
 - [QR code creator](https://github.com/wensonsmith/QRcodeCreator) - Create QR code from tex.
-- [Roman Numerals](https://github.com/shmulvad/alfred-roman-numerals) - Quickly convert between roman numerals and arabic integers.
 - [Rsync Folders](https://github.com/Acidham/rsync-folders) - Keep a set of folders in sync with their target folders via rsync.
 - [RunCommand](https://github.com/vitorgalvao/alfred-workflows/tree/master/RunCommand) - Run shell commands on selected files/directories.
 - [Screensharing](https://github.com/pstadler/alfred-screensharing) - Hosts with Screen Sharing enabled will be automatically discovered.
@@ -234,7 +235,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Tidy](https://github.com/importre/alfred-tidy) - Beautify JSON/XML in clipboard.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
 - [TimeZones](http://geekzone.philosophicalzombie.net/post/45823505821/alfred-workflow-timezones-a-customizable-world) - Displays a customised world clock.
-- [TinyPNG](https://github.com/shmulvad/alfred-tinypng) - Compress PNG and JPG images using TinyPNG in Alfred.
 - [Toggle Hidden Files](http://www.packal.org/workflow/toggle-hidden-files) - Show and hide hidden system files in Finder with one click.
 - [Top Process](https://github.com/zhaocai/alfred2-top-workflow) - Can find Top Processes Based Memory, CPU, and IO Usage and get a glance of system status.
 - [Unicode Symbols Search](https://github.com/bevesce/unicode-symbols-search) - Quickly search through all Unicode symbols.
@@ -248,7 +248,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Workflow Directory Search](https://github.com/jeeftor/AlfredWorkflowDirectory) - Quckly open any Alfred Workflow directory in your Terminal, Finder.
 - [Notion Search](https://github.com/wrjlewis/notion-search-alfred-workflow) - Alfred workflow to search Notion with instant results.
 - [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Enumerate and switch between windows on macOS.
-- [Alfred ADB](https://github.com/xiaozhuai/alfred-adb) - Capture & record screen for android device via adb tools.
+- [Video Conferences](https://www.deanishe.net/post/2020/05/workflow-video-conferences/) - Shows upcoming calendar events that are video conferences, and opens the links to them.
 
 ## Web
 
