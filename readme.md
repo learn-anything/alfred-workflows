@@ -182,10 +182,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [About This Mac](https://www.alfredforum.com/topic/2025-about-this-mac/) - Shows "about this mac" info.
 - [AbuseIPDB](https://github.com/slunak/abuseipdb-alfred-workflow) - Query IP address against [AbuseIPDB](https://www.abuseipdb.com/) database.
 - [Search Notes App](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
-- [AirPlay Mirroring On/Off](https://www.alfredforum.com/topic/2292-airplay-mirroring-onoff/) - Activate and deactivate AirPlay Mirroring﻿﻿ from Mac to﻿ Apple TV.
+- [AirPlay Mirroring On/Off](https://www.alfredforum.com/topic/2292-airplay-mirroring-onoff/) - Activate and deactivate AirPlay Mirroring from Mac to Apple TV.
 - [Airport Searching](https://github.com/jeeftor/alfredAirports) - Search for Airports from the [Our Airports](http://ourairports.com/data/) data set.
 - [Audio Device](https://github.com/mikegrb/Alfred-Audio-Device) - Audio Device Input / Output Switching
 - [Battery](https://github.com/BenziAhamed/alfred-battery) - Display battery levels of your Apple devices.
+- [Currency Conversion](https://github.com/jeppestaerk/alfred-currency-conversion) - See foreign exchange rates and currency conversion.
 - [Brightness](https://github.com/fniephaus/alfred-brightness) - Adjust your display's brightness.
 - [Cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Gets keyboard shortcuts for applications, websites, and tools...
 - [Convert](https://github.com/deanishe/alfred-convert) - Convert between different units.
