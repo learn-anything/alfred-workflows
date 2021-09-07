@@ -27,6 +27,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Small Workflows by Nikita](https://github.com/nikitavoloboev/small-workflows)
 - [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
 - [Collection of Alfred workflows](https://github.com/msoedov/Alfred-collection)
+- [Robb Knight's workflows](https://github.com/rknightuk/alfred-workflows)
 
 ## Design
 
