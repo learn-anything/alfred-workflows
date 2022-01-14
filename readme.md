@@ -28,6 +28,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Vitor's Workflows](https://github.com/vitorgalvao/alfred-workflows)
 - [Collection of Alfred workflows](https://github.com/msoedov/Alfred-collection)
 - [Robb Knight's workflows](https://github.com/rknightuk/alfred-workflows)
+- [Alfred Workflows (Rust)](https://github.com/rust-playground/alfred-workflows-rs)
 
 ## Design
 
