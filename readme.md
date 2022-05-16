@@ -156,6 +156,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 - [Todoist](https://github.com/moranje/alfred-workflow-todoist) - Manage Todoist tasks with Alfred.
 - [Hue Timer](https://github.com/fatih-yavuz/alfred-timer-workflow) - Start a timer, which blinks the lights when the time is up.
+- [Mailsy](https://github.com/BalliAsghar/mailsy-alfred) - Quickly generate a disposable email.
 
 ## Remote
 
