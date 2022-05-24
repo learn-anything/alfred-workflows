@@ -57,7 +57,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Network Tools](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands.
 - [Npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [React Launcher](https://github.com/winkerVSbecks/alfred-react-launcher) - Access the React & React Native Documentation.
-- [Open in Jetbrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' product.
+- [Open in Jetbrains](https://github.com/bchatard/alfred-jetbrains) - Open project with one of JetBrains' product.
 - [Package managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Quick package/plugin/component (repo) lookup for your favourite package managers.
 - [Pipe](https://github.com/isometry/alfred-pipe) - Easy transformation of the current contents of the clipboard by piping through arbitrary shell one-liners.
 - [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred) - Search through [Cocoapods](htts://cocoapods.org).
