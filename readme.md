@@ -98,8 +98,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Birthday](https://github.com/nikitavoloboev/small-workflows/tree/master/birthday) - Showcase how much time passed since your birthday.
 - [Dongers](https://github.com/frdmn/alfred-dongers) - List unicode emoticons easily.
-- [Figlet](https://github.com/importre/alfred-figlet) - Asciify plain text using [figlet.js](https://github.com/ptorjk/figlet.js)
-- [Minecraft Cookbook](https://github.com/TheRealGitCub/alfred-minecraft-cookbook) - Search all Minecraft recipes.
+- [Figlet](https://github.com/importre/alfred-figlet) - Asciify plain text using [figlet.js](https://github.com/patorjk/figlet.js)
 
 ## Libraries
 
