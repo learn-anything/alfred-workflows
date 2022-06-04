@@ -127,8 +127,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Awesome Lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds inside Alfred.
 - [Firefox Assistant](https://github.com/deanishe/alfred-firefox) - Search and control Firefox from Alfred.
-- [Chrome Bookmarks](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium bookmarks search.
-- [Chrome History](https://github.com/manifestinteractive/alfred-workflows/tree/master/Chrome%20History) - Open Recent Google Chrome Webpages.
+- [Chromium Assistant](https://github.com/jopemachine/alfred-chromium-workflow) - Search and control Chromium based browsers from Alfred.
 - [Drive](https://github.com/azai91/alfred-drive-workflow)- Search Google Drive.
 - [EggTimer](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/) - Quickly set timers to notify you of things.
 - [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow) - Search through currently active app's menu bar actions quickly.
