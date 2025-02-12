@@ -155,6 +155,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Todoist](https://github.com/moranje/alfred-workflow-todoist) - Manage Todoist tasks with Alfred.
 - [Hue Timer](https://github.com/fatih-yavuz/alfred-timer-workflow) - Start a timer, which blinks the lights when the time is up.
 - [Mailsy](https://github.com/BalliAsghar/mailsy-alfred) - Quickly generate a disposable email.
+- [Text to Calendar](https://github.com/vhpoet/alfred-text-to-calendar) - Create calendar events from unstructured text using an LLM.
 
 ## Remote
 
