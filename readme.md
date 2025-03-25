@@ -237,6 +237,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bluetooth Switch](https://github.com/uchida/alfred-switch-bluetooth) - Quickly connect / disconnect Bluetooth devices.
 - [Syntax highlight code](https://github.com/importre/alfred-hl) - Highlight code in the clipboard using [highlight.js](https://highlightjs.org/).
 - [Tidy](https://github.com/importre/alfred-tidy) - Beautify JSON/XML in clipboard.
+- [Time Calculator](https://github.com/shura-v/alfred-time-calculator) - Evaluate natural time expressions like “3 days ago” or “next Monday”. Supports math, working days, and date ranges.
 - [Time Machine](http://www.packal.org/workflow/time-machine) - Inspect and control Time Machine.
 - [TimeZones](http://geekzone.philosophicalzombie.net/post/45823505821/alfred-workflow-timezones-a-customizable-world) - Displays a customised world clock.
 - [Toggle Hidden Files](http://www.packal.org/workflow/toggle-hidden-files) - Show and hide hidden system files in Finder with one click.
