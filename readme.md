@@ -78,6 +78,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [alfred-crates](https://github.com/FGRibreau/alfred-crates) - Workflow for searching Rust crates.
 - [String Operations](https://github.com/fatih-yavuz/alfred-string-operations) - Perform string manipulation to the clipboard content.
 - [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
+- [Google Cloud Platform](https://github.com/dineshgowda24/alfred-gcp-workflow) - Search Google Cloud Platform services and resources.
 
 ## Documentation
 
